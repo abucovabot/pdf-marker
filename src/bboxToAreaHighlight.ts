@@ -1,7 +1,7 @@
 // Utility to convert a bounding box (bbox) to AreaHighlight shape for react-pdf-viewer highlight plugin
 // https://react-pdf-viewer.dev/plugins/highlight/
 
-import type { ChunkWithBBox } from "./src/highlights";
+import type { ResponseWithCitations } from "./highlights";
 
 export type BBox = {
     x1: number; // left
@@ -33,11 +33,11 @@ export function bboxToAreaHighlight(
     pageHeight: number
 ): AreaHighlight {
     const left = bbox.x1 / pageWidth;
-    const top = bbox.y1 / pageHeight;
+    const top =  (bbox.y1) / pageHeight;
     const width = (bbox.x2 - bbox.x1) / pageWidth;
-    const height = (bbox.y2 - bbox.y1) / pageHeight;
+    const height = ((bbox.y2 - bbox.y1) / pageHeight);
     return {
-        pageIndex,
+        pageIndex: pageIndex - 1,
         left,
         top,
         width,
@@ -45,27 +45,27 @@ export function bboxToAreaHighlight(
     };
 }
 
-export const convertChunksToNotes = (pdfSize: { width: number; height: number }, chunks: ChunkWithBBox[]) => {
+export const convertResponseToNotes = (pdfSize: { width: number; height: number }, responses: ResponseWithCitations[]) => {
         if (pdfSize) {
-            const convertedNotes = chunks.map((chunk, idx) => {
-                // chunk_bbox: [x1, y1, x2, y2] bbox coordinates
-                // AreaHighlight expects relative [left, top, width, height] and pageIndex
-                const area = bboxToAreaHighlight(
-                    {
-                        x1: chunk.chunk_bbox[0],
-                        y1: chunk.chunk_bbox[1],
-                        x2: chunk.chunk_bbox[2],
-                        y2: chunk.chunk_bbox[3],
-                    },
-                    chunk.page_num,
-                    pdfSize.width,
-                    pdfSize.height
-                );
+            const convertedNotes = responses.map((response, idx) => {
+                const areas = response?.citations?.map((citation) => {
+                    return bboxToAreaHighlight(
+                        {
+                            x1: citation.bbox.x1,
+                            y1: citation.bbox.y1,
+                            x2: citation.bbox.x2,
+                            y2: citation.bbox.y2,
+                        },
+                        citation.page_num,
+                        pdfSize.width,
+                        pdfSize.height
+                    );
+                });
                 return {
                     id: idx,
-                    content: chunk.reference_text.slice(0, 10) + '...',
-                    highlightAreas: [area],
-                    quote: chunk.reference_text.slice(0, 50) + '...',
+                    content: response.name,
+                    highlightAreas: areas || [],
+                    quote: response.response.slice(0, 50) + '...',
                 };
             });
             return convertedNotes;

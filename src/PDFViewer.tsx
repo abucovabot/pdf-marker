@@ -12,9 +12,9 @@ import {
 
 import '@react-pdf-viewer/core/lib/styles/index.css';
 import '@react-pdf-viewer/default-layout/lib/styles/index.css';
-import { chunks } from './highlights';
-import { convertChunksToNotes } from '../bboxToAreaHighlight';
-import { usePdfPageSize } from '../usePdfPageSize';
+import { responseWithCitations } from './highlights';
+import { convertResponseToNotes } from './bboxToAreaHighlight';
+import { usePdfPageSize } from './usePdfPageSize';
 
 interface Note {
     id: number;
@@ -56,7 +56,7 @@ const HighlightExample: React.FC<HighlightExampleProps> = ({ fileUrl }) => {
     
     React.useEffect(() => {
         if (pdfSize) {
-            const notes = convertChunksToNotes(pdfSize, chunks);
+            const notes = convertResponseToNotes(pdfSize, responseWithCitations);
             setNotes(notes);
         }
     }, [pdfSize]);

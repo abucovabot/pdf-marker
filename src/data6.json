@@ -1,0 +1,606 @@
+[
+  {
+    "name": "Asset Sale",
+    "response": "N/A",
+    "citations": []
+  },
+  {
+    "name": "Change of Control",
+    "response": "### Change of Control and Rights Affected\n\nA \"Change of Control\" is defined as occurring when any person or group, who did not previously control the Issuer, acquires more than 50% of the voting rights in the Issuer[1][2]. In the event of a Change of Control, the Issuer may choose to redeem or procure the purchase of all, but not some only, of the Notes on the Change of Control Call Date at their principal amount together with any accrued interest and any Arrears of Interest, including any Additional Interest Amounts[3][4].\n\n### Change of Control Period\n\nThe \"Change of Control Period\" begins on the earlier of the first public announcement by the Issuer of the occurrence of the relevant Change of Control or the date of the Potential Change of Control, and ends 90 calendar days after the first public announcement of the effective occurrence of such Change of Control[5][6].\n\n### Change of Control Event\n\nA \"Change of Control Event\" occurs if a Change of Control and a Change of Control Rating Downgrade happen within the Change of Control Period[3][4].\n\n### Change of Control Rating Downgrade\n\nA \"Change of Control Rating Downgrade\" is deemed to have occurred if, within the Change of Control Period, the rating assigned to the Issuer by any solicited Rating Agency is withdrawn, changed from an investment grade to a non-investment grade, or lowered by at least one full rating notch if it was already below investment grade[7][8].\n\n### Issuer's Obligations\n\nIn the event of a Change of Control Event, the Issuer must inform the Noteholders within 30 calendar days, specifying the circumstances and either the date of redemption or purchase of the Notes (the \"Change of Control Call Date\") or the Issuer's election not to redeem or procure purchase of the Notes. Redemption or purchase will occur not less than 10 nor more than 60 calendar days after the Change of Control Notice is given[9][10].\n\n### Interest Rate Adjustment\n\nIf the Issuer does not exercise its option to redeem the Notes following a Change of Control Event, the prevailing Interest Rate on the Notes will be increased by an additional margin of 5.00% per annum (the \"CoC Step-Up Margin\") effective from the earlier of the date of the Change of Control Notice or the 30th calendar day following the occurrence of a Change of Control Event, until the final redemption of the Notes[9][10].",
+    "citations": [
+      {
+        "id": "1",
+        "doc_id": "ABFS2xQrpJv3lhGwoHUpHRlyBxfRKkx",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 219.1199951171875,
+            "x2": 518.5599975585938,
+            "y1": 703.5599975585938,
+            "y2": 756.9600219726562
+          }
+        ],
+        "page_index": [30],
+        "chunk_order": [115],
+        "reference_text": "A “Change of Control” shall be deemed to have occurred at each time that any person or persons, acting alone or in concert, who did not previously control the Issuer, come(s) to legally or beneficially own or acquire(s) directly or indirectly such number of shares in the capital of the Issuer carrying more than 50 per cent. of the voting rights exercisable at a general meeting of the shareholders of the Issuer, it being understood that, for the purposes of this definition, “control” means holding (directly or indirectly through companies controlled by the person(s) concerned) more than 50 per cent. of the voting rights exercisable at a general meeting of the Issuer."
+      },
+      {
+        "id": "2",
+        "doc_id": "ABFS2xQrpJv3lhGwoHUpHRlyBxfRKkx",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 72.0,
+            "x2": 523.469970703125,
+            "y1": 230.16000366210938,
+            "y2": 361.55999755859375
+          }
+        ],
+        "page_index": [57],
+        "chunk_order": [244],
+        "reference_text": "A “Change of Control” shall be deemed to have occurred at each time that any person or persons, acting alone or in concert, who did not previously control the Issuer, come(s) to legally or beneficially own or acquire(s) directly or indirectly such number of shares in the capital of the Issuer carrying more than 50 per cent. of the voting rights exercisable at a general meeting of the shareholders of the Issuer, it being understood that, for the purposes of this definition, “control” means holding (directly or indirectly through companies controlled by the person(s) concerned) more than 50 per cent. of the voting rights exercisable at a general meeting of the Issuer. “Change of Control Period” means the period commencing on the date that is the earlier of:"
+      },
+      {
+        "id": "3",
+        "doc_id": "ABFS2xQrpJv3lhGwoHUpHRlyBxfRKkx",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 72.0,
+            "x2": 523.3499755859375,
+            "y1": 653.280029296875,
+            "y2": 761.8800048828125
+          }
+        ],
+        "page_index": [56],
+        "chunk_order": [242],
+        "reference_text": "In at any time while any Note remains outstanding, there occurs (i) a Change of Control (as defined below) and (ii) within the Change of Control Period (as defined below), a Change of Control Rating Downgrade (as defined below) occurs or has occurred as a result of such Change of Control or as the result of a Potential Change of Control (in either case a “Change of Control Event”), the Issuer may, at its option, redeem, or procure the purchase of, all, but not some only, of the Notes on the Change of Control Call Date (as defined below), at their principal amount together with any accrued interest and any Arrears of Interest (including any Additional Interest Amounts thereon)."
+      },
+      {
+        "id": "4",
+        "doc_id": "ABFS2xQrpJv3lhGwoHUpHRlyBxfRKkx",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 219.1199951171875,
+            "x2": 518.6300048828125,
+            "y1": 378.9599914550781,
+            "y2": 487.55999755859375
+          }
+        ],
+        "page_index": [30],
+        "chunk_order": [113],
+        "reference_text": "occurred as a result of such Change of Control or as the result of a Potential Change of Control (in either case a “Change of Control Event”), the Issuer may, at its option, redeem, or procure the purchase of the Notes in whole, but not in part, on the Change of Control Call Date (as defined below), at their principal amount together with any accrued interest and any Arrears of Interest (including any Additional Interest Amounts thereon)."
+      },
+      {
+        "id": "5",
+        "doc_id": "ABFS2xQrpJv3lhGwoHUpHRlyBxfRKkx",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 219.1199951171875,
+            "x2": 518.5700073242188,
+            "y1": 176.75999450683594,
+            "y2": 271.55999755859375
+          }
+        ],
+        "page_index": [31],
+        "chunk_order": [116],
+        "reference_text": "“Change of Control Period” means the period commencing on the date that is the earlier of: (i) the first public announcement by the Issuer of the occurrence of the relevant Change of Control; and (ii) the date of the Potential Change of Control, and ending on the date which is ninety (90) calendar days after the date of the first public announcement of the effective occurrence of such Change of Control."
+      },
+      {
+        "id": "5",
+        "doc_id": "ABFS2xQrpJv3lhGwoHUpHRlyBxfRKkx",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 219.1199951171875,
+            "x2": 518.6400146484375,
+            "y1": 496.32000732421875,
+            "y2": 694.6799926757812
+          }
+        ],
+        "page_index": [30],
+        "chunk_order": [114],
+        "reference_text": "In the event of a Change of Control Event, the Issuer will inform the Noteholders, no later than thirty (30) calendar days following the occurrence of a Change of Control Event in accordance with Condition 10 “Notices” of the Terms and Conditions (a “Change of Control Notice”) specifying the circumstances giving rise to it and either (i) the date on which redemption or purchase of the Notes (the “Change of Control Call Date”) will take place or, as the case may be, (ii) the Issuer’s election not to redeem, or procure purchase of, the Notes. If the Issuer elects to redeem, or to procure purchase of, the Notes, such redemption or purchase will take place not less than ten (10) nor more than sixty (60) calendar days after a Change of Control Notice is given."
+      },
+      {
+        "id": "5",
+        "doc_id": "ABFS2xQrpJv3lhGwoHUpHRlyBxfRKkx",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 219.1199951171875,
+            "x2": 518.5700073242188,
+            "y1": 176.75999450683594,
+            "y2": 271.55999755859375
+          }
+        ],
+        "page_index": [31],
+        "chunk_order": [116],
+        "reference_text": "A “Change of Control Period” means the period commencing on the date that is the earlier of: (i) the first public announcement by the Issuer of the occurrence of the relevant Change of Control; and (ii) the date of the Potential Change of Control, and ending on the date which is ninety (90) calendar days after the date of the first public announcement of the effective occurrence of such Change of Control."
+      },
+      {
+        "id": "6",
+        "doc_id": "ABFS2xQrpJv3lhGwoHUpHRlyBxfRKkx",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 72.0,
+            "x2": 523.3699951171875,
+            "y1": 363.3599853515625,
+            "y2": 416.760009765625
+          }
+        ],
+        "page_index": [57],
+        "chunk_order": [245],
+        "reference_text": "(i) the first public announcement by the Issuer of the occurrence of the relevant Change of Control; and (ii) the date of the Potential Change of Control, and ending on the date which is ninety (90) calendar days after the date of the first public announcement of the effective occurrence of such Change of Control."
+      },
+      {
+        "id": "7",
+        "doc_id": "ABFS2xQrpJv3lhGwoHUpHRlyBxfRKkx",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 72.0,
+            "x2": 523.489990234375,
+            "y1": 427.55999755859375,
+            "y2": 756.9600219726562
+          }
+        ],
+        "page_index": [57],
+        "chunk_order": [246],
+        "reference_text": "A “Change of Control Rating Downgrade” shall be deemed to have occurred in respect of a Change of Control or of a Potential Change of Control if within the Change of Control Period, the rating previously assigned to the Issuer by any Rating Agency (as defined below) solicited by the Issuer is (x) withdrawn or (y) changed from an investment grade rating (Baa3 or BBB-, or their equivalent for the time being, or better) to a non-investment grade rating (Ba1 or BB+, or their equivalent for the time being, or worse) or (z) if the rating previously assigned to the Issuer by any Rating Agency solicited by the Issuer was below an investment grade rating (as described above), lowered by at least one full rating notch (for example, from Ba1 to Ba2 or from BB+ to BB; or their respective equivalents), provided that (i) a Change of Control Rating Downgrade otherwise arising by virtue of a particular change in rating shall be deemed not to have occurred in respect of a particular Change of Control or Potential Change of Control, as the case may be, if the Rating Agency does not publicly announce or publicly confirm that the reduction was the result, in whole or in part, of the Change of Control or the Potential Change of Control, as the case may be, and (ii) any Change of Control Rating Downgrade must have been confirmed in a letter or other form of written communication sent to the Issuer and publicly disclosed. If the Issuer is rated by more than one Rating Agency and such rating has been solicited by the Issuer, the rating to be taken into account to determine whether a Change of Control Rating Downgrade has occurred shall be the lower rating assigned by any such Rating Agency. If the Issuer ceases at any time to have a rating assigned to it by at least one Rating Agency, the Issuer shall use its best endeavours to obtain a rating from a Rating Agency as soon as practicable. For the avoidance of doubt, if at the time of the occurrence of a Change of Control the Issuer is not rated by a Rating Agency, and no Rating Agency assigns within the Change of Control Period an investment grade rating to the Issuer, a Change of Control Event will be deemed to have occurred."
+      },
+      {
+        "id": "8",
+        "doc_id": "ABFS2xQrpJv3lhGwoHUpHRlyBxfRKkx",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 219.1199951171875,
+            "x2": 518.6400146484375,
+            "y1": 282.3599853515625,
+            "y2": 763.5599975585938
+          }
+        ],
+        "page_index": [31],
+        "chunk_order": [117],
+        "reference_text": "A “Change of Control Rating Downgrade” shall be deemed to have occurred in respect of a Change of Control or of a Potential Change of Control if within the Change of Control Period, the rating previously assigned to the Issuer by any Rating Agency (as defined below) solicited by the Issuer is (x) withdrawn or (y) changed from an investment grade rating (Baa3 or BBB-, or their equivalent for the time being, or better) to a non-investment grade rating (Ba1 or BB+, or their equivalent for the time being, or worse) or (z) if the rating previously assigned to the Issuer by any Rating Agency solicited by the Issuer was below an investment grade rating (as described above), lowered by at least one full rating notch (for example, from Ba1 to Ba2 or from BB+ to BB; or their respective equivalents), provided that (i) a Change of Control Rating Downgrade otherwise arising by virtue of a particular change in rating shall be deemed not to have occurred in respect of a particular Change of Control or Potential Change of Control, as the case may be, if the Rating Agency does not publicly announce or publicly confirm that the reduction was the result, in whole or in part, of the Change of Control or the Potential Change of Control, as the case may be, and (ii) any Change of Control Rating Downgrade must have been confirmed in a letter or other form of written communication sent to the Issuer and publicly disclosed. If the Issuer is rated by more than one Rating Agency and such rating has been solicited by the Issuer, the rating to be taken into account to determine whether a Change of Control Rating Downgrade has occurred shall be the lower rating assigned by any such Rating Agency. If the Issuer ceases at any time to have a rating assigned to them by at least one Rating Agency, the Issuer shall use its best endeavours to obtain a rating of the Issuer from a Rating Agency as soon as practicable. For the avoidance of doubt, if at the time of the occurrence of a Change of Control the Issuer is not rated by a Rating Agency, and no Rating Agency assigns within the Change of Control Period an investment grade rating to the Issuer, a Change of Control Event will be deemed to have occurred."
+      },
+      {
+        "id": "8",
+        "doc_id": "ABFS2xQrpJv3lhGwoHUpHRlyBxfRKkx",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 72.0,
+            "x2": 523.489990234375,
+            "y1": 427.55999755859375,
+            "y2": 756.9600219726562
+          }
+        ],
+        "page_index": [57],
+        "chunk_order": [246],
+        "reference_text": "A “Change of Control Rating Downgrade” shall be deemed to have occurred in respect of a Change of Control or of a Potential Change of Control if within the Change of Control Period, the rating previously assigned to the Issuer by any Rating Agency (as defined below) solicited by the Issuer is (x) withdrawn or (y) changed from an investment grade rating (Baa3 or BBB-, or their equivalent for the time being, or better) to a non-investment grade rating (Ba1 or BB+, or their equivalent for the time being, or worse) or (z) if the rating previously assigned to the Issuer by any Rating Agency solicited by the Issuer was below an investment grade rating (as described above), lowered by at least one full rating notch (for example, from Ba1 to Ba2 or from BB+ to BB; or their respective equivalents), provided that (i) a Change of Control Rating Downgrade otherwise arising by virtue of a particular change in rating shall be deemed not to have occurred in respect of a particular Change of Control or Potential Change of Control, as the case may be, if the Rating Agency does not publicly announce or publicly confirm that the reduction was the result, in whole or in part, of the Change of Control or the Potential Change of Control, as the case may be, and (ii) any Change of Control Rating Downgrade must have been confirmed in a letter or other form of written communication sent to the Issuer and publicly disclosed. If the Issuer is rated by more than one Rating Agency and such rating has been solicited by the Issuer, the rating to be taken into account to determine whether a Change of Control Rating Downgrade has occurred shall be the lower rating assigned by any such Rating Agency. If the Issuer ceases at any time to have a rating assigned to it by at least one Rating Agency, the Issuer shall use its best endeavours to obtain a rating from a Rating Agency as soon as practicable. For the avoidance of doubt, if at the time of the occurrence of a Change of Control the Issuer is not rated by a Rating Agency, and no Rating Agency assigns within the Change of Control Period an investment grade rating to the Issuer, a Change of Control Event will be deemed to have occurred."
+      },
+      {
+        "id": "9",
+        "doc_id": "ABFS2xQrpJv3lhGwoHUpHRlyBxfRKkx",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 219.1199951171875,
+            "x2": 518.6400146484375,
+            "y1": 496.32000732421875,
+            "y2": 694.6799926757812
+          }
+        ],
+        "page_index": [30],
+        "chunk_order": [114],
+        "reference_text": "In the event of a Change of Control Event, the Issuer will inform the Noteholders, no later than thirty (30) calendar days following the occurrence of a Change of Control Event in accordance with Condition 10 “Notices” of the Terms and Conditions (a “Change of Control Notice”) specifying the circumstances giving rise to it and either (i) the date on which redemption or purchase of the Notes (the “Change of Control Call Date”) will take place or, as the case may be, (ii) the Issuer’s election not to redeem, or procure purchase of, the Notes. If the Issuer elects to redeem, or to procure purchase of, the Notes, such redemption or purchase will take place not less than ten (10) nor more than sixty (60) calendar days after a Change of Control Notice is given."
+      },
+      {
+        "id": "10",
+        "doc_id": "ABFS2xQrpJv3lhGwoHUpHRlyBxfRKkx",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 72.0,
+            "x2": 523.4400024414062,
+            "y1": 91.91999816894531,
+            "y2": 200.52000427246094
+          }
+        ],
+        "page_index": [49],
+        "chunk_order": [203],
+        "reference_text": "Further to the occurrence of a Change of Control Event (as defined in Condition 5.8 below), if the Issuer does not exercise its option to redeem the Notes in accordance with Condition 5.8, the then prevailing Interest Rate (and all subsequent Interest Rates (if any)) payable on the Notes will be increased by an additional margin of 5.00 per cent. per annum (the “CoC StepUp Margin”) with effect from (and including) the earlier of (i) the date of the Change of Control Notice (as defined in Condition 5.8 below) or (ii) the thirtieth (30th) calendar day following the occurrence of a Change of Control Event, to (but excluding) the final redemption of the Notes."
+      }
+    ]
+  },
+  {
+    "name": "Event of Default",
+    "response": "### Circumstances of Issuer's Failure to Fulfill Obligations\n\nThe Notes do not provide for events of default or cross default that would allow for the acceleration of the Notes if certain events occur. If the Issuer fails to meet any obligations under the Notes, including the payment of any interest, or is in default under other indebtedness, investors will not have the right to require the early redemption of principal. The sole remedy available to Noteholders for recovery of amounts owing in respect of any payment of principal or interest on the Notes will be the institution of proceedings to enforce such payment[1].\n\n### Immediate Payment Circumstances\n\nEach Note shall become immediately due and payable at its principal amount, together with accrued interest thereon, if any, to the date of payment and any Arrears of Interest, in the event that a judgment is rendered by any competent court declaring the judicial liquidation of the Issuer, or in the event of a transfer of the whole of the business of the Issuer subsequent to the opening of a judicial recovery procedure, or in the event of a voluntary dissolution of the Issuer or if the Issuer is liquidated for any other reason[2].",
+    "citations": [
+      {
+        "id": "1",
+        "doc_id": "ABFS2xQrpJv3lhGwoHUpHRlyBxfRKkx",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 72.0,
+            "x2": 523.3699951171875,
+            "y1": 570.3599853515625,
+            "y2": 740.1599731445312
+          }
+        ],
+        "page_index": [12],
+        "chunk_order": [47],
+        "reference_text": "There are no events of default or cross default under the Notes Unlike unsubordinated debt securities of the Issuer, the Terms and Conditions of the Notes do not provide for events of default or cross default allowing acceleration of the Notes if certain events occur. Accordingly, if the Issuer fails to meet any obligations under the Notes, including the payment of any interest, or is in default under other indebtedness, investors will not have the right to require the early redemption of principal. Upon a payment default, the sole remedy available to Noteholders for recovery of amounts owing in respect of any payment of principal or interest on the Notes will be the institution of proceedings to enforce such payment."
+      },
+      {
+        "id": "2",
+        "doc_id": "ABFS2xQrpJv3lhGwoHUpHRlyBxfRKkx",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 219.1199951171875,
+            "x2": 487.79998779296875,
+            "y1": 171.9600067138672,
+            "y2": 183.9600067138672
+          }
+        ],
+        "page_index": [32],
+        "chunk_order": [119],
+        "reference_text": "However, each Note shall become immediately due and payable at its principal amount, together with accrued interest thereon, if any, to the date of payment and any Arrears of Interest (including any Additional Interest Amounts thereon), in the event that a judgement is rendered by any competent court declaring the judicial liquidation (liquidation judiciaire) of the Issuer, or in the event of a transfer of the whole of the business of the Issuer (cession totale de l'entreprise) subsequent to the opening of a judicial recovery procedure (redressement judiciaire), or in the event of a voluntary dissolution of the Issuer or if the Issuer is liquidated for any other reason (and in all cases listed above, other than pursuant to a consolidation, amalgamation or merger or other reorganization outside the context of an insolvency whereby the surviving entity assumes all obligations of the Issuer under the Notes)."
+      }
+    ]
+  },
+  {
+    "name": "Permitted Investments",
+    "response": "N/A",
+    "citations": []
+  },
+  {
+    "name": "Permitted Indebtedness",
+    "response": "### Additional Debt and Guarantees\n\nThere is no restriction in the Terms and Conditions of the Notes on the amount of debt which the Issuer may issue or guarantee nor any negative pledge provisions. The Issuer and its subsidiaries and affiliates may incur additional indebtedness or grant guarantees in respect of indebtedness of third parties, including indebtedness or guarantees that rank pari passu or senior to the Notes. The issue of any such securities or the incurrence of any such other liabilities may reduce the amount recoverable by Noteholders on a winding-up of the Issuer and/or may increase the likelihood of a deferral of interest payments under the relevant Notes[1].\n\n### Recent Debt Activities\n\nSince 31 March 2024, the amount drawn under the Group's revolving credit facility increased by €350 million, short-term bank debt of €380 million was incurred, and NEU commercial paper outstanding increased by €5 million. This evolution reflects the Group's seasonality in terms of cash flows and is in line with the Group's cash forecasts[2].",
+    "citations": [
+      {
+        "id": "1",
+        "doc_id": "ABFS2xQrpJv3lhGwoHUpHRlyBxfRKkx",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 72.0,
+            "x2": 523.4400024414062,
+            "y1": 282.3599853515625,
+            "y2": 485.760009765625
+          }
+        ],
+        "page_index": [16],
+        "chunk_order": [62],
+        "reference_text": "No limitation on issuing or guaranteeing debt ranking senior or pari passu with the Notes There is no restriction in the Terms and Conditions of the Notes on the amount of debt which the Issuer may issue or guarantee nor any negative pledge provisions. The Issuer and its subsidiaries and affiliates may incur additional indebtedness or grant guarantees in respect of indebtedness of third parties, including indebtedness or guarantees that rank pari passu or senior to the Notes. The issue of any such securities or the incurrence of any such other liabilities may reduce the amount (if any) recoverable by Noteholders on a winding-up of the Issuer and/or may increase the likelihood of a deferral of interest payments under the relevant Notes."
+      },
+      {
+        "id": "2",
+        "doc_id": "ABFS2xQrpJv3lhGwoHUpHRlyBxfRKkx",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 90.0,
+            "x2": 523.4299926757812,
+            "y1": 598.5599975585938,
+            "y2": 760.5599975585938
+          }
+        ],
+        "page_index": [78],
+        "chunk_order": [358],
+        "reference_text": "Since 31 March 2024, being the date of its last published consolidated annual financial statements, through 30 April 2024, (i) the amount drawn under the Group's revolving credit facility increased by €350 million, (ii) short term bank debt of € 380 million was incurred and (iii) NEU commercial paper outstanding increased by €5 million. This evolution reflects the Group's seasonality in terms of cash flows and is in line with the Group's cash forecasts."
+      }
+    ]
+  },
+  {
+    "name": "Restricted Payments",
+    "response": "N/A",
+    "citations": []
+  },
+  {
+    "name": "Optional Redemption",
+    "response": "### Redemption Upon Change of Control\n\nIn the event of a Change of Control, the Issuer may, at its option, redeem all, but not some only, of the Notes on the Change of Control Call Date at their principal amount together with any accrued interest and any Arrears of Interest (including any Additional Interest Amounts thereon)[1].\n\n### Redemption for Taxation Reasons\n\nIf a Tax Deductibility Event occurs, the Issuer may, at its option, redeem all of the Notes at any time, subject to having given not more than sixty (60) nor less than ten (10) calendar days' prior notice to the Noteholders. The redemption will be at the Early Redemption Price if it occurs before the First Call Date or at their principal amount together with any accrued interest and any Arrears of Interest on or after the First Call Date[2].\n\n### Redemption at the Option of the Issuer\n\nThe Issuer has the right to redeem all of the Notes on any date during the period commencing on 29 May 2029 and ending on the First Reset Date, on the First Step-Up Date, or upon any Interest Payment Date after the First Step-Up Date. This is subject to having given not more than sixty (60) nor less than ten (10) calendar days' prior notice to the Noteholders. The redemption will be made at their principal amount together with any accrued interest and Arrears of Interest[3].",
+    "citations": [
+      {
+        "id": "1",
+        "doc_id": "ABFS2xQrpJv3lhGwoHUpHRlyBxfRKkx",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 72.0,
+            "x2": 523.3499755859375,
+            "y1": 653.280029296875,
+            "y2": 761.8800048828125
+          }
+        ],
+        "page_index": [56],
+        "chunk_order": [242],
+        "reference_text": "In at any time while any Note remains outstanding, there occurs (i) a Change of Control (as defined below) and (ii) within the Change of Control Period (as defined below), a Change of Control Rating Downgrade (as defined below) occurs or has occurred as a result of such Change of Control or as the result of a Potential Change of Control (in either case a “Change of Control Event”), the Issuer may, at its option, redeem, or procure the purchase of, all, but not some only, of the Notes on the Change of Control Call Date (as defined below), at their principal amount together with any accrued interest and any Arrears of Interest (including any Additional Interest Amounts thereon)."
+      },
+      {
+        "id": "2",
+        "doc_id": "ABFS2xQrpJv3lhGwoHUpHRlyBxfRKkx",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 72.0,
+            "x2": 523.489990234375,
+            "y1": 203.27999877929688,
+            "y2": 471.1199951171875
+          }
+        ],
+        "page_index": [55],
+        "chunk_order": [234],
+        "reference_text": "(iii) If an opinion of a recognised law firm of international standing has been delivered to the Issuer and the Fiscal Agent, stating that by reason of a change in French law or regulation, or any change in the official application or interpretation of such law or regulation, becoming effective after the Issue Date, the tax regime of any payments under the Notes is modified and such modification results in the part of the interest payable by the Issuer in respect of the Notes that is tax-deductible being reduced (a “Tax Deductibility Event”), the Issuer may, at its option, at any time (subject to having given not more than sixty (60) nor less than ten (10), calendar days’ prior notice to the Noteholders (which notice shall be irrevocable) in accordance with Condition 10), redeem all of the Notes (but not some only) at (i) the Early Redemption Price (as defined below) where such redemption occurs before the First Call Date or (ii) their principal amount together with any accrued interest to the date set for redemption and any Arrears of Interest (including any Additional Interest Amounts thereon) where such redemption occurs on or after the First Call Date, provided that the effective date of redemption of which notice hereunder may be given shall be no earlier than the latest practicable date preceding the effective date on which the tax regime of interest payments under the Notes is modified."
+      },
+      {
+        "id": "3",
+        "doc_id": "ABFS2xQrpJv3lhGwoHUpHRlyBxfRKkx",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 72.0,
+            "x2": 523.47998046875,
+            "y1": 339.0,
+            "y2": 447.4800109863281
+          }
+        ],
+        "page_index": [52],
+        "chunk_order": [220],
+        "reference_text": "The Issuer will have the right to redeem all of the Notes (but not some only) (i) on any date during the period commencing on (and including) 29 May 2029 (the “First Call Date”) and ending on (and including) the First Reset Date, (ii) on the First Step-Up Date or (iii) upon any Interest Payment Date after the First Step-Up Date, subject, in each case, to having given not more than sixty (60) nor less than ten (10), calendar days’ prior notice to the Noteholders (which notice shall be irrevocable). Such early redemption of the Notes will be made at their principal amount together with any accrued interest to the date set for redemption and Arrears of Interest (including any Additional Interest Amounts thereon)."
+      }
+    ]
+  },
+  {
+    "name": "Negative Pledge",
+    "response": "### Negative Pledge Clauses\n\nThere will be no negative pledge in respect of the Notes. The issuer and its subsidiaries and affiliates may incur additional indebtedness or grant guarantees in respect of indebtedness of third parties, including indebtedness or guarantees that rank pari passu or senior to the Notes[1][2].",
+    "citations": [
+      {
+        "id": "1",
+        "doc_id": "ABFS2xQrpJv3lhGwoHUpHRlyBxfRKkx",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 219.1199951171875,
+            "x2": 487.79998779296875,
+            "y1": 171.9600067138672,
+            "y2": 183.9600067138672
+          }
+        ],
+        "page_index": [32],
+        "chunk_order": [119],
+        "reference_text": "Negative Pledge:  There will be no negative pledge in respect of the Notes."
+      },
+      {
+        "id": "2",
+        "doc_id": "ABFS2xQrpJv3lhGwoHUpHRlyBxfRKkx",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 72.0,
+            "x2": 523.4400024414062,
+            "y1": 282.3599853515625,
+            "y2": 485.760009765625
+          }
+        ],
+        "page_index": [16],
+        "chunk_order": [62],
+        "reference_text": "No limitation on issuing or guaranteeing debt ranking senior or pari passu with the Notes There is no restriction in the Terms and Conditions of the Notes on the amount of debt which the Issuer may issue or guarantee nor any negative pledge provisions."
+      }
+    ]
+  },
+  {
+    "name": "Transactions with Shareholders and Affiliates",
+    "response": "N/A",
+    "citations": []
+  },
+  {
+    "name": "Use of proceeds",
+    "response": "### Use of Proceeds\n\nThe proceeds from the issuance of the Notes will be utilized as follows: approximately €1.2 billion will be used to repay by September 2024 Neu CP of approximately €1.03 billion and RCF drawings of €175 million. The remainder will be invested in highly liquid short-term investments, treated as cash equivalents, and earmarked for gross debt reduction at maturity[1][2].\n\n### Deleveraging Plan\n\nThe Issuer presented a €2 billion inorganic deleveraging plan on 8 May 2024, aimed at protecting the Group's \"Investment Grade\" rating. This plan includes divestments of approximately €700 million, the issuance of the Notes, and a capital increase with preferential subscription rights amounting to approximately €1 billion, to be executed no later than September 2024, subject to market conditions and AMF approval. The net proceeds from the issue of the Notes are estimated at approximately €744 million and are part of this deleveraging plan[2].",
+    "citations": [
+      {
+        "id": "1",
+        "doc_id": "ABFS2xQrpJv3lhGwoHUpHRlyBxfRKkx",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 72.0,
+            "x2": 523.4199829101562,
+            "y1": 285.3599853515625,
+            "y2": 338.760009765625
+          }
+        ],
+        "page_index": [66],
+        "chunk_order": [289],
+        "reference_text": "(i) c. €1.2 billion will be used to repay by September 2024 Neu CP of c €1.03 billion and RCF drawings of €175 million and (ii) the remainder will be invested in highly liquid short-term investments (cash equivalent treatment) and will be earmarked for gross debt reduction at maturity."
+      },
+      {
+        "id": "2",
+        "doc_id": "ABFS2xQrpJv3lhGwoHUpHRlyBxfRKkx",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 72.0,
+            "x2": 523.47998046875,
+            "y1": 93.95999908447266,
+            "y2": 283.55999755859375
+          }
+        ],
+        "page_index": [66],
+        "chunk_order": [288],
+        "reference_text": "The Issuer presented on 8 May 2024 a €2 billion inorganic deleveraging plan, in the context of a conservative financial policy with a view to protect the Group’s “Investment Grade” rating. This plan has the following components: (i) divestments for c. €700 million (including through the sale of the Group’s conventional signalling business in North America to Knorr-Bremse AG, which will generate proceeds of c. €630 million and the closing of which is expected during the summer of 2024), (ii) the issue of the Notes and (iii) a capital increase with preferential subscription rights in an amount of c. €1 billion to be executed no later than September 2024 subject to market conditions and AMF approval. The c. €2.4 billion in total proceeds correspond to c. €2 billion of deleveraging, mainly due to the Notes’ 50% Moody’s debt content. The net proceeds from the issue of the Notes is estimated at approximately €744 million. Such net proceeds are part of the aforementioned deleveraging plan. They will be used by the Issuer, along with the proceeds from the other components of the deleveraging plan, as follows:"
+      }
+    ]
+  },
+  {
+    "name": "Risk factors"
+  },
+  {
+    "name": "Covenants",
+    "response": "### Covenant Provisions\n\nThe bond document outlines specific covenant provisions related to the determination of interest rates in the event that the Independent Adviser fails to establish a Successor Mid-Swap Rate or an Alternative Mid-Swap Rate. In such cases, the interest rate for the next reset period will be determined by fallback provisions, potentially resulting in the application of a fixed rate[1]. Additionally, there are provisions regarding the payment of Arrears of Interest and Additional Interest Amounts, which specify conditions under which partial payments may be made[2].\n\n### Optional Partial Payment Arrears Interest Additional Interest Amounts\n\nThe covenant regarding optional partial payment of arrears interest and additional interest amounts outlines a specific order of payment. Firstly, all unpaid amounts of arrears of interest must be settled before any additional interest amounts are paid. Furthermore, arrears of interest accrued for any period are not payable until full payment has been made for all arrears of interest accrued during any earlier period. The payment order of additional interest amounts follows that of the arrears of interest to which they relate. Additionally, the amount payable in respect of any notes for any period is proportional to the total amount of all unpaid arrears of interest or additional interest amounts accrued on the notes for that period up to the date of payment[3].\n\n### Notice Deferral Payment Arrears Interests\n\nThe covenant concerning notice deferral payment of arrears interests requires that notice of any deferral of interest under the notes on any interest payment date, as well as any date upon which amounts in respect of arrears of interest (including any additional interest amounts) become due and payable, must be given to the noteholders in accordance with Condition 10. This notice must also be provided to the Fiscal Agent and the Calculation Agent at least five business days, but no more than thirty business days, prior to the interest payment date or due date. The notice is irrevocable. If the notes are admitted to trading on Euronext Paris and the applicable rules require it, notice of any deferral must also be given to the stock exchange as soon as reasonably practicable[4].",
+    "citations": [
+      {
+        "id": "1",
+        "doc_id": "ABFS2xQrpJv3lhGwoHUpHRlyBxfRKkx",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 219.1199951171875,
+            "x2": 518.5700073242188,
+            "y1": 328.55999755859375,
+            "y2": 450.9599914550781
+          }
+        ],
+        "page_index": [23],
+        "chunk_order": [87],
+        "reference_text": "the Independent Adviser appointed by it fails to determine a Successor Mid-Swap Rate or, failing which, an Alternative Mid-Swap Rate in accordance with Condition 4.3(a) “Independent Adviser” of the Terms and Conditions prior to the relevant Reset Determination Date, then the Interest Rate for such next Reset Period shall be determined by reference to the fallback provisions of Condition 4.2 “Fallback Provision” of the Terms and Conditions, which may result in the effective application of a fixed rate."
+      },
+      {
+        "id": "2",
+        "doc_id": "ABFS2xQrpJv3lhGwoHUpHRlyBxfRKkx",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 219.1199951171875,
+            "x2": 518.5,
+            "y1": 616.6799926757812,
+            "y2": 642.47998046875
+          }
+        ],
+        "page_index": [24],
+        "chunk_order": [96],
+        "reference_text": "If amounts in respect of Arrears of Interest and Additional Interest Amounts are paid in part:"
+      },
+      {
+        "id": "3",
+        "doc_id": "ABFS2xQrpJv3lhGwoHUpHRlyBxfRKkx",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 104.87999725341797,
+            "x2": 523.4199829101562,
+            "y1": 582.47998046875,
+            "y2": 732.719970703125
+          }
+        ],
+        "page_index": [50],
+        "chunk_order": [217],
+        "reference_text": "(i) all unpaid amounts of Arrears of Interest shall be payable before any Additional Interest Amounts; (ii) Arrears of Interest accrued for any period shall not be payable until full payment has been made of all Arrears of Interest that have accrued during any earlier period and the order of payment of Additional Interest Amounts shall follow that of the Arrears of Interest to which they relate; and (iii) the amount of Arrears of Interest or Additional Interest Amounts payable in respect of any of the Notes in respect of any period, shall be pro rata to the total amount of all unpaid Arrears of Interest or, as the case may be, Additional Interest Amounts accrued on the Notes in respect of that period to the date of payment."
+      },
+      {
+        "id": "4",
+        "doc_id": "ABFS2xQrpJv3lhGwoHUpHRlyBxfRKkx",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 72.0,
+            "x2": 523.4400024414062,
+            "y1": 91.91999816894531,
+            "y2": 255.9600067138672
+          }
+        ],
+        "page_index": [52],
+        "chunk_order": [218],
+        "reference_text": "Notice of (i) deferral of any interest under the Notes on any Interest Payment Date and (ii) any date upon which amounts in respect of Arrears of Interest (including any Additional Interest Amounts thereon) shall become due and payable shall be given to the Noteholders in accordance with Condition 10, and the Fiscal Agent and the Calculation Agent at least five (5) Business Days in Paris, but no more than thirty (30) Business Days in Paris, prior to such Interest Payment Date or date, which notice shall be irrevocable. So long as the Notes are admitted to trading on Euronext Paris and the rules applicable to such stock exchange so require, notice of any such deferral shall also be given as soon as reasonably practicable to such stock exchange."
+      }
+    ]
+  },
+  {
+    "name": "Summary",
+    "response": "N/A",
+    "citations": []
+  },
+  {
+    "name": "The Offering",
+    "response": "### Terms and Conditions of the Notes\n\nThe issue of the €750,000,000 Undated Deeply Subordinated Fixed to Reset Rate NC 5.25 Notes (the \"Notes\") of Alstom has been authorized pursuant to a resolution of the Board of Directors dated 7 May 2024 and a decision of the Chairman and Chief Executive Officer dated 23 May 2024[1].\n\n### Issue Date and Form\n\nThe Notes are issued on 29 May 2024 in dematerialized bearer form in the denomination of €100,000 each. Title to the Notes will be evidenced by book-entries in accordance with Articles L.211-3 et seq. and R.211-1 et seq. of the French Code monétaire et financier[2].\n\n### Agency Agreement\n\nThe Issuer has entered into an agency agreement dated 24 May 2024 with Uptevia, as fiscal agent and principal paying agent. The fiscal agent, the principal paying agent, and the paying agents are collectively referred to as the \"Agents\"[3].\n\n### Calculation Agency Agreement\n\nThe Issuer has entered into a calculation agency agreement dated 24 May 2024 with Aether Financial Services as the calculation agent. Copies of the Agency Agreement and the Calculation Agency Agreement are available for inspection during usual business hours at the specified office of the Fiscal Agent and at the registered office of the Issuer[4].\n\n### Registration and Transfer\n\nThe Notes will be inscribed in the books of Euroclear France, which shall credit the accounts of the Account Holders. Title to the Notes shall be evidenced by entries in the books of Account Holders and will pass upon registration of the transfer in such books[5].",
+    "citations": [
+      {
+        "id": "1",
+        "doc_id": "ABFS2xQrpJv3lhGwoHUpHRlyBxfRKkx",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 72.0,
+            "x2": 523.489990234375,
+            "y1": 93.95999908447266,
+            "y2": 180.9600067138672
+          }
+        ],
+        "page_index": [40],
+        "chunk_order": [154],
+        "reference_text": "The issue of the €750,000,000 Undated Deeply Subordinated Fixed to Reset Rate NC 5.25 Notes (the “Notes”) of Alstom (the “Issuer”) has been authorised pursuant to a resolution of the Board of Directors (Conseil d’administration) of the Issuer dated 7 May 2024 and a decision of the Chairman and Chief Executive Officer (Président-Directeur Général) of the Issuer dated 23 May 2024."
+      },
+      {
+        "id": "2",
+        "doc_id": "ABFS2xQrpJv3lhGwoHUpHRlyBxfRKkx",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 72.0,
+            "x2": 523.4400024414062,
+            "y1": 487.9200134277344,
+            "y2": 568.9199829101562
+          }
+        ],
+        "page_index": [40],
+        "chunk_order": [157],
+        "reference_text": "The Notes are issued on 29 May 2024 (the “Issue Date”) in dematerialised bearer form (au porteur) in the denomination of €100,000 each. Title to the Notes will be evidenced in accordance with Articles L.211-3 et seq. and R.211-1 et seq. of the French Code monétaire et financier by book-entries (inscription en compte)."
+      },
+      {
+        "id": "3",
+        "doc_id": "ABFS2xQrpJv3lhGwoHUpHRlyBxfRKkx",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 72.0,
+            "x2": 523.4400024414062,
+            "y1": 188.75999450683594,
+            "y2": 283.55999755859375
+          }
+        ],
+        "page_index": [40],
+        "chunk_order": [155],
+        "reference_text": "The Issuer has entered into an agency agreement (the “Agency Agreement”) dated 24 May 2024 with Uptevia, as fiscal agent and principal paying agent for the purposes of these Conditions."
+      },
+      {
+        "id": "4",
+        "doc_id": "ABFS2xQrpJv3lhGwoHUpHRlyBxfRKkx",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 72.0,
+            "x2": 523.4400024414062,
+            "y1": 291.3599853515625,
+            "y2": 480.1199951171875
+          }
+        ],
+        "page_index": [40],
+        "chunk_order": [156],
+        "reference_text": "The Issuer has entered into a calculation agency agreement (the “Calculation Agency Agreement”) dated 24 May 2024 with Aether Financial Services as calculation agent (the “Calculation Agent”, which expression shall, where the context so admits, include any successor for the time being as Calculation Agent)."
+      },
+      {
+        "id": "5",
+        "doc_id": "ABFS2xQrpJv3lhGwoHUpHRlyBxfRKkx",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 72.0,
+            "x2": 523.4400024414062,
+            "y1": 576.719970703125,
+            "y2": 705.1199951171875
+          }
+        ],
+        "page_index": [40],
+        "chunk_order": [158],
+        "reference_text": "The Notes will, upon issue, be inscribed in the books of Euroclear France (“Euroclear France”), which shall credit the accounts of the Account Holders."
+      }
+    ]
+  }
+]

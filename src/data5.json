@@ -1,0 +1,381 @@
+[
+  {
+    "name": "Asset Sale",
+    "response": "N/A",
+    "citations": []
+  },
+  {
+    "name": "Change of Control",
+    "response": "### Change of Control Definition\n\nA \"Change of Control\" is deemed to occur when any person or group of persons, who previously did not control the Issuer, acquires more than 50% of the voting rights in the Issuer[1].\n\n### Change of Control Event\n\nIf a Change of Control occurs and within the Change of Control Period a Change of Control Rating Downgrade happens, the Issuer may redeem or procure the purchase of all Notes at their principal amount, including any accrued interest and Arrears of Interest[2].\n\n### Change of Control Period\n\nThe Change of Control Period starts on the earlier of the first public announcement of the Change of Control or the date of a Potential Change of Control, and ends 90 days after the first public announcement of the effective Change of Control[3].\n\n### Redemption Rights\n\nIn the event of a Change of Control Event, the Issuer must inform Noteholders within 30 days and may choose to redeem the Notes. Redemption will occur between 10 to 60 days after the Change of Control Notice is given[4].\n\n### Interest Rate Adjustment\n\nIf the Issuer does not redeem the Notes following a Change of Control Event, the interest rate on the Notes will increase by an additional margin of 5.00% per annum from the earlier of the Change of Control Notice date or the 30th day following the Change of Control Event[5].",
+    "citations": [
+      {
+        "id": "1",
+        "doc_id": "ABFS2xOSdyV51n6rAejT5yEmsX78MDj",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 219.12,
+            "x2": 518.56,
+            "y1": 703.56,
+            "y2": 756.96
+          }
+        ],
+        "page_index": [30],
+        "chunk_order": [115],
+        "reference_text": "A “Change of Control” shall be deemed to have occurred at each time that any person or persons, acting alone or in concert, who did not previously control the Issuer, come(s) to legally or beneficially own or acquire(s) directly or indirectly such number of shares in the capital of the Issuer carrying more than 50 per cent. of the voting rights exercisable at a general meeting of the shareholders of the Issuer."
+      },
+      {
+        "id": "2",
+        "doc_id": "ABFS2xOSdyV51n6rAejT5yEmsX78MDj",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 72.0,
+            "x2": 523.35,
+            "y1": 653.28,
+            "y2": 761.88
+          }
+        ],
+        "page_index": [56],
+        "chunk_order": [242],
+        "reference_text": "In at any time while any Note remains outstanding, there occurs (i) a Change of Control (as defined below) and (ii) within the Change of Control Period (as defined below), a Change of Control Rating Downgrade (as defined below) occurs or has occurred as a result of such Change of Control or as the result of a Potential Change of Control (in either case a “Change of Control Event”), the Issuer may, at its option, redeem, or procure the purchase of, all, but not some only, of the Notes on the Change of Control Call Date (as defined below), at their principal amount together with any accrued interest and any Arrears of Interest (including any Additional Interest Amounts thereon)."
+      },
+      {
+        "id": "3",
+        "doc_id": "ABFS2xOSdyV51n6rAejT5yEmsX78MDj",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 219.12,
+            "x2": 518.57,
+            "y1": 176.76,
+            "y2": 271.56
+          }
+        ],
+        "page_index": [31],
+        "chunk_order": [116],
+        "reference_text": "“Change of Control Period” means the period commencing on the date that is the earlier of: (i) the first public announcement by the Issuer of the occurrence of the relevant Change of Control; and (ii) the date of the Potential Change of Control, and ending on the date which is ninety (90) calendar days after the date of the first public announcement of the effective occurrence of such Change of Control."
+      },
+      {
+        "id": "4",
+        "doc_id": "ABFS2xOSdyV51n6rAejT5yEmsX78MDj",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 219.12,
+            "x2": 518.64,
+            "y1": 496.32,
+            "y2": 694.68
+          }
+        ],
+        "page_index": [30],
+        "chunk_order": [114],
+        "reference_text": "In the event of a Change of Control Event, the Issuer will inform the Noteholders, no later than thirty (30) calendar days following the occurrence of a Change of Control Event in accordance with Condition 10 “Notices” of the Terms and Conditions (a “Change of Control Notice”) specifying the circumstances giving rise to it and either (i) the date on which redemption or purchase of the Notes (the “Change of Control Call Date”) will take place or, as the case may be, (ii) the Issuer’s election not to redeem, or procure purchase of, the Notes. If the Issuer elects to redeem, or to procure purchase of, the Notes, such redemption or purchase will take place not less than ten (10) nor more than sixty (60) calendar days after a Change of Control Notice is given."
+      },
+      {
+        "id": "5",
+        "doc_id": "ABFS2xOSdyV51n6rAejT5yEmsX78MDj",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 72.0,
+            "x2": 523.44,
+            "y1": 91.92,
+            "y2": 200.52
+          }
+        ],
+        "page_index": [49],
+        "chunk_order": [203],
+        "reference_text": "Further to the occurrence of a Change of Control Event (as defined in Condition 5.8 below), if the Issuer does not exercise its option to redeem the Notes in accordance with Condition 5.8, the then prevailing Interest Rate (and all subsequent Interest Rates (if any)) payable on the Notes will be increased by an additional margin of 5.00 per cent. per annum (the “CoC Step-Up Margin”) with effect from (and including) the earlier of (i) the date of the Change of Control Notice (as defined in Condition 5.8 below) or (ii) the thirtieth (30th) calendar day following the occurrence of a Change of Control Event, to (but excluding) the final redemption of the Notes."
+      }
+    ]
+  },
+  {
+    "name": "Event of Default"
+  },
+  {
+    "name": "Permitted Investments",
+    "response": "N/A",
+    "citations": []
+  },
+  {
+    "name": "Permitted Indebtedness",
+    "response": "### Additional Debt and Guarantees\n\nThere is no restriction in the Terms and Conditions of the Notes on the amount of debt which the Issuer may issue or guarantee nor any negative pledge provisions. The Issuer and its subsidiaries and affiliates may incur additional indebtedness or grant guarantees in respect of indebtedness of third parties, including indebtedness or guarantees that rank pari passu or senior to the Notes. The issue of any such securities or the incurrence of any such other liabilities may reduce the amount recoverable by Noteholders on a winding-up of the Issuer and may increase the likelihood of a deferral of interest payments under the relevant Notes[1].\n\n### Recent Changes in Debt\n\nSince 31 March 2024, the amount drawn under the Group's revolving credit facility increased by €350 million, short term bank debt of €380 million was incurred, and NEU commercial paper outstanding increased by €5 million. This evolution reflects the Group's seasonality in terms of cash flows and is in line with the Group's cash forecasts[2].",
+    "citations": [
+      {
+        "id": "1",
+        "doc_id": "ABFS2xOSdyV51n6rAejT5yEmsX78MDj",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 72.0,
+            "x2": 523.4400024414062,
+            "y1": 282.3599853515625,
+            "y2": 485.760009765625
+          }
+        ],
+        "page_index": [16],
+        "chunk_order": [62],
+        "reference_text": "No limitation on issuing or guaranteeing debt ranking senior or pari passu with the Notes There is no restriction in the Terms and Conditions of the Notes on the amount of debt which the Issuer may issue or guarantee nor any negative pledge provisions. The Issuer and its subsidiaries and affiliates may incur additional indebtedness or grant guarantees in respect of indebtedness of third parties, including indebtedness or guarantees that rank pari passu or senior to the Notes. The issue of any such securities or the incurrence of any such other liabilities may reduce the amount (if any) recoverable by Noteholders on a winding-up of the Issuer and/or may increase the likelihood of a deferral of interest payments under the relevant Notes. If the Issuer’s financial condition were to deteriorate, the Noteholders could suffer direct and significantly adverse consequences, including loss of interest and, if the Issuer were liquidated (whether voluntarily or not), the Noteholders could suffer loss of all or part of their investment, particularly as their claims would be subordinated to the claims of senior creditors of the Issuer (see “The Notes are the lowest ranking subordinated obligations of the Issuer” above)."
+      },
+      {
+        "id": "2",
+        "doc_id": "ABFS2xOSdyV51n6rAejT5yEmsX78MDj",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 90.0,
+            "x2": 523.4299926757812,
+            "y1": 598.5599975585938,
+            "y2": 760.5599975585938
+          }
+        ],
+        "page_index": [78],
+        "chunk_order": [358],
+        "reference_text": "Since 31 March 2024, being the date of its last published consolidated annual financial statements, through 30 April 2024, (i) the amount drawn under the Group’s revolving credit facility increased by €350 million, (ii) short term bank debt of €380 million was incurred and (iii) NEU commercial paper outstanding increased by €5 million. This evolution reflects the Group’s seasonality in terms of cash flows and is in line with the Group’s cash forecasts."
+      }
+    ]
+  },
+  {
+    "name": "Restricted Payments",
+    "response": "N/A",
+    "citations": []
+  },
+  {
+    "name": "Optional Redemption"
+  },
+  {
+    "name": "Negative Pledge"
+  },
+  {
+    "name": "Transactions with Shareholders and Affiliates"
+  },
+  {
+    "name": "Use of proceeds",
+    "response": "### Use of Proceeds\n\nThe issuer plans to use the proceeds from the issuance of the Notes as part of a deleveraging plan presented on 8 May 2024. The total proceeds are expected to amount to approximately €2.4 billion. Specifically, around €1.2 billion will be used to repay Neu CP of approximately €1.03 billion and RCF drawings of €175 million by September 2024. The remainder will be invested in highly liquid short-term investments, treated as cash equivalents, and earmarked for gross debt reduction at maturity[1][2].",
+    "citations": [
+      {
+        "id": "1",
+        "doc_id": "ABFS2xOSdyV51n6rAejT5yEmsX78MDj",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 72.0,
+            "x2": 523.4199829101562,
+            "y1": 285.3599853515625,
+            "y2": 338.760009765625
+          }
+        ],
+        "page_index": [66],
+        "chunk_order": [289],
+        "reference_text": "(i) c. €1.2 billion will be used to repay by September 2024 Neu CP of c €1.03 billion and RCF drawings of €175 million and (ii) the remainder will be invested in highly liquid short-term investments (cash equivalent treatment) and will be earmarked for gross debt reduction at maturity."
+      },
+      {
+        "id": "2",
+        "doc_id": "ABFS2xOSdyV51n6rAejT5yEmsX78MDj",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 72.0,
+            "x2": 523.47998046875,
+            "y1": 93.95999908447266,
+            "y2": 283.55999755859375
+          }
+        ],
+        "page_index": [66],
+        "chunk_order": [288],
+        "reference_text": "The Issuer presented on 8 May 2024 a €2 billion inorganic deleveraging plan, in the context of a conservative financial policy with a view to protect the Group’s “Investment Grade” rating. This plan has the following components: (i) divestments for c. €700 million (including through the sale of the Group’s conventional signalling business in North America to Knorr-Bremse AG, which will generate proceeds of c. €630 million and the closing of which is expected during the summer of 2024), (ii) the issue of the Notes and (iii) a capital increase with preferential subscription rights in an amount of c. €1 billion to be executed no later than September 2024 subject to market conditions and AMF approval. The c. €2.4 billion in total proceeds correspond to c. €2 billion of deleveraging, mainly due to the Notes’ 50% Moody’s debt content. The net proceeds from the issue of the Notes is estimated at approximately €744 million. Such net proceeds are part of the aforementioned deleveraging plan. They will be used by the Issuer, along with the proceeds from the other components of the deleveraging plan, as follows:"
+      }
+    ]
+  },
+  {
+    "name": "Risk factors",
+    "response": "### Overview of Financial Risks\nThe bond document provides a comprehensive analysis of financial risks associated with the Notes, highlighting key areas such as market value influences, interest rate calculations, exchange rate risks, structural risks, and implications of insolvency proceedings. These risks are critical for investors to understand as they directly impact the value and security of their investment.\n\n### Market Value of the Notes\nThe market value of the Notes is influenced by factors such as the creditworthiness of the Issuer, economic, financial, and political events, and conditions affecting capital markets. The Notes are expected to be rated **Ba2** by Moody’s, with the Issuer’s long-term senior unsecured debt rated **Baa3** with a negative outlook. Changes in these ratings could adversely affect the market value of the Notes [1].\n\n### Interest Rate Calculations\nInterest on the Notes from the First Reset Date is calculated based on the **Mid-Swap Rate** plus an applicable margin. This rate is subject to various factors, including its level, volatility, and broader economic events. Historical market prices of the Mid-Swap Rate should not be considered indicative of future performance [2].\n\n### Exchange Rate Risks\nPayments on the Notes are made in Euro, posing risks for investors whose financial activities are in another currency. Significant changes in exchange rates can adversely affect the yield and market value of the Notes in the Investor’s Currency [3].\n\n### Structural Risks of the Notes\nThe Notes are classified as the lowest ranking subordinated obligations of the Issuer, which may influence their risk profile. This structural positioning affects the Notes' market value and potential recovery in insolvency scenarios [4].\n\n### Subordination in Insolvency Events\nIn the event of insolvency, the rights of Noteholders are subordinated to the full payment of unsubordinated creditors. This subordination implies significant risk of loss if the Issuer undergoes insolvency proceedings [5].\n\n### Absence of Default Provisions\nThe Notes lack events of default provisions, meaning investors cannot demand early redemption if the Issuer fails to meet obligations. This absence may negatively impact the value and liquidity of the Notes [6].\n\n### Undated Securities and Deferral of Interest Payments\nThe Notes are undated securities, imposing indefinite financial risk on Noteholders. The Issuer may defer interest payments, affecting the market price and volatility of the Notes [7].\n\n### Early Redemption Risk\nThe Issuer has the option to redeem the Notes under specific conditions, which can affect their market value. Redemption options are exercised at **100%** of the principal amount, except in certain events where it is at **101%** [8].\n\n### Changes in Rating Methodologies and IFRS Accounting Classification\nChanges in rating methodologies or IFRS accounting classifications could lead to early redemption of the Notes, impacting their market value and anticipated returns [9].\n\n### Withholding Tax Event and Debt Issuance\nThe Issuer is not required to redeem the Notes in a withholding tax event, and there is no limitation on issuing debt that ranks senior or pari passu with the Notes, potentially affecting Noteholders' recovery prospects [10].\n\n### Interest Rate Resets and Benchmark Regulation\nInterest rates will reset every five years, and regulatory reforms on benchmarks may affect the market value of the Notes. The Benchmarks Regulation impacts the calculation of interest rates post-First Reset Date [11].\n\n### Mid-Swap Rate Determination and Prohibition of Set-Off\nThe Mid-Swap Rate is determined by reference to a Screen Page, with fallback mechanisms in place. The prohibition of set-off rights could impact Noteholders in the event of the Issuer's insolvency [12].\n\n### Lack of Voting Rights and Modification Provisions\nNoteholders lack voting rights in shareholders’ meetings, and modification provisions allow changes to the Terms and Conditions without their consent, potentially affecting their rights and the Notes' market value [13].\n\n### Restructuring Plan and Market Risks\nA restructuring plan could affect Noteholders' liabilities, and the lack of an active trading market could impact the Notes' price and liquidity. Various factors influence secondary market liquidity, affecting the Notes' value [14].",
+    "citations": [
+      {
+        "id": "1",
+        "doc_id": "ABFS2xOSdyV51n6rAejT5yEmsX78MDj",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [72.0, 71.16000366210938, 523.4400024414062, 274.55999755859375],
+        "page_index": [10],
+        "chunk_order": [39],
+        "reference_text": "Market value of the Notes Application has been made to Euronext Paris for the Notes to be admitted to trading on Euronext Paris. The market value of the Notes depends on a number of interrelated factors, including the creditworthiness of the Issuer, economic, financial and political events in France or elsewhere, including factors affecting capital markets generally and the stock exchanges on which the Notes are traded. The Notes are expected to be rated Ba2 by Moody’s and the Issuer’s long-term senior unsecured debt is rated Baa3 (negative outlook) by Moody’s. If any rating assigned to the Notes and/or to the Issuer is revised, lowered, suspended, withdrawn, put on creditwatch or not maintained by the Issuer, this may adversely affect the market value of the Notes."
+      },
+      {
+        "id": "2",
+        "doc_id": "ABFS2xOSdyV51n6rAejT5yEmsX78MDj",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [72.0, 282.3599853515625, 523.4400024414062, 479.760009765625],
+        "page_index": [10],
+        "chunk_order": [40],
+        "reference_text": "From (and including) the First Reset Date, interest on the Notes for each relevant Reset Period shall be calculated on the basis of the Mid-Swap Rate (as determined by the Calculation Agent on the relevant Reset Determination Date) plus the applicable Margin, pursuant to Condition 4 “Interest” of the Terms and Conditions. The market value of the Notes and the Mid-Swap Rate depend on a number of additional interrelated factors, including, but not limited to, the level of the Mid-Swap Rate, its volatility, market interest and yield rates, economic, financial and political events in France or elsewhere, including factors affecting capital markets generally and Euronext Paris (on which the Notes are traded) or the stock exchange on which the Mid-Swap Rate is traded. The price at which a Noteholder will be able to sell the Notes may be at a discount, which could be substantial, from the issue price or the purchase price paid by such purchaser, which could have a negative impact on the return of the Noteholder’s investment. The historical market prices of the Mid-Swap Rate should not be taken as an indication of the Mid-Swap Rate’s future performance during the life of the Notes."
+      },
+      {
+        "id": "3",
+        "doc_id": "ABFS2xOSdyV51n6rAejT5yEmsX78MDj",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [72.0, 487.55999755859375, 523.4400024414062, 657.3599853515625],
+        "page_index": [10],
+        "chunk_order": [41],
+        "reference_text": "Exchange rate risks The Issuer will pay principal and interest on the Notes in Euro. This presents certain risks relating to currency conversions if an investor’s financial activities are denominated principally in a currency or currency unit (the “Investor’s Currency”) other than Euro. These include the risk that exchange rates may change significantly (including changes due to devaluation of Euro or revaluation of the Investor’s Currency) and the risk that authorities with jurisdiction over the Investor’s Currency may impose or modify exchange controls. An appreciation in the value of the Investor’s Currency relative to the Euro could significantly decrease (i) the Investor’s Currency-equivalent yield on the Notes, (ii) the Investor’s Currency-equivalent value of the principal payable on the Notes and (iii) the Investor’s Currency-equivalent market value of the Notes, all of which could have a significant adverse effect on the return on the investment of the investors."
+      },
+      {
+        "id": "4",
+        "doc_id": "ABFS2xOSdyV51n6rAejT5yEmsX78MDj",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [72.0, 684.9600219726562, 523.47998046875, 758.1599731445312],
+        "page_index": [10],
+        "chunk_order": [43],
+        "reference_text": "The Notes are the lowest ranking subordinated obligations of the Issuer Pursuant to Condition 2 “Status of the Notes” of the Terms and Conditions, the Issuer's obligations under the Notes in respect of principal, interest and other amounts (including for the avoidance of doubt, any Arrears of Interest) constitute direct, unconditional, unsecured and deeply subordinated obligations (titres subordonnés de dernier rang) of the Issuer and will rank pari passu among themselves and pari passu with all other present and future Parity Securities of the Issuer."
+      },
+      {
+        "id": "5",
+        "doc_id": "ABFS2xOSdyV51n6rAejT5yEmsX78MDj",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [72.0, 104.76000213623047, 523.4400024414062, 296.1600036621094],
+        "page_index": [11],
+        "chunk_order": [44],
+        "reference_text": "In the event of any judgment rendered by any competent court declaring the judicial liquidation (liquidation judiciaire) of the Issuer, or in the event of a transfer of the whole of the business of the Issuer (cession totale de l’entreprise) subsequent to the opening of a judicial recovery procedure (redressement judiciaire), or in the event of the voluntary dissolution of the Issuer or if the Issuer is liquidated for any other reason (and in all cases listed above, other than pursuant to a consolidation, amalgamation or merger or other reorganization outside the context of an insolvency whereby the surviving entity assumes all obligations of the Issuer under the Notes), each Note shall become immediately due and payable and the rights of Noteholders to payment under the Notes will be subordinated to the full payment of the unsubordinated creditors of the Issuer (including holders of Unsubordinated Obligations), of the ordinary subordinated creditors of the Issuer (including holders of Ordinary Subordinated Obligations), of lenders in relation to prêts participatifs granted to or to be granted to the Issuer and titres participatifs issued or to be issued by the Issuer, if and only to the extent that there is still cash available for those payments."
+      },
+      {
+        "id": "6",
+        "doc_id": "ABFS2xOSdyV51n6rAejT5yEmsX78MDj",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [72.0, 570.3599853515625, 523.3699951171875, 740.1599731445312],
+        "page_index": [11],
+        "chunk_order": [47],
+        "reference_text": "There are no events of default or cross default under the Notes Unlike unsubordinated debt securities of the Issuer, the Terms and Conditions of the Notes do not provide for events of default or cross default allowing acceleration of the Notes if certain events occur. Accordingly, if the Issuer fails to meet any obligations under the Notes, including the payment of any interest, or is in default under other indebtedness, investors will not have the right to require the early redemption of principal. Upon a payment default, the sole remedy available to Noteholders for recovery of amounts owing in respect of any payment of principal or interest on the Notes will be the institution of proceedings to enforce such payment. Notwithstanding the foregoing, the Issuer will not, by virtue of the institution of any such proceedings, be obliged to pay any sum or sums sooner than the same would otherwise have been payable by it, and investors may therefore lose all or part of their investment. As a result, the value of the Notes or liquidity on the secondary market may be negatively affected."
+      },
+      {
+        "id": "7",
+        "doc_id": "ABFS2xOSdyV51n6rAejT5yEmsX78MDj",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [72.0, 71.16000366210938, 523.4400024414062, 296.1600036621094],
+        "page_index": [12],
+        "chunk_order": [48],
+        "reference_text": "The Notes are undated securities The Notes are undated securities, with no specified maturity date. Notwithstanding the Issuer’s ability to redeem the Notes (a) in accordance with Condition 5.3 “Make-whole Redemption by the Issuer” of the Terms and Conditions, (b) between the First Call Date and the First Reset Date, on the First Step-Up Date and on any Interest Payment Date thereafter or (c) upon the occurrence of a Clean-Up Event, a Gross-Up Event, a Withholding Tax Event, a Tax Deductibility Event, a Change of Control Event, an Accounting Event or an Equity Credit Rating Event, the Issuer is under no obligation to redeem or repurchase the Notes at any time, and the Noteholders have no right to require redemption of the Notes, except if a judgment is made for the judicial liquidation of the Issuer (liquidation judiciaire), or in the event of a transfer of the whole of the business of the Issuer (cession totale de l’entreprise) subsequent to the opening of a judicial recovery procedure (redressement judiciaire), or in the event of the voluntary dissolution of the Issuer or if the Issuer is liquidated for any other reason (and in all cases listed above, other than pursuant to a consolidation, amalgamation or merger or other reorganization outside the context of an insolvency whereby the surviving entity assumes all obligations of the Issuer under the Notes)."
+      },
+      {
+        "id": "8",
+        "doc_id": "ABFS2xOSdyV51n6rAejT5yEmsX78MDj",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [72.0, 118.55999755859375, 523.4400024414062, 252.9600067138672],
+        "page_index": [13],
+        "chunk_order": [53],
+        "reference_text": "Early redemption risk The Issuer may redeem the Notes in whole, but not in part, on any day in the period commencing on (and including) the First Call Date and ending on (and including) the First Reset Date, on the First Step-Up Date and on any Interest Payment Date thereafter. The Issuer may, at its option, redeem the Notes in whole, but not in part, upon the occurrence of a Clean-Up Event, a Gross-Up Event, a Withholding Tax Event, a Tax Deductibility Event, a Change of Control Event, an Accounting Event or an Equity Credit Rating Event, as further described in Condition 5 “Redemption and Purchase” of the Terms and Conditions."
+      },
+      {
+        "id": "9",
+        "doc_id": "ABFS2xOSdyV51n6rAejT5yEmsX78MDj",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [72.0, 118.55999755859375, 523.489990234375, 357.3599853515625],
+        "page_index": [14],
+        "chunk_order": [58],
+        "reference_text": "Changes in rating methodologies may lead to the early redemption of the Notes Moody’s (or any other rating agency of equivalent international standing solicited by the Issuer to grant a corporate Notes rating to itself and to the Notes) may change its rating methodology and as a result the Notes may no longer be assigned the same or higher category of equity credit at their Issue Date (or if equity credit is not assigned on the Issue Date, at the date when the equity credit is assigned for the first time), in which case the Issuer may redeem the Notes in whole, but not in part, as provided in Condition 5.7 “Redemption following an Equity Credit Rating Event” of the Terms and Conditions."
+      },
+      {
+        "id": "10",
+        "doc_id": "ABFS2xOSdyV51n6rAejT5yEmsX78MDj",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 72.0,
+            "x2": 523.47998046875,
+            "y1": 159.9600067138672,
+            "y2": 274.55999755859375
+          }
+        ],
+        "page_index": [15],
+        "chunk_order": [61],
+        "reference_text": "The Issuer is not required to redeem the Notes in the case of a Withholding Tax Event There is uncertainty as to whether gross-up obligations are legal or enforceable under French law. If gross-up obligations under the Notes are held to be illegal or unenforceable under French law, the Issuer will have the right, but not the obligation, to redeem the Notes. Accordingly, if the Issuer does not redeem the Notes upon the occurrence of a Withholding Tax Event (as defined in Condition 5.5 “Redemption for Taxation Reasons” of the Terms and Conditions of the Notes), holders of Notes may receive less than the full amount due, and the market value of such Notes will be materially adversely affected."
+      },
+      {
+        "id": "11",
+        "doc_id": "ABFS2xOSdyV51n6rAejT5yEmsX78MDj",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [72.0, 104.76000213623047, 523.3699951171875, 233.16000366210938],
+        "page_index": [16],
+        "chunk_order": [64],
+        "reference_text": "The interest rates of the Notes will be reset as from the First Reset Date and then every five year period thereafter. Each reset interest rate is not pre-defined at the Issue Date. The interest rates of the Notes may be different from the interest rates prior to the First Reset Date and may adversely affect the yield of the Notes and result in a reduced market value of the Notes if a Noteholder were to dispose of the Notes. In addition, due to the varying interest income on the Notes, potential investors are not able to determine a definite yield of the Notes at the time they purchase the Notes and accordingly their return on investment cannot be compared with that of investments having longer fixed interest periods."
+      },
+      {
+        "id": "12",
+        "doc_id": "ABFS2xOSdyV51n6rAejT5yEmsX78MDj",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [72.0, 159.9600067138672, 523.4299926757812, 309.9599914550781],
+        "page_index": [17],
+        "chunk_order": [70],
+        "reference_text": "The Terms and Conditions of the Notes provide that the Mid-Swap Rate shall be determined by reference to the Screen Page (or its successor or replacement). In circumstances where the Original Mid-Swap Rate (as defined in Condition 4.3 “Mid-Swap Rate Discontinuation” of the Terms and Conditions) is discontinued, neither the Screen Page, nor any successor or replacement may be available. Where the Screen Page is not available, and no successor or replacement for the Screen Page is available, the Terms and Conditions of the Notes provide for the Mid-Swap Rate to be determined by the Calculation Agent by reference to quotations from banks communicated to the Calculation Agent. If such quotations are not available, the Mid-Swap Rate applicable to the relevant Reset Period shall be equal to the Mid-Market Swap Rate last quoted on the Screen Page, as obtained by the Calculation Agent, and the applicable Margin."
+      },
+      {
+        "id": "13",
+        "doc_id": "ABFS2xOSdyV51n6rAejT5yEmsX78MDj",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [72.0, 146.16000366210938, 523.4400024414062, 274.55999755859375],
+        "page_index": [18],
+        "chunk_order": [75],
+        "reference_text": "The Noteholders have no voting rights in shareholders’ meetings. The Notes do not grant voting rights in the Issuer’s shareholders’ meetings. Therefore, Noteholders cannot influence any decisions by the Issuer to pay dividends or more generally any decisions taken by the shareholders’ meeting concerning the capital structure of the Issuer and which could give rise to a Mandatory Payment Event, which would result in Arrears of Interest becoming mandatorily payable, in accordance with Condition 4.8(b) “Arrears of Interest”. The absence of a Mandatory Payment Event could impact the Noteholders’ anticipated short-term returns and have a significant negative impact on the liquidity and therefore market value of the Notes."
+      },
+      {
+        "id": "14",
+        "doc_id": "ABFS2xOSdyV51n6rAejT5yEmsX78MDj",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 72.0,
+            "x2": 523.4400024414062,
+            "y1": 104.76000213623047,
+            "y2": 246.9600067138672
+          }
+        ],
+        "page_index": [9],
+        "chunk_order": [34],
+        "reference_text": "The restructuring plan on which the classe(s) will vote may include, among other things, increasing the liabilities (charges) of holders of debt securities (including the Noteholders) by rescheduling and/or writing-off debts, establishing an unequal treatment between holders of debt securities (including the Noteholders) as appropriate under the circumstances and/or deciding to convert all or part of the debt securities (including the Notes) into shares. The decision of each class is taken by a two-third (2/3rd) majority of the voting rights of the participating members, no quorum being required. If the restructuring plan is not approved by all classes of affected parties, it can still be ratified by the court at the request of the Issuer or the receiver with the Issuer’s consent and be imposed on dissenting classes through a crossclass cram down, under certain conditions."
+      }
+    ]
+  },
+  {},
+  {
+    "name": "Summary",
+    "response": "N/A",
+    "citations": []
+  },
+  {
+    "name": "The Offering",
+    "response": "### Issue Date\n\nThe Notes are issued on 29 May 2024 in dematerialised bearer form in the denomination of €100,000 each[1].\n\n### Denomination\n\nThe denomination of each Note is €100,000[1].\n\n### Form\n\nThe Notes are issued in dematerialised bearer form (au porteur)[1].\n\n### Title\n\nTitle to the Notes will be evidenced by book-entries in accordance with Articles L.211-3 et seq. and R.211-1 et seq. of the French Code monétaire et financier[1].\n\n### Physical Document\n\nNo physical document of title will be issued in respect of the Notes[1].\n\n### Total Issue Amount\n\nThe total issue amount is €750,000,000 for the Undated Deeply Subordinated Fixed to Reset Rate NC 5.25 Notes[2].\n\n### Authorization\n\nThe issue has been authorised pursuant to a resolution of the Board of Directors of the Issuer dated 7 May 2024 and a decision of the Chairman and Chief Executive Officer dated 23 May 2024[2].",
+    "citations": [
+      {
+        "id": "1",
+        "doc_id": "ABFS2xOSdyV51n6rAejT5yEmsX78MDj",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 72.0,
+            "x2": 523.44,
+            "y1": 487.92,
+            "y2": 568.92
+          }
+        ],
+        "page_index": [39],
+        "chunk_order": [157],
+        "reference_text": "The Notes are issued on 29 May 2024 (the “Issue Date”) in dematerialised bearer form (au porteur) in the denomination of €100,000 each. Title to the Notes will be evidenced in accordance with Articles L.211-3 et seq. and R.211-1 et seq. of the French Code monétaire et financier by book-entries (inscription en compte). No physical document of title (including certificats représentatifs pursuant to Article R.211-7 of the French Code monétaire et financier) will be issued in respect of the Notes."
+      },
+      {
+        "id": "2",
+        "doc_id": "ABFS2xOSdyV51n6rAejT5yEmsX78MDj",
+        "doc_name": "UD0000000031675_FR001400Q7G7_HY_OC_20240524_Prospectus_EN.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 72.0,
+            "x2": 523.49,
+            "y1": 93.96,
+            "y2": 180.96
+          }
+        ],
+        "page_index": [39],
+        "chunk_order": [154],
+        "reference_text": "The terms and conditions of the Notes will be as follows: The issue of the €750,000,000 Undated Deeply Subordinated Fixed to Reset Rate NC 5.25 Notes (the “Notes”) of Alstom (the “Issuer”) has been authorised pursuant to a resolution of the Board of Directors (Conseil d’administration) of the Issuer dated 7 May 2024 and a decision of the Chairman and Chief Executive Officer (Président-Directeur Général) of the Issuer dated 23 May 2024."
+      }
+    ]
+  }
+]

@@ -1,0 +1,511 @@
+[
+    {
+        "name": "Asset Sale",
+        "response": "N/A",
+        "citations": []
+    },
+    {
+        "name": "Change of Control",
+        "response": "### Change of Control - Put Option\n\nCondition 8 provides that in the event of a Put Event, the holder of a Note has the option to require the Issuer to redeem or procure the purchase of the Note at its outstanding principal amount together with accrued interest. Furthermore, if a potential Change Control Rating Downgrade occurs within the Change Control Period, the holder of Notes may exercise the Put Option unless within 180 calendar days following the date of announcement or statement relating to the potential Change Control, the Change Control occurs[1].\n\n### Put Event Notice\n\nImmediately upon the Issuer becoming aware that a Put Event has occurred, the Issuer shall give notice (a \"Put Event Notice\") to Noteholders specifying the nature of the Put Event and the procedure for exercising the Put Option contained in Condition 8. To exercise the Put Option, requiring redemption or purchase of the Note under Condition 8, the Noteholder must transfer or cause to be transferred the Notes to the account of the Put Agent specified in the Put Event Notice within a period of 120 calendar days after the Put Event Notice is given (the \"Put Period\"), together with a duly signed and completed notice of exercise form obtainable from the specified office of the Paying Agent[2].\n\n### Optional Redemption Date\n\nThe Issuer shall redeem or, at the option of the Issuer, procure the purchase of Notes in respect of which the Put Option has been validly exercised, subject to the transfer of the Notes to the account of the Put Agent or the account of the Issuer (or relevant purchaser) as described above, on the date that is the tenth Business Day following the end of the Put Period (the \"Optional Redemption Date\")[2].",
+        "citations": [
+            {
+                "id": "1",
+                "doc_id": "ABFS2wifyZONHIdCzzA15HbiBQ4Dvpl",
+                "doc_name": "UD0000000029001_FR001400OL29_HY_OC_2024-03-07-prospectus-bond.pdf",
+                "chunk_bbox": [
+                    {
+                        "x1": 99.37999725341797,
+                        "x2": 530.2899780273438,
+                        "y1": 203.5399932861328,
+                        "y2": 366.4100036621094
+                    }
+                ],
+                "page_index": [
+                    37
+                ],
+                "chunk_order": [
+                    182
+                ],
+                "reference_text": "Condition 8 provides event Put Event, holder Note option require Issuer redeem procure purchase Note outstanding principal amount together accrued interest. Furthermore, potential Change Control Rating Downgrade respect potential Change Control Period occur, holder Notes able exercise Put Option unless within 180 calendar days following date announcement statement relating potential Change Control, Change Control occurs."
+            },
+            {
+                "id": "2",
+                "doc_id": "ABFS2wifyZONHIdCzzA15HbiBQ4Dvpl",
+                "doc_name": "UD0000000029001_FR001400OL29_HY_OC_2024-03-07-prospectus-bond.pdf",
+                "chunk_bbox": [
+                    {
+                        "x1": 99.26000213623047,
+                        "x2": 530.280029296875,
+                        "y1": 71.4000015258789,
+                        "y2": 421.9700012207031
+                    }
+                ],
+                "page_index": [
+                    56
+                ],
+                "chunk_order": [
+                    272
+                ],
+                "reference_text": "Immediately upon Issuer becoming aware Put Event occurred, Issuer shall, give notice (a \"Put Event Notice\") Noteholders accordance Condition 12 specifying nature Put Event procedure exercising Put Option contained Condition 8. exercise Put Option require redemption or, case may be, purchase Note Condition 8, Noteholder must transfer cause transferred Account Holder Notes redeemed purchased account Put Agent specified Put Event Notice account Issuer (or relevant purchaser) within period 120 calendar days Put Event Notice given (the \"Put Period\"), together duly signed completed notice exercise form (for time current) obtainable specified office Paying Agent (a \"Put Option Notice\") Noteholder may specify Euro-denominated bank account payment made Condition 8. Issuer shall redeem or, option Issuer, procure purchase Notes respect Put Option validly exercised provided above, subject transfer Notes account Put Agent account Issuer (or relevant purchaser) described above, date tenth Business Day following end Put Period (the \"Optional Redemption Date\")."
+            }
+        ]
+    },
+    {
+        "name": "Event of Default",
+        "response": "### Events of Default\n\nThe Representative, acting on behalf of the Masse, may cause all of the Notes to become immediately due and payable if certain defaults occur. These include:\n\n- Non-payment of principal or interest on any Note on the due date, not remedied within seven calendar days[1].\n- Non-compliance with other obligations under the Notes within 30 calendar days after written notice of default[1].\n- Default in payment of any other financial indebtedness or guarantee of financial indebtedness of at least EUR 50,000,000, unless challenged in good faith before a tribunal[1].\n- Declaration of any other financial indebtedness due and payable due to an event of default under related agreements, unless challenged in good faith before a tribunal[1].\n- Issuance of a judgment for judicial liquidation or transfer of the whole business of the Issuer or any Principal Subsidiary[1].",
+        "citations": [
+            {
+                "id": "1",
+                "doc_id": "ABFS2wifyZONHIdCzzA15HbiBQ4Dvpl",
+                "doc_name": "UD0000000029001_FR001400OL29_HY_OC_2024-03-07-prospectus-bond.pdf",
+                "chunk_bbox": [
+                    {
+                        "x1": 99.26,
+                        "x2": 495.7,
+                        "y1": 462.19,
+                        "y2": 486.07
+                    }
+                ],
+                "page_index": [
+                    56
+                ],
+                "chunk_order": [
+                    273
+                ],
+                "reference_text": "The Representative (as defined in Condition 11 below), acting on behalf of the Masse (as defined in Condition 11 below), may, upon written notice to the Issuer (with a copy to the Fiscal Agent) before all defaults shall have been cured, cause all, but not some only, of the Notes to become immediately due and payable, at their outstanding principal amount together with any accrued interest thereon:\n. if any amount of principal of, interest on, any Note is not paid on the due date thereof and such default is not remedied within a period of seven calendar days from such due date; or\n. if any other obligations of the Issuer under the Notes is not complied with or performed within a period of 30 calendar days after receipt by the Issuer of written notice of such default given by the Representative (as defined in Condition 11); or\n. if the Issuer or any of its Principal Subsidiaries (as defined below) defaults in the payment of any other financial indebtedness or guarantee of financial indebtedness in a total amount at least equal to EUR 50,000,000 on its due date or, as the case may be, at the end of any applicable grace period, unless the Issuer challenges such default in good faith before a competent tribunal, in which case an early redemption of the Notes will be mandatory only if the tribunal has found against the Issuer and the Issuer has not complied with the judgement in accordance with its terms; or. if any other financial indebtedness of the Issuer or any of its Principal Subsidiaries (as defined below) in an amount in excess of EUR 50,000,000 is declared due and payable due to an event of default under one of the agreements relating to such indebtedness of the Issuer or such Principal Subsidiary, unless the Issuer challenges such default in good faith before a competent tribunal, in which case an early redemption of the Notes will be mandatory only if the tribunal has found against the Issuer and the Issuer has not complied with the judgement in accordance with its terms; or\n. in the case where a judgment is issued for the judicial liquidation (liquidation judiciaire) or for the transfer of the whole of the business (cession totale de l'entreprise) of the Issuer or any Principal Subsidiary, or if the Issuer or any Principal Subsidiary is subject to any other similar measure or proceeding."
+            }
+        ]
+    },
+    {
+        "name": "Permitted Investments",
+        "response": "N/A",
+        "citations": []
+    },
+    {
+        "name": "Permitted Indebtedness",
+        "response": "### Additional Indebtedness and Negative Pledge\n\nThe issuer is subject to a negative pledge as provided in Condition 3, which prohibits the issuer from granting a mortgage on present or future real property assets or interests, as well as a pledge, charge, or security interest on present or future assets and incomes. This applies to holders of notes issued or guaranteed by the issuer that are capable of being admitted to trading on a regulated market. However, subject to this negative pledge, the issuer may incur significant additional indebtedness that could rank equally with the notes. This means that if the issuer incurs such additional indebtedness, it could increase the number of claims entitled to share rateably with noteholders in the proceeds distributed in connection with insolvency, bankruptcy, or similar proceedings, thereby increasing the risk that noteholders could lose part of their investment in the notes[1].",
+        "citations": [
+            {
+                "id": "1",
+                "doc_id": "ABFS2wifyZONHIdCzzA15HbiBQ4Dvpl",
+                "doc_name": "UD0000000029001_FR001400OL29_HY_OC_2024-03-07-prospectus-bond.pdf",
+                "chunk_bbox": [
+                    {
+                        "x1": 99.37999725341797,
+                        "x2": 530.0900268554688,
+                        "y1": 344.2099914550781,
+                        "y2": 500.1099853515625
+                    }
+                ],
+                "page_index": [
+                    36
+                ],
+                "chunk_order": [
+                    179
+                ],
+                "reference_text": "negative pledge provided Condition 3 prohibits Issuer granting mortgage present future real property assets interests, pledge, charge, security interest present future assets incomes, holders notes (obligations) issued guaranteed Issuer, are, capable being, admitted trading regulated market. Subject negative pledge, Issuer may incur significant additional indebtedness could rank equally Notes. Accordingly, Issuer incurs significant additional indebtedness ranking equally Notes, increase number claims would entitled share rateably Noteholders proceeds distributed connection insolvency, bankruptcy similar proceeding increase risk Noteholders lose part investment Notes."
+            }
+        ]
+    },
+    {
+        "name": "Restricted Payments",
+        "response": "N/A",
+        "citations": []
+    },
+    {
+        "name": "Optional Redemption",
+        "response": "### Redemption Upon Change of Control\n\nIf a Put Event occurs while the Note remains outstanding, the holder of the Note has the option (the \"Put Option\") to require the Issuer to redeem or, at the Issuer's option, procure the purchase of the Note on the Optional Redemption Date at its principal amount together with interest accrued to, but excluding, the date set for redemption[1].\n\n### Redemption for Taxation Reasons\n\nIf due to a change in law or regulation in the Republic of France, the Issuer would be unable to make the next payment of principal or interest without paying additional amounts, the Issuer may, at its sole discretion, redeem the Notes in whole or in part at their outstanding principal amount, together with interest accrued to the date fixed for redemption. This redemption is subject to giving between 45 and 15 calendar days' prior notice to Noteholders[2].\n\n### Redemption at the Option of the Issuer\n\nThe Issuer may, subject to compliance with relevant laws, redeem the Notes in whole or in part at any time prior to 11 December 2029, at a price per Note equal to the product of 100% of the relevant Specified Percentage of the outstanding principal amount of the Notes, plus the Optional Redemption Amount, which is calculated by the Calculation Agent[3].",
+        "citations": [
+            {
+                "id": "1",
+                "doc_id": "ABFS2wifyZONHIdCzzA15HbiBQ4Dvpl",
+                "doc_name": "UD0000000029001_FR001400OL29_HY_OC_2024-03-07-prospectus-bond.pdf",
+                "chunk_bbox": [
+                    {
+                        "x1": 99.26,
+                        "x2": 530.16,
+                        "y1": 415.13,
+                        "y2": 508.51
+                    }
+                ],
+                "page_index": [
+                    54
+                ],
+                "chunk_order": [
+                    264
+                ],
+                "reference_text": "time Note remains outstanding occurs Put Event, holder Note option (the \"Put Option\") (unless, prior giving Put Event Notice (as defined below), Issuer gives notice intention redeem Notes Conditions 5(b), 5(c) (if total principal amount outstanding Notes), 5(d) 5(e)) require Issuer redeem or, Issuer's option, procure purchase Note Optional Redemption Date (as defined below) principal amount together interest accrued to, excluding date set redemption."
+            },
+            {
+                "id": "2",
+                "doc_id": "ABFS2wifyZONHIdCzzA15HbiBQ4Dvpl",
+                "doc_name": "UD0000000029001_FR001400OL29_HY_OC_2024-03-07-prospectus-bond.pdf",
+                "chunk_bbox": [
+                    {
+                        "x1": 133.34,
+                        "x2": 530.18,
+                        "y1": 92.3,
+                        "y2": 282.89
+                    }
+                ],
+                "page_index": [
+                    50
+                ],
+                "chunk_order": [
+                    243
+                ],
+                "reference_text": "(i) If, reason change law regulation Republic France political subdivision authority therein thereof power tax, change official application interpretation law regulation (including holding competent court), becoming effective Issue Date, Issuer would, occasion next payment principal interest due respect Notes, able make payment without pay additional amounts specified Condition 7, Issuer may, sole discretion, time, subject given 45 less 15 calendar days' prior notice Noteholders accordance Condition 12 (which notice shall irrevocable), redeem whole, part, Notes outstanding outstanding principal amount, together interest accrued date fixed redemption, provided due date redemption notice hereunder may given shall earlier latest practicable date Issuer could make payment principal interest without withholding French taxes."
+            },
+            {
+                "id": "3",
+                "doc_id": "ABFS2wifyZONHIdCzzA15HbiBQ4Dvpl",
+                "doc_name": "UD0000000029001_FR001400OL29_HY_OC_2024-03-07-prospectus-bond.pdf",
+                "chunk_bbox": [
+                    {
+                        "x1": 133.34,
+                        "x2": 530.19,
+                        "y1": 502.39,
+                        "y2": 672.22
+                    }
+                ],
+                "page_index": [
+                    50
+                ],
+                "chunk_order": [
+                    245
+                ],
+                "reference_text": "Issuer may, subject compliance relevant laws, regulations directives given 45 less 15 calendar days' notice Noteholders accordance Condition 12 (which notice shall irrevocable shall specify date fixed redemption (a \"Make-Whole Redemption Date\")), one occasions redeem all, specified percentage (the \"Specified Percentage\") (which Specified Percentage shall specified notice) outstanding principal amount Notes, time prior 11 December 2029 price per Note equal product (rounded nearest cent half cent rounded upwards) calculated Calculation Agent (A) 100% relevant Specified Percentage, case may be, (B) Optional Redemption Amount."
+            }
+        ]
+    },
+    {
+        "name": "Negative Pledge",
+        "response": "### Negative Pledge Clauses\n\nThe negative pledge provided in Condition 3 prohibits the Issuer from granting a mortgage on present or future real property assets and interests, pledge, charge, or security interest on present or future assets and incomes. This is applicable to holders of notes (obligations) issued or guaranteed by the Issuer, which are capable of being admitted to trading on a regulated market. Subject to the negative pledge, the Issuer may incur significant additional indebtedness that could rank equally with the Notes. Consequently, if the Issuer incurs significant additional indebtedness ranking equally with the Notes, it would increase the number of claims entitled to share rateably with Noteholders in proceeds distributed in connection with insolvency, bankruptcy, or similar proceedings, thereby increasing the risk that Noteholders could lose part of their investment in the Notes[1].\n\n### Limitation on Liens\n\nAs long as the Notes remain outstanding, the Issuer undertakes not to grant a mortgage (hypothèque) on present or future real property assets and interests, pledge (nantissement), charge (gage), or security interest (sûreté réelle) on present or future assets and incomes to holders of notes (obligations) issued or guaranteed by the Issuer, which are capable of being admitted to trading on a regulated market, unless at the time the Notes are equally and rateably secured therewith. This undertaking is given in relation to security interests provided for the benefit of holders of notes (obligations) that are capable of being admitted to trading on a regulated market, and it does not affect the Issuer's right to dispose of assets or grant security in respect of assets under any circumstance[2].",
+        "citations": [
+            {
+                "id": "1",
+                "doc_id": "ABFS2wifyZONHIdCzzA15HbiBQ4Dvpl",
+                "doc_name": "UD0000000029001_FR001400OL29_HY_OC_2024-03-07-prospectus-bond.pdf",
+                "chunk_bbox": [
+                    {
+                        "x1": 99.37999725341797,
+                        "x2": 530.0900268554688,
+                        "y1": 344.2099914550781,
+                        "y2": 500.1099853515625
+                    }
+                ],
+                "page_index": [
+                    36
+                ],
+                "chunk_order": [
+                    179
+                ],
+                "reference_text": "negative pledge provided Condition 3 prohibits Issuer granting mortgage present future real property assets interests, pledge, charge, security interest present future assets incomes, holders notes (obligations) issued guaranteed Issuer, are, capable being, admitted trading regulated market. Subject negative pledge, Issuer may incur significant additional indebtedness could rank equally Notes. Accordingly, Issuer incurs significant additional indebtedness ranking equally Notes, increase number claims would entitled share rateably Noteholders proceeds distributed connection insolvency, bankruptcy similar proceeding increase risk Noteholders lose part investment Notes."
+            },
+            {
+                "id": "2",
+                "doc_id": "ABFS2wifyZONHIdCzzA15HbiBQ4Dvpl",
+                "doc_name": "UD0000000029001_FR001400OL29_HY_OC_2024-03-07-prospectus-bond.pdf",
+                "chunk_bbox": [
+                    {
+                        "x1": 99.37999725341797,
+                        "x2": 530.1400146484375,
+                        "y1": 632.1400146484375,
+                        "y2": 746.260009765625
+                    }
+                ],
+                "page_index": [
+                    48
+                ],
+                "chunk_order": [
+                    236
+                ],
+                "reference_text": "long Notes remain outstanding, Issuer undertakes grant mortgage (hypothèque) present future real property assets interests, pledge (nantissement), charge (gage), security interest (sûreté réelle) present future assets incomes, holders notes (obligations) issued guaranteed Issuer, are, capable being, admitted trading regulated market, unless time Notes equally rateably secured therewith. undertaking given relation security interests given benefit holders notes (obligations) are, capable being, admitted trading regulated market affect way right Issuer dispose assets grant security respect assets circumstance."
+            }
+        ]
+    },
+    {
+        "name": "Transactions with Shareholders and Affiliates",
+        "response": "### Transactions with Shareholders and Affiliates\n\nCertain Managers and their affiliates are engaged in ordinary course business activities with the Issuer and its affiliates. These activities include making investments, trading debt and equity securities, and financial instruments, which may involve securities and/or instruments of the Issuer and its affiliates. Managers' affiliates may also have lending relationships with the Issuer and routinely hedge credit exposure to the Issuer in accordance with customary risk management policies. Typically, this hedging involves entering into transactions such as purchasing credit default swaps or creating short positions in securities, potentially including the Notes. Additionally, Managers' affiliates may make investment recommendations and publish independent research views regarding securities and financial instruments they hold or recommend to clients, which may include long and/or short positions in such securities and instruments[1][2].",
+        "citations": [
+            {
+                "id": "1",
+                "doc_id": "ABFS2wifyZONHIdCzzA15HbiBQ4Dvpl",
+                "doc_name": "UD0000000029001_FR001400OL29_HY_OC_2024-03-07-prospectus-bond.pdf",
+                "chunk_bbox": [
+                    {
+                        "x1": 97.81999969482422,
+                        "x2": 531.5900268554688,
+                        "y1": 106.22000122070312,
+                        "y2": 282.8900146484375
+                    }
+                ],
+                "page_index": [
+                    78
+                ],
+                "chunk_order": [
+                    361
+                ],
+                "reference_text": "addition, ordinary course business activities, Managers affiliates may make hold broad array investments actively trade debt equity securities (or related derivative securities) financial instruments (including bank loans) account accounts customers. investments securities activities may involve securities and/or instruments Issuer affiliates. Certain Managers affiliates lending relationship Issuer routinely hedge credit exposure Issuer consistently customary risk management policies. Typically, Managers affiliates would hedge exposure entering transactions consist either purchase credit default swaps creation short positions securities, including potentially Notes. Managers affiliates may also make investment recommendations and/or publish express independent research views respect securities financial instruments may hold, recommend clients acquire, long and/or short positions securities instruments."
+            },
+            {
+                "id": "2",
+                "doc_id": "ABFS2wifyZONHIdCzzA15HbiBQ4Dvpl",
+                "doc_name": "UD0000000029001_FR001400OL29_HY_OC_2024-03-07-prospectus-bond.pdf",
+                "chunk_bbox": [
+                    {
+                        "x1": 63.86000061035156,
+                        "x2": 531.6900024414062,
+                        "y1": 516.6699829101562,
+                        "y2": 763.0599975585938
+                    }
+                ],
+                "page_index": [
+                    77
+                ],
+                "chunk_order": [
+                    360
+                ],
+                "reference_text": "Certain Managers affiliates engaged, may future engage, investment banking, financing and/or commercial banking transactions with, may perform services for, Issuer affiliates ordinary course business. Certain Managers affiliates may positions, deal make markets Notes, related derivatives reference obligations, including (but limited to) entering hedging strategies behalf Issuer affiliates, investor clients, principal order manage exposure, general market risk, trading activities."
+            }
+        ]
+    },
+    {
+        "name": "Use of proceeds",
+        "response": "### Use of Proceeds\n\nThe estimated net proceeds from the issue of the Notes amount to EUR 348,680,000. These proceeds will be used for the Issuer's general corporate purposes, including refinancing the Issuer's outstanding EUR 200,000,000 2.75% bonds due on 5 April 2024 (FR0013248713)[1].",
+        "citations": [
+            {
+                "id": "1",
+                "doc_id": "ABFS2wifyZONHIdCzzA15HbiBQ4Dvpl",
+                "doc_name": "UD0000000029001_FR001400OL29_HY_OC_2024-03-07-prospectus-bond.pdf",
+                "chunk_bbox": [
+                    {
+                        "x1": 68.9,
+                        "x2": 523.04,
+                        "y1": 93.14,
+                        "y2": 128.54
+                    }
+                ],
+                "page_index": [
+                    62
+                ],
+                "chunk_order": [
+                    294
+                ],
+                "reference_text": "estimated net proceeds issue Notes amount EUR 348,680,000 used Issuer general corporate purposes including refinancing Issuer’s outstanding EUR 200,000,000 2.75 per cent. bonds due 5 April 2024 (FR0013248713)."
+            }
+        ]
+    },
+    {
+        "name": "Risk factors",
+        "response": "### Risk Factors Overview\n\nThe bond document outlines several risk factors that prospective investors should consider before investing. These risks may affect the issuer's ability to fulfill its obligations under the notes, including the potential inability to pay interest or principal amounts due to various reasons[1].\n\n### Categories of Risks\n\nThe issuer has identified 15 principal risks categorized into four main areas: Strategic Risks, Operational Risks, Legal Compliance Risks, and Financial Risks. These risks are assessed based on their criticality and the effectiveness of the risk mitigation measures in place[2].\n\n### Specific Risks\n\nAmong the specific risks highlighted are health and safety risks, talent scarcity, market innovation risks, and financial risks related to internal controls and tax issues. Each of these risks is monitored and managed to minimize their occurrence and potential impact on the issuer's operations[3].\n\n### Economic and Geopolitical Risks\n\nThe document also discusses risks associated with economic downturns and geopolitical instability, which could affect the issuer's performance. For instance, the issuer has a robust backlog in its Generation & Transmission business, which may mitigate some impacts of economic slowdowns[4].\n\n### Compliance and Legal Risks\n\nLegal compliance risks are also significant, particularly concerning antitrust laws and potential claims related to product liability. The issuer has faced previous investigations and fines, which could impact its financial position and reputation[5].\n\n### Conclusion\n\nInvestors are encouraged to conduct their own evaluations of these risk factors and consider them carefully in the context of their investment decisions[6].",
+        "citations": [
+            {
+                "id": "1",
+                "doc_id": "ABFS2wifyZONHIdCzzA15HbiBQ4Dvpl",
+                "doc_name": "UD0000000029001_FR001400OL29_HY_OC_2024-03-07-prospectus-bond.pdf",
+                "chunk_bbox": [
+                    {
+                        "x1": 65.30000305175781,
+                        "y1": 101.41999816894531,
+                        "x2": 530.0599975585938,
+                        "y2": 271.25
+                    }
+                ],
+                "page_index": [
+                    8
+                ],
+                "chunk_order": [
+                    1
+                ],
+                "reference_text": "following certain risk factors offering Notes prospective investors aware. Issuer believes following factors may affect ability fulfil obligations Notes."
+            },
+            {
+                "id": "2",
+                "doc_id": "ABFS2wifyZONHIdCzzA15HbiBQ4Dvpl",
+                "doc_name": "UD0000000029001_FR001400OL29_HY_OC_2024-03-07-prospectus-bond.pdf",
+                "chunk_bbox": [
+                    {
+                        "x1": 99.26000213623047,
+                        "y1": 457.3900146484375,
+                        "x2": 530.0700073242188,
+                        "y2": 599.469970703125
+                    }
+                ],
+                "page_index": [
+                    7
+                ],
+                "chunk_order": [
+                    2
+                ],
+                "reference_text": "part Nexans’ risk management process, Group conducted assessment identify primary risk factors faces."
+            },
+            {
+                "id": "4",
+                "doc_id": "ABFS2wifyZONHIdCzzA15HbiBQ4Dvpl",
+                "doc_name": "UD0000000029001_FR001400OL29_HY_OC_2024-03-07-prospectus-bond.pdf",
+                "chunk_bbox": [
+                    {
+                        "x1": 99.26000213623047,
+                        "y1": 422.69000244140625,
+                        "x2": 530.1199951171875,
+                        "y2": 460.510009765625
+                    }
+                ],
+                "page_index": [
+                    8
+                ],
+                "chunk_order": [
+                    4
+                ],
+                "reference_text": "Nexans committed maintaining improving performance, even face geopolitical economic uncertainty."
+            },
+            {
+                "id": "5",
+                "doc_id": "ABFS2wifyZONHIdCzzA15HbiBQ4Dvpl",
+                "doc_name": "UD0000000029001_FR001400OL29_HY_OC_2024-03-07-prospectus-bond.pdf",
+                "chunk_bbox": [
+                    {
+                        "x1": 99.26000213623047,
+                        "y1": 510.30999755859375,
+                        "x2": 203.77000427246094,
+                        "y2": 520.27001953125
+                    }
+                ],
+                "page_index": [
+                    26
+                ],
+                "chunk_order": [
+                    5
+                ],
+                "reference_text": "late January 2009, European Commission launched antitrust investigation various cable manufacturers including Group companies relation alleged anticompetitive behavior subsea underground high-voltage power cables sector."
+            },
+            {
+                "id": "6",
+               "doc_id": "ABFS2wifyZONHIdCzzA15HbiBQ4Dvpl",
+                "doc_name": "UD0000000029001_FR001400OL29_HY_OC_2024-03-07-prospectus-bond.pdf",
+                "chunk_bbox": [
+                    {
+                        "x1": 99.26000213623047,
+                        "y1": 610.3900146484375,
+                        "x2": 529.97998046875,
+                        "y2": 738.4600219726562
+                    }
+                ],
+                "page_index": [
+                    7
+                ],
+                "chunk_order": [
+                    6
+                ],
+                "reference_text": "Prospective investors make independent evaluations risk factors also read detailed information set elsewhere Prospectus."
+            }
+        ]
+    },
+    {
+        "name": "Covenants",
+        "response": "### Credit Rating Provisions\n\nThe bond documents indicate that the credit rating assigned to the Notes is based on the Issuer's financial situation and considers relevant structural features of the transaction. The rating reflects the views of the rating agency and addresses the likelihood of full and timely payments to Noteholders, including interest payments and principal repayment on the final payment date. It is important to note that the rating may be reviewed, revised, suspended, or withdrawn by the rating agency based on changes in circumstances or unavailability of information. A decline in the Issuer's credit rating could adversely affect the trading price of the Notes[1].\n\n### Risks Related to Market Value\n\nThe market value of the Notes is influenced by the creditworthiness of the Issuer and various other factors, including market interest rates and the time remaining until maturity. The value of the Notes can be affected by economic, financial, and political events both in France and globally. If a Noteholder needs to sell the Notes before maturity, they may receive a price significantly lower than the purchase price, resulting in a potential loss of capital invested[2].\n\n### Trading Market and Liquidity\n\nThe documents state that an application has been made for the Notes to be admitted to trading on Euronext Paris. While an active trading market may develop, there is no guarantee that it will be maintained. If the market for the Notes is not liquid, Noteholders may face challenges in selling their Notes at favorable prices, which could lead to significant losses. Additionally, the exercise of a Put Option may affect the liquidity of the Notes, depending on the number of Notes exercised[3].\n\n### Negative Pledge\n\nThe Issuer has undertaken a negative pledge, which means that as long as the Notes remain outstanding, the Issuer will not grant security interests over its present or future assets unless the Notes are equally secured. This provision is designed to protect the interests of the Noteholders by ensuring that they are not subordinated to other creditors[4].\n\n### Interest Rate and Payment Terms\n\nThe Notes bear interest at a rate of 4.250% per annum, payable annually in arrears. The interest period begins from the Issue Date and continues until the Maturity Date. Interest calculations are based on the Actual/Actual-ICMA method, and interest will cease to accrue upon redemption unless payment is improperly withheld[5].",
+        "citations": [
+            {
+                "id": "1",
+                "doc_id": "ABFS2wifyZONHIdCzzA15HbiBQ4Dvpl",
+                "doc_name": "UD0000000029001_FR001400OL29_HY_OC_2024-03-07-prospectus-bond.pdf",
+                "chunk_bbox": [
+                    {
+                        "x1": 68.54000091552734,
+                        "y1": 616.6300048828125,
+                        "x2": 525.5599975585938,
+                        "y2": 737.8599853515625
+                    }
+                ],
+                "page_index": [
+                    5
+                ],
+                "chunk_order": [
+                    16
+                ],
+                "reference_text": "rating assigned Notes rating agency based Issuer’s financial situation takes account relevant structural features transaction, including, inter alia, terms Notes, reflects views rating agency. rating may reflect potential impact risks related structure, market, additional factors discussed paragraph, factors may affect value Notes. rating addresses likelihood full timely payment Noteholders payments interest interest payment date repayment principal final payment date. assurance rating continue period time reviewed, revised, suspended withdrawn entirely rating agency result changes unavailability information if, rating agency’s judgement, circumstances warrant. credit rating and/or corporate rating recommendation buy, sell hold securities. adverse change applicable credit rating could adversely affect trading price Notes."
+            },
+            {
+                "id": "2",
+                "doc_id": "ABFS2wifyZONHIdCzzA15HbiBQ4Dvpl",
+                "doc_name": "UD0000000029001_FR001400OL29_HY_OC_2024-03-07-prospectus-bond.pdf",
+                "chunk_bbox": [
+                    {
+                        "x1": 99.37999725341797,
+                        "y1": 558.1900024414062,
+                        "x2": 529.969970703125,
+                        "y2": 693.219970703125
+                    }
+                ],
+                "page_index": [
+                    37
+                ],
+                "chunk_order": [
+                    187
+                ],
+                "reference_text": "Notes rated BB+ S&P. market value Notes affected creditworthiness Issuer number additional factors, including, limited to, market interest yield rates time remaining maturity date. value Notes depends number interrelated factors, including economic, financial political events France elsewhere, including factors affecting capital markets generally stock exchanges Notes traded. price Noteholder able sell Notes prior maturity may discount, could substantial, issue price purchase price paid Noteholder. Accordingly, part capital invested Noteholder may lost upon transfer Notes, Noteholder case would receive significantly less total amount capital invested."
+            },
+            {
+                "id": "3",
+                "doc_id": "ABFS2wifyZONHIdCzzA15HbiBQ4Dvpl",
+                "doc_name": "UD0000000029001_FR001400OL29_HY_OC_2024-03-07-prospectus-bond.pdf",
+                "chunk_bbox": [
+                    {
+                        "x1": 99.37999725341797,
+                        "y1": 725.1400146484375,
+                        "x2": 530.0700073242188,
+                        "y2": 762.8200073242188
+                    }
+                ],
+                "page_index": [
+                    37
+                ],
+                "chunk_order": [
+                    188
+                ],
+                "reference_text": "Application made Notes admitted trading Euronext Paris Issue Date. active trading market Notes may develop and, one develop, may maintained. active trading market Notes develop maintained, market trading price liquidity Notes may adversely affected. Therefore, Noteholders may able sell Notes secondary market (in case market trading price liquidity may adversely affected) may able sell Notes prices provide yield comparable similar investments developed secondary market Noteholders could lose significant part investments Notes."
+            },
+            {
+                "id": "4",
+                "doc_id": "ABFS2wifyZONHIdCzzA15HbiBQ4Dvpl",
+                "doc_name": "UD0000000029001_FR001400OL29_HY_OC_2024-03-07-prospectus-bond.pdf",
+                "chunk_bbox": [
+                    {
+                        "x1": 99.37999725341797,
+                        "y1": 632.1400146484375,
+                        "x2": 530.1400146484375,
+                        "y2": 746.260009765625
+                    }
+                ],
+                "page_index": [
+                    47
+                ],
+                "chunk_order": [
+                    236
+                ],
+                "reference_text": "long Notes remain outstanding, Issuer undertakes grant mortgage (hypothèque) present future real property assets interests, pledge (nantissement), charge (gage), security interest (sûreté réelle) present future assets incomes, holders notes (obligations) issued guaranteed Issuer, are, capable being, admitted trading regulated market, unless time Notes equally rateably secured therewith. undertaking given relation security interests given benefit holders notes (obligations) are, capable being, admitted trading regulated market affect way right Issuer dispose assets grant security respect assets circumstance."
+            },
+            {
+                "id": "5",
+                "doc_id": "ABFS2wifyZONHIdCzzA15HbiBQ4Dvpl",
+                "doc_name": "UD0000000029001_FR001400OL29_HY_OC_2024-03-07-prospectus-bond.pdf",
+                "chunk_bbox": [
+                    {
+                        "x1": 133.33999633789062,
+                        "y1": 274.6099853515625,
+                        "x2": 530.22998046875,
+                        "y2": 374.92999267578125
+                    }
+                ],
+                "page_index": [
+                    48
+                ],
+                "chunk_order": [
+                    238
+                ],
+                "reference_text": "Notes bear interest from, including, 11 March 2024 (the \"Issue Date\") to, excluding, 11 March 2030 (the \"Maturity Date\"), rate 4.250 per cent. per annum payable annually arrear 11 March year (each \"Interest Payment Date\") commencing 11 March 2025. period from, including, Issue Date to, excluding, first Interest Payment Date successive period including Interest Payment Date to, excluding, next Interest Payment Date called \"Interest Period\"."
+            }
+        ]
+    }
+]

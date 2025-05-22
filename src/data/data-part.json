@@ -1,0 +1,232 @@
+[
+    {
+        "response": "### Summary and Overview\n\nThe bond document outlines various risk factors associated with the investment in the Notes issued by Nexans. It emphasizes the credit risk involved, indicating that the Notes are direct, unconditional, and unsecured obligations of the Issuer. If the Issuer's creditworthiness deteriorates, it may negatively impact Noteholders, potentially leading to losses on their investments[1]. The document also highlights that the Notes are protected by restrictive covenants, which prevent the Issuer from incurring additional indebtedness that could rank equally with the Notes, thereby increasing the risk for Noteholders in case of insolvency[2]. Furthermore, it discusses the possibility of early redemption of the Notes, which could result in lower yields for Noteholders compared to their initial expectations[3]. Additionally, the document notes that changes in market interest rates may adversely affect the value of the Notes, leading to potential capital losses for investors if they decide to sell before maturity[4]. Overall, prospective investors are advised to carefully evaluate these risks before making investment decisions[5].",
+        "citations": [
+            {
+                "id": "1",
+                "doc_name": "Bond_Document.pdf",
+                "chunk_bbox": [
+                    {
+                        "x1": 100,
+                        "x2": 400,
+                        "y1": 200,
+                        "y2": 220
+                    }
+                ],
+                "page_index": [
+                    8
+                ],
+                "chunk_order": [
+                    1
+                ],
+                "parent_doc_id": "doc_xyz",
+                "reference_text": "credit risk refers risk Issuer may unable meet financial obligations Notes."
+            },
+            {
+                "id": "2",
+                "doc_name": "Bond_Document.pdf",
+                "chunk_bbox": [
+                    {
+                        "x1": 100,
+                        "x2": 400,
+                        "y1": 220,
+                        "y2": 240
+                    }
+                ],
+                "page_index": [
+                    8
+                ],
+                "chunk_order": [
+                    2
+                ],
+                "parent_doc_id": "doc_xyz",
+                "reference_text": "negative pledge provided Condition 3 prohibits Issuer granting mortgage present future real property assets interests."
+            },
+            {
+                "id": "3",
+                "doc_name": "Bond_Document.pdf",
+                "chunk_bbox": [
+                    {
+                        "x1": 100,
+                        "x2": 400,
+                        "y1": 240,
+                        "y2": 260
+                    }
+                ],
+                "page_index": [
+                    8
+                ],
+                "chunk_order": [
+                    3
+                ],
+                "parent_doc_id": "doc_xyz",
+                "reference_text": "early redemption Notes may result, Noteholders, yield considerably lower anticipated."
+            },
+            {
+                "id": "4",
+                "doc_name": "Bond_Document.pdf",
+                "chunk_bbox": [
+                    {
+                        "x1": 100,
+                        "x2": 400,
+                        "y1": 260,
+                        "y2": 280
+                    }
+                ],
+                "page_index": [
+                    8
+                ],
+                "chunk_order": [
+                    4
+                ],
+                "parent_doc_id": "doc_xyz",
+                "reference_text": "Investment Notes involves risk subsequent changes market interest rates may adversely affect value yield Notes."
+            },
+            {
+                "id": "5",
+                "doc_name": "Bond_Document.pdf",
+                "chunk_bbox": [
+                    {
+                        "x1": 100,
+                        "x2": 400,
+                        "y1": 280,
+                        "y2": 300
+                    }
+                ],
+                "page_index": [
+                    8
+                ],
+                "chunk_order": [
+                    5
+                ],
+                "parent_doc_id": "doc_xyz",
+                "reference_text": "Prospective investors make independent evaluations risk factors also read detailed information set elsewhere Prospectus."
+            }
+        ]
+    },
+    {
+        "response": "### Offering Overview\n\nThe offering consists of EUR 350,000,000 4.250% Notes due on 11 March 2030, issued by Nexans (the \"Issuer\") as authorized by a resolution from the Board of Directors dated 17 January 2024[1].\n\n### Interest Rate\n\nThe Notes bear an interest rate of 4.250% per annum, payable annually in arrears on 11 March, starting from 11 March 2025[2].\n\n### Redemption Terms\n\nThe Issuer may redeem the Notes prior to maturity under certain conditions, including events of default or at specified redemption dates, which may affect the liquidity and market value of the Notes[3].\n\n### Credit Risk\n\nInvesting in the Notes involves credit risk, as they are direct, unconditional, and unsubordinated obligations of the Issuer. The creditworthiness of the Issuer may deteriorate, impacting the ability to meet financial obligations[4].\n\n### Market Value\n\nThe market value of the Notes is subject to various factors, including the Issuer's creditworthiness and prevailing market interest rates, which may lead to potential losses for Noteholders if sold prior to maturity[5].\n\n### Trading Market\n\nApplication has been made for the Notes to be admitted to trading on Euronext Paris, and while an active trading market may develop, liquidity may be adversely affected by various factors[6].",
+        "citations": [
+            {
+                "id": "1",
+                "doc_name": "Bond_XYZ_2024.pdf",
+                "chunk_bbox": [
+                    {
+                        "x1": 100,
+                        "x2": 400,
+                        "y1": 200,
+                        "y2": 220
+                    }
+                ],
+                "page_index": [
+                    10
+                ],
+                "chunk_order": [
+                    1
+                ],
+                "parent_doc_id": "doc_xyz",
+                "reference_text": "issue EUR 350,000,000 4.250 per cent. Notes due 11 March 2030 (the \"Notes\") Nexans (the \"Issuer\") authorised pursuant resolution Board Directors (Conseil d’administration) Issuer dated 17 January 2024."
+            },
+            {
+                "id": "2",
+                "doc_name": "Bond_XYZ_2024.pdf",
+                "chunk_bbox": [
+                    {
+                        "x1": 120,
+                        "x2": 380,
+                        "y1": 300,
+                        "y2": 320
+                    }
+                ],
+                "page_index": [
+                    10
+                ],
+                "chunk_order": [
+                    2
+                ],
+                "parent_doc_id": "doc_xyz",
+                "reference_text": "Notes bear interest outstanding principal amount time time rate 4.250 per cent. per annum, from, including, Issue Date (but excluding) Maturity Date payable Euro annually arrear 11 March year, commencing 11 March 2025."
+            },
+            {
+                "id": "3",
+                "doc_name": "Bond_XYZ_2024.pdf",
+                "chunk_bbox": [
+                    {
+                        "x1": 140,
+                        "x2": 400,
+                        "y1": 280,
+                        "y2": 300
+                    }
+                ],
+                "page_index": [
+                    10
+                ],
+                "chunk_order": [
+                    3
+                ],
+                "parent_doc_id": "doc_xyz",
+                "reference_text": "Issuer may redeem all, only, Notes outstanding outstanding principal amount together interest accrued accordance Condition 5(b) Conditions."
+            },
+            {
+                "id": "4",
+                "doc_name": "Bond_XYZ_2024.pdf",
+                "chunk_bbox": [
+                    {
+                        "x1": 150,
+                        "x2": 400,
+                        "y1": 250,
+                        "y2": 270
+                    }
+                ],
+                "page_index": [
+                    10
+                ],
+                "chunk_order": [
+                    4
+                ],
+                "parent_doc_id": "doc_xyz",
+                "reference_text": "However, investment Notes involves taking credit risk Issuer. Credit risk refers risk Issuer may unable meet financial obligations Notes."
+            },
+            {
+                "id": "5",
+                "doc_name": "Bond_XYZ_2024.pdf",
+                "chunk_bbox": [
+                    {
+                        "x1": 160,
+                        "x2": 400,
+                        "y1": 240,
+                        "y2": 260
+                    }
+                ],
+                "page_index": [
+                    10
+                ],
+                "chunk_order": [
+                    5
+                ],
+                "parent_doc_id": "doc_xyz",
+                "reference_text": "market value Notes affected creditworthiness Issuer number additional factors, including, limited to, market interest yield rates time remaining maturity date."
+            },
+            {
+                "id": "6",
+                "doc_name": "Bond_XYZ_2024.pdf",
+                "chunk_bbox": [
+                    {
+                        "x1": 170,
+                        "x2": 400,
+                        "y1": 230,
+                        "y2": 250
+                    }
+                ],
+                "page_index": [
+                    10
+                ],
+                "chunk_order": [
+                    6
+                ],
+                "parent_doc_id": "doc_xyz",
+                "reference_text": "Application made Notes admitted trading Euronext Paris Issue Date."
+            }
+        ]
+    }
+]

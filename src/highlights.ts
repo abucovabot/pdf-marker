@@ -1,6 +1,6 @@
 // import data from './data/data.json'
 // import data2 from './data2.json'
-import data4 from './data4.json'
+import data5 from './data6.json'
 // import data from './data.json'
 
 export type BBox = {
@@ -10,25 +10,27 @@ export type BBox = {
   y2: number; // bottom
 };
 
-export type BBoxWithPage = {
+export type BBoxWithPageWithRefText = {
   page_num: number;
   bbox: BBox;
+  reference_text: string;
 }
 
 export interface ResponseWithCitations {
     name: string;
     response: string, 
-    citations?: BBoxWithPage[];
+    citations?: BBoxWithPageWithRefText[];
 }
 
-export const responseWithCitations: ResponseWithCitations[] = data4.map(item => {
+export const responseWithCitations: ResponseWithCitations[] = data5.map(item => {
   return {
-    name: item.name,
-    response: item.response,
+    name: item.name ?? "",
+    response: item.response ?? "",
     citations: item?.citations?.map(citation => {
       return {
         page_num: Array.isArray(citation.page_index) ? citation.page_index[0] : citation.page_index,
         bbox: citation.chunk_bbox[0],
+        reference_text: citation.reference_text,
       }
     })
   }

@@ -17,7 +17,7 @@ import { convertResponseToNotes } from './bboxToAreaHighlight';
 import { usePdfPageSize } from './usePdfPageSize';
 
 interface Note {
-    id: number;
+    id: number ;
     content: string;
     highlightAreas: HighlightArea[];
     quote: string;
@@ -252,8 +252,8 @@ const HighlightExample: React.FC<HighlightExampleProps> = ({ fileUrl }) => {
     return (
         <div
         style={{
-            height: '750px',
-            width: '80%',
+            height: '100vh',
+            width: '100%',
             marginLeft: 'auto',
             marginRight: 'auto',
         }}

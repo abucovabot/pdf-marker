@@ -45,7 +45,7 @@ export function bboxToAreaHighlight(
     };
 }
 
-export const convertResponseToNotes = (pdfSize: { width: number; height: number }, responses: ResponseWithCitations[]) => {
+/*export const convertResponseToNotes = (pdfSize: { width: number; height: number }, responses: ResponseWithCitations[]) => {
         if (pdfSize) {
             const convertedNotes = responses.map((response, idx) => {
                 const areas = response?.citations?.map((citation) => {
@@ -65,10 +65,52 @@ export const convertResponseToNotes = (pdfSize: { width: number; height: number 
                     id: idx,
                     content: response.name,
                     highlightAreas: areas || [],
-                    quote: response.response.slice(0, 50) + '...',
+                    quote: response.citations && response.citations.length > 0
+                    ? response.citations[0].reference_text
+                    : response.response.slice(0, 50) + '...',
                 };
             });
             return convertedNotes;
         }
         return [];
-    };
+    };*/
+
+export const convertResponseToNotes = (
+    pdfSize: { width: number; height: number },
+    responses: ResponseWithCitations[]
+) => {
+    if (pdfSize) {
+        const convertedNotes = responses.flatMap((response, idx) => {
+            if (!response.citations || response.citations.length === 0) {
+                // If no citations, fallback to a single note with the response text
+                return [{
+                    id: 1,
+                    content: response.name,
+                    highlightAreas: [],
+                    quote: 'No Citations...',
+                }];
+            }
+            // Map each citation to its own note
+            return response.citations.map((citation, cIdx) => ({
+                id: (idx+(cIdx/100)),
+                content: response.name,
+                highlightAreas: [
+                    bboxToAreaHighlight(
+                        {
+                            x1: citation.bbox.x1,
+                            y1: citation.bbox.y1,
+                            x2: citation.bbox.x2,
+                            y2: citation.bbox.y2,
+                        },
+                        citation.page_num,
+                        pdfSize.width,
+                        pdfSize.height
+                    )
+                ],
+                quote: citation.reference_text,
+            }));
+        });
+        return convertedNotes;
+    }
+    return [];
+};

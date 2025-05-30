@@ -16,7 +16,7 @@ const App = () => {
                     <h2>Data6 Table</h2>
                     <Data6Table />
                 </div>
-                <div style={{ width:'70%', height:'80%', borderLeft: '1px solid #ddd' }}>
+                <div style={{ width:'50%', height:'80%', borderLeft: '1px solid #ddd' }}>
                   <div style={{ margin: 0 }}>
                     <PDFViewer fileUrl={pdfFile} />
                   </div>

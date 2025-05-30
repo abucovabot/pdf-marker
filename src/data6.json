@@ -1,828 +1,754 @@
 [
   {
-    "id": "ABER2xlHTOF3NHXT5O9K0awxn8gaSKm",
-    "extractionId": "ABEJ2xlHTCqosqrPOJt4WUoAQKpMhyU",
-    "version": 1,
-    "baseId": "STEN2fwMTmLJdgjnW1ANvg50HPG6Uv7",
-    "file": {
-      "fileId": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
-      "fileName": "Perenti - Final Offering Memorandum.pdf",
-      "status": "PENDING"
-    },
-    "agentId": "ABSC2fwMTlvdvpBIc5vnZe30EWBQMDV",
-    "template": {
-      "templateId": "ABQT2lBWL59IOf56KfFNxmWtBrzQFXb",
-      "templateName": "OC Documents"
-    },
-    "createdAt": "2025-05-29T08:02:25.685501",
-    "updatedAt": "2025-05-29T08:02:25.685507"
-  },
-  {
-    "id": "ABER2xlK3Myd6A8i7U1LkK6IoUmV7MD",
-    "extractionId": "ABEJ2xlK3FxZS6Iq9Wv9NWPpASfGRMZ",
-    "version": 1,
-    "baseId": "STEN2fwMTmLJdgjnW1ANvg50HPG6Uv7",
-    "file": {
-      "fileId": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
-      "fileName": "Perenti - Final Offering Memorandum.pdf",
-      "status": "PENDING"
-    },
-    "agentId": "ABSC2fwMTlvdvpBIc5vnZe30EWBQMDV",
-    "template": {
-      "templateId": "ABQT2lBWL59IOf56KfFNxmWtBrzQFXb",
-      "templateName": "OC Documents"
-    },
-    "createdAt": "2025-05-29T08:23:38.741121",
-    "updatedAt": "2025-05-29T08:23:38.741129"
-  },
-  {
-    "id": "ABER2xhptL1KWIl7U7H7SXP9RTu7zgq",
-    "extractionId": "ABEJ2xhptBcOMb7dxOxsdJi0kIxAAsI",
-    "version": 1,
-    "baseId": "STEN2fwMTmLJdgjnW1ANvg50HPG6Uv7",
-    "file": {
-      "fileId": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
-      "fileName": "Perenti - Final Offering Memorandum.pdf",
-      "status": "FAILED"
-    },
-    "agentId": "ABSC2fwMTlvdvpBIc5vnZe30EWBQMDV",
-    "template": {
-      "templateId": "ABQT2lBWL59IOf56KfFNxmWtBrzQFXb",
-      "templateName": "OC Documents"
-    },
-    "createdAt": "2025-05-28T02:46:11.814692",
-    "updatedAt": "2025-05-28T02:46:11.814697"
-  },
-  {
-    "id": "ABER2xlEhnIZEHEa3zdUWVkQai6oEym",
-    "extractionId": "ABEJ2xlEhjswpniTflnO0Rhe2SSzEgH",
-    "version": 1,
-    "baseId": "STEN2fwMTmLJdgjnW1ANvg50HPG6Uv7",
-    "file": {
-      "fileId": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
-      "fileName": "Perenti - Final Offering Memorandum.pdf",
-      "status": "COMPLETED"
-    },
-    "agentId": "ABSC2fwMTlvdvpBIc5vnZe30EWBQMDV",
-    "template": {
-      "templateId": "ABQT2lBWL59IOf56KfFNxmWtBrzQFXb",
-      "templateName": "OC Documents"
-    },
-    "templateResponse": [
+    "name": "Asset Sale",
+    "response": "### Asset Sale\n\nThe Parent Guarantor will not, and will not permit any of its Restricted Subsidiaries to, directly or indirectly, consummate any Asset Disposition unless: (1) the Parent Guarantor or such Restricted Subsidiary receives consideration at the time of such Asset Disposition at least equal to the Fair Market Value (including the value of all non-cash consideration) of the shares and assets subject to such Asset Disposition; and (2) at least 75% of the consideration thereof received by the Parent Guarantor or such Restricted Subsidiary is in the form of cash, Temporary Cash Investments or Replacement Assets[1].\n\nWhen the aggregate amount of Excess Proceeds exceeds $10 million (or the U.S. Dollar Equivalent thereof), within 30 days thereof, the Parent Guarantor will make an offer (a \"Proceeds Offer\") to the Holders of the Notes to purchase the maximum principal amount of Notes that may be purchased with such Excess Proceeds pursuant to and subject to the conditions contained in the Indenture. The Parent Guarantor will purchase Notes tendered pursuant to an offer by the Parent Guarantor for the Notes at a purchase price of 100% of their principal amount, without premium, plus accrued but unpaid interest in accordance with the procedures set forth in the Indenture[2].",
+    "citations": [
       {
-        "name": "Asset Sale",
-        "response": "### Asset Sale\n\nThe Parent Guarantor will not, and will not permit any of its Restricted Subsidiaries to, directly or indirectly, consummate any Asset Disposition unless: (1) the Parent Guarantor or such Restricted Subsidiary receives consideration at the time of such Asset Disposition at least equal to the Fair Market Value (including the value of all non-cash consideration) of the shares and assets subject to such Asset Disposition; and (2) at least 75% of the consideration thereof received by the Parent Guarantor or such Restricted Subsidiary is in the form of cash, Temporary Cash Investments or Replacement Assets[1].\n\nWhen the aggregate amount of Excess Proceeds exceeds $10 million (or the U.S. Dollar Equivalent thereof), within 30 days thereof, the Parent Guarantor will make an offer (a \"Proceeds Offer\") to the Holders of the Notes to purchase the maximum principal amount of Notes that may be purchased with such Excess Proceeds pursuant to and subject to the conditions contained in the Indenture. The Parent Guarantor will purchase Notes tendered pursuant to an offer by the Parent Guarantor for the Notes at a purchase price of 100% of their principal amount, without premium, plus accrued but unpaid interest in accordance with the procedures set forth in the Indenture[2].",
-        "citations": [
+        "id": "1",
+        "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
+        "doc_name": "Perenti - Final Offering Memorandum.pdf",
+        "chunk_bbox": [
           {
-            "id": "1",
-            "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
-            "doc_name": "Perenti - Final Offering Memorandum.pdf",
-            "chunk_bbox": [
-              {
-                "x1": 98.0,
-                "x2": 510.92999267578125,
-                "y1": 496.3800048828125,
-                "y2": 589.97998046875
-              }
-            ],
-            "page_index": [226],
-            "chunk_order": [1042],
-            "reference_text": "The Parent Guarantor will not, and will not permit any of its Restricted Subsidiaries to, directly or indirectly, consummate any Asset Disposition unless: (1) the Parent Guarantor or such Restricted Subsidiary receives consideration at the time of such Asset Disposition at least equal to the Fair Market Value (including the value of all non-cash consideration) of the shares and assets subject to such Asset Disposition; and (2) at least 75% of the consideration thereof received by the Parent Guarantor or such Restricted Subsidiary is in the form of cash, Temporary Cash Investments or Replacement Assets."
-          },
-          {
-            "id": "2",
-            "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
-            "doc_name": "Perenti - Final Offering Memorandum.pdf",
-            "chunk_bbox": [
-              {
-                "x1": 118.0,
-                "x2": 533.9400024414062,
-                "y1": 723.3800048828125,
-                "y2": 733.3800048828125
-              }
-            ],
-            "page_index": [227],
-            "chunk_order": [1051],
-            "reference_text": "When the aggregate amount of Excess Proceeds exceeds million (or the U.S. Dollar Equivalent thereof), within 30 days thereof, the Parent Guarantor will make an offer (a \"Proceeds Offer\") to the Holders of the Notes (and, to the extent required by the terms of other Indebtedness of the Parent Guarantor, the Issuer or a Subsidiary Guarantor that is pari passu with the Notes or a Note Guarantee, to all holders of such other pari passu Indebtedness outstanding with similar provisions requiring the Parent Guarantor, the Issuer or such Subsidiary Guarantor to make an offer to purchase or redeem such pari passu Indebtedness with the proceeds from any Asset Disposition) to purchase the maximum principal amount of Notes (and such pari passu Indebtedness of the Parent Guarantor, the Issuer or a Subsidiary Guarantor) that may be purchased with such Excess Proceeds pursuant to and subject to the conditions contained in the Indenture. The Parent Guarantor will purchase Notes tendered pursuant to an offer by the Parent Guarantor for the Notes (and such pari passu Indebtedness of the Parent Guarantor, the Issuer or of a Subsidiary Guarantor) at a purchase price of 100% of their principal amount (or, in the event such pari passu Indebtedness was issued with original issue discount, 100% of the accreted value thereof), without premium, plus accrued but unpaid interest (or, in respect of such pari passu Indebtedness, such lesser price, if any, as may be provided for by the terms of such pari passu Indebtedness) in accordance with the procedures (including prorating in the event of over subscription) set forth in the Indenture. If the aggregate purchase price of the securities tendered exceeds the Net Available Cash allotted to their purchase, the Parent Guarantor will select the securities to be purchased on a pro rata basis or in accordance with DTC procedures but in round denominations, which in the case of the Notes will be minimum denominations of US$200,000 principal amount or any greater integral multiple of US$1,000. Upon completion of such Proceeds Offer, the amount of Excess Proceeds shall be reset at zero."
+            "x1": 98.0,
+            "x2": 510.92999267578125,
+            "y1": 496.3800048828125,
+            "y2": 589.97998046875
           }
-        ]
+        ],
+        "page_index": [226],
+        "chunk_order": [1042],
+        "reference_text": "The Parent Guarantor will not, and will not permit any of its Restricted Subsidiaries to, directly or indirectly, consummate any Asset Disposition unless: (1) the Parent Guarantor or such Restricted Subsidiary receives consideration at the time of such Asset Disposition at least equal to the Fair Market Value (including the value of all non-cash consideration) of the shares and assets subject to such Asset Disposition; and (2) at least 75% of the consideration thereof received by the Parent Guarantor or such Restricted Subsidiary is in the form of cash, Temporary Cash Investments or Replacement Assets."
       },
       {
-        "name": "Change of Control",
-        "response": "### Change of Control Triggering Event\n\nThe definition of 'Change of Control' includes a disposition of all or substantially all of the assets of the Parent Guarantor and its Restricted Subsidiaries (determined on a consolidated basis) to any Person. Although there is a limited body of case law interpreting the phrase 'substantially all', there is no precise established definition of the phrase under the laws of the State of New York, which is the applicable law that governs the Indenture. Accordingly, in certain circumstances there may be a degree of uncertainty as to whether a particular transaction would involve a disposition of 'all or substantially all' of the assets of the Parent Guarantor and its Restricted Subsidiaries (determined on a consolidated basis). As a result, it may be unclear as to whether a Change of Control Triggering Event has occurred and whether a Holder of Notes may require the Issuer to make an offer to repurchase the Notes as described above. The provisions under the Indenture relating to the Issuer's obligation to make an offer to repurchase the Notes as a result of a Change of Control Triggering Event may be waived or modified with the written consent of the Holders of a majority in principal amount of the Notes prior to the occurrence of the Change of Control Triggering Event[1].\n\n### Risks Relating to Notes\n\nOne of the circumstances under which a change of control may occur is upon the sale or disposition of all or substantially all of our assets. However, the phrase 'all or substantially all' will likely be interpreted under applicable state law and will be dependent upon particular facts and circumstances. As a result, there may be a degree of uncertainty in ascertaining whether a sale or disposition of 'all or substantially all' of our assets has occurred, in which case the ability of a holder of the Notes to obtain the benefit of an offer to repurchase all or a portion of the Notes held by such holder may be impaired[2].\n\n### Future Indebtedness and Repurchase Obligations\n\nFuture Indebtedness that the Parent Guarantor may incur may contain prohibitions on the occurrence of certain events that would constitute a Change of Control, or require the repurchase of such indebtedness upon a Change of Control. Moreover, the exercise by the Holders of their right to require the Issuer to repurchase their Notes could cause a default under such Indebtedness, even if the Change of Control itself does not. Finally, the ability of the Issuer to pay cash to the Holders following the occurrence of a Change of Control Triggering Event may be limited by the then existing financial resources of the Issuer and the Note Guarantors. The Issuer cannot assure you that it will have sufficient funds available when necessary to make any required repurchases[3].\n\n### Credit Agreement and Review Event\n\nA Change of Control may be a change of control under the Credit Agreement, which would be a 'review event' thereunder. The occurrence of a 'review event' may, under certain circumstances described in the Credit Agreement, require the Parent Guarantor and the Issuer to repay the Indebtedness outstanding under the Credit Agreement and result in the cancelation of the lending commitments thereunder. In addition, events that may not constitute a Change of Control may constitute a change of control under the Credit Agreement and accordingly constitute a review event[4].",
-        "citations": [
+        "id": "2",
+        "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
+        "doc_name": "Perenti - Final Offering Memorandum.pdf",
+        "chunk_bbox": [
           {
-            "id": "1",
-            "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
-            "doc_name": "Perenti - Final Offering Memorandum.pdf",
-            "chunk_bbox": [
-              {
-                "x1": 78.0,
-                "x2": 532.47998046875,
-                "y1": 395.3800048828125,
-                "y2": 560.989990234375
-              }
-            ],
-            "page_index": [219],
-            "chunk_order": [1001],
-            "reference_text": "The definition of 'Change of Control' includes a disposition of all or substantially all of the assets of the Parent Guarantor and its Restricted Subsidiaries (determined on a consolidated basis) to any Person. Although there is a limited body of case law interpreting the phrase 'substantially all', there is no precise established definition of the phrase under the laws of the State of New York, which is the applicable law that governs the Indenture. Accordingly, in certain circumstances there may be a degree of uncertainty as to whether a particular transaction would involve a disposition of 'all or substantially all' of the assets of the Parent Guarantor and its Restricted Subsidiaries (determined on a consolidated basis). As a result, it may be unclear as to whether a Change of Control Triggering Event has occurred and whether a Holder of Notes may require the Issuer to make an offer to repurchase the Notes as described above. The provisions under the Indenture relating to the Issuer's obligation to make an offer to repurchase the Notes as a result of a Change of Control Triggering Event may be waived or modified with the written consent of the Holders of a majority in principal amount of the Notes prior to the occurrence of the Change of Control Triggering Event."
-          },
-          {
-            "id": "2",
-            "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
-            "doc_name": "Perenti - Final Offering Memorandum.pdf",
-            "chunk_bbox": [
-              {
-                "x1": 78.0,
-                "x2": 531.97998046875,
-                "y1": 662.739990234375,
-                "y2": 732.739990234375
-              }
-            ],
-            "page_index": [83],
-            "chunk_order": [338],
-            "reference_text": "One of the circumstances under which a change of control may occur is upon the sale or disposition of all or substantially all of our assets. However, the phrase 'all or substantially all' will likely be interpreted under applicable state law and will be dependent upon particular facts and circumstances. As a result, there may be a degree of uncertainty in ascertaining whether a sale or disposition of 'all or substantially all' of our assets has occurred, in which case the ability of a holder of the Notes to obtain the benefit of an offer to repurchase all or a portion of the Notes held by such holder may be impaired."
-          },
-          {
-            "id": "3",
-            "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
-            "doc_name": "Perenti - Final Offering Memorandum.pdf",
-            "chunk_bbox": [
-              {
-                "x1": 78.0,
-                "x2": 531.1300048828125,
-                "y1": 299.7799987792969,
-                "y2": 381.7799987792969
-              }
-            ],
-            "page_index": [219],
-            "chunk_order": [1000],
-            "reference_text": "Future Indebtedness that the Parent Guarantor may incur may contain prohibitions on the occurrence of certain events that would constitute a Change of Control, or require the repurchase of such indebtedness upon a Change of Control. Moreover, the exercise by the Holders of their right to require the Issuer to repurchase their Notes could cause a default under such Indebtedness, even if the Change of Control itself does not. Finally, the ability of the Issuer to pay cash to the Holders following the occurrence of a Change of Control Triggering Event may be limited by the then existing financial resources of the Issuer and the Note Guarantors. The Issuer cannot assure you that it will have sufficient funds available when necessary to make any required repurchases."
-          },
-          {
-            "id": "4",
-            "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
-            "doc_name": "Perenti - Final Offering Memorandum.pdf",
-            "chunk_bbox": [
-              {
-                "x1": 78.0,
-                "x2": 529.9299926757812,
-                "y1": 216.17999267578125,
-                "y2": 286.17999267578125
-              }
-            ],
-            "page_index": [219],
-            "chunk_order": [999],
-            "reference_text": "A Change of Control may be a change of control under the Credit Agreement, which would be a 'review event' thereunder. The occurrence of a 'review event' may, under certain circumstances described in the Credit Agreement, require the Parent Guarantor and the Issuer to repay the Indebtedness outstanding under the Credit Agreement and result in the cancelation of the lending commitments thereunder. In addition, events that may not constitute a Change of Control may constitute a change of control under the Credit Agreement and accordingly constitute a review event."
+            "x1": 118.0,
+            "x2": 533.9400024414062,
+            "y1": 723.3800048828125,
+            "y2": 733.3800048828125
           }
-        ]
-      },
-      {
-        "name": "Event of Default",
-        "response": "### Specific Circumstances of Default\n\nThe borrower (issuer) may be considered to have failed in fulfilling their contractual obligations under the following specific circumstances:\n\n1. Default in the payment of principal or interest on the Notes when due, with a 30-day grace period for interest payments[1].\n\n2. Default in the performance or breach of certain covenants, including merger and consolidation provisions, and failure to make or consummate a Change of Control Offer or a Proceeds Offer[1].\n\n3. Commencement of voluntary or involuntary bankruptcy, insolvency, or similar proceedings against the Issuer, Parent Guarantor, or any Significant Subsidiary, or the appointment of an administrator, receiver, or similar official[2][3].\n\n4. Default in payment of principal on any Indebtedness of at least US$25.0 million, or an event of default causing such Indebtedness to be due and payable prior to its stated maturity[4].\n\n5. Final judgments or orders for payment exceeding US$25.0 million that remain unpaid or undischarged for 60 consecutive days[5].\n\n6. Denial or disaffirmation of obligations under any Note Guarantee by a Significant Subsidiary, or such guarantees becoming unenforceable or invalid[6].\n\n7. Non-payment, breach of financial undertakings, non-compliance with obligations, insolvency, misrepresentation, cross default, enforcement against assets, cessation of business, vitiation, and occurrence of material adverse events under the Common Terms Deed[7].",
-        "citations": [
-          {
-            "id": "1",
-            "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
-            "doc_name": "Perenti - Final Offering Memorandum.pdf",
-            "chunk_bbox": [
-              {
-                "x1": 98.0,
-                "x2": 532.47998046875,
-                "y1": 562.739990234375,
-                "y2": 733.0900268554688
-              }
-            ],
-            "page_index": [233],
-            "chunk_order": [1082],
-            "reference_text": "(1) default in the payment of principal of (or premium, if any, on) the Notes when the same becomes due and payable at maturity, upon acceleration, redemption or otherwise; (2) default in the payment of interest or Additional Amounts on any Note when the same becomes due and payable, and such default continues for a period of 30 days; (3) default in the performance or breach of the provisions of the covenant described under “—Certain Covenants—Merger and Consolidation,” or the failure by the Parent Guarantor or the Issuer to make or consummate a Change of Control Offer or a Proceeds Offer in the manner described under “—Change of Control Triggering Event” or “—Certain Covenants—Limitation on Sales of Assets and Subsidiary Stock”; (4) the Parent Guarantor or any Restricted Subsidiary defaults in the performance of or breaches any other covenant or agreement in the Indenture or under the Notes (other than a default specified in clause (1), (2) or (3) above) and such default or breach continues for a period of 60 consecutive days after written notice by the Trustee or the Holders of 25% or more in aggregate principal amount of the Notes;"
-          },
-          {
-            "id": "2",
-            "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
-            "doc_name": "Perenti - Final Offering Memorandum.pdf",
-            "chunk_bbox": [
-              {
-                "x1": 98.0,
-                "x2": 531.0700073242188,
-                "y1": 237.67999267578125,
-                "y2": 451.67999267578125
-              }
-            ],
-            "page_index": [234],
-            "chunk_order": [1085],
-            "reference_text": "(7) an involuntary case or other proceeding is commenced against, or an order is made for the judicial management or administration of, the Issuer, the Parent Guarantor or any Significant Subsidiary (or any group of Restricted Subsidiaries that, taken together, would constitute a Significant Subsidiary) with respect to it or its debts under any applicable bankruptcy, insolvency, winding-up or other similar law now or hereafter in effect seeking the appointment of an administrator, receiver, receiver and manager, liquidator, provisional liquidator, mortgagee in possession, Controller or similar official of the Issuer, the Parent Guarantor or any Significant Subsidiary (or any group of Restricted Subsidiaries that, taken together, would constitute a Significant Subsidiary) or for any substantial part of the property and assets of the Issuer, the Parent Guarantor or any Significant Subsidiary (or any group of Restricted Subsidiaries that, taken together, would constitute a Significant Subsidiary) or any action is initiated (including any reference or inquiry) by or before any authority of competent jurisdiction which may result in (a) the suspension or staying of the obligations of any Note Guarantor with respect to such Note Guarantor’s Note Guarantee or (b) the requirement for approval from such authority of competent jurisdiction for enforcement of a Note Guarantee, and such involuntary case or other proceeding or action remains undismissed and unstayed for a period of 60 consecutive days; or an order for relief is entered against the Issuer, the Parent Guarantor or any Significant Subsidiary (or any group of Restricted Subsidiaries that, taken together, would constitute a Significant Subsidiary) under any applicable bankruptcy, insolvency or other similar law as now or hereafter in effect;"
-          },
-          {
-            "id": "3",
-            "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
-            "doc_name": "Perenti - Final Offering Memorandum.pdf",
-            "chunk_bbox": [
-              {
-                "x1": 98.0,
-                "x2": 532.8400268554688,
-                "y1": 458.0299987792969,
-                "y2": 588.030029296875
-              }
-            ],
-            "page_index": [234],
-            "chunk_order": [1086],
-            "reference_text": "(8) the Issuer, the Parent Guarantor or any Significant Subsidiary (or any group of Restricted Subsidiaries that, taken together, would constitute a Significant Subsidiary) (a) commences a voluntary case under any applicable bankruptcy, insolvency, winding-up or other similar law now or hereafter in effect, or consents to the entry of an order for relief in an involuntary case under any such law, (b) consents to the appointment of or taking possession by an administrator, receiver, receiver and manager, liquidator, provisional liquidator, mortgagee in possession, Controller or similar official of the Issuer, the Parent Guarantor or any Significant Subsidiary (or any group of Restricted Subsidiaries that, taken together, would constitute a Significant Subsidiary) or for all or substantially all of the property and assets of the Issuer, the Parent Guarantor or any Significant Subsidiary (or any group of Restricted Subsidiaries that, taken together, would constitute a Significant Subsidiary) or (c) makes any resolution for winding-up or dissolution effective; or (d) effects any general assignment for the benefit of creditors; or"
-          },
-          {
-            "id": "4",
-            "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
-            "doc_name": "Perenti - Final Offering Memorandum.pdf",
-            "chunk_bbox": [
-              {
-                "x1": 118.0,
-                "x2": 532.0800170898438,
-                "y1": 36.97999954223633,
-                "y2": 130.97999572753906
-              }
-            ],
-            "page_index": [234],
-            "chunk_order": [1083],
-            "reference_text": "there occurs with respect to any Indebtedness of the Issuer, any Note Guarantor or any Significant Subsidiary having an outstanding principal amount of US$25.0 million (or the U.S. Dollar Equivalent thereof) or more in the aggregate for all such Indebtedness of all such Persons, whether such Indebtedness now exists or shall hereafter be created, (a) an event of default that results in such Indebtedness being due and payable prior to its Stated Maturity (which acceleration is not rescinded, annulled or otherwise cured within 20 days of receipt by the Issuer, such Guarantor or such Significant Subsidiary of notice of any such acceleration) and/or (b) a default in payment of principal in respect of, such Indebtedness when the same becomes due and payable;"
-          },
-          {
-            "id": "5",
-            "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
-            "doc_name": "Perenti - Final Offering Memorandum.pdf",
-            "chunk_bbox": [
-              {
-                "x1": 98.0,
-                "x2": 531.9600219726562,
-                "y1": 137.3300018310547,
-                "y2": 231.3300018310547
-              }
-            ],
-            "page_index": [234],
-            "chunk_order": [1084],
-            "reference_text": "(6) one or more final judgments or orders for the payment of money are rendered against the Parent Guarantor or any Restricted Subsidiary and are not paid or discharged, that causes the aggregate amount for all such final judgments or orders outstanding and not paid or discharged against all such Persons to either individually or in an aggregate amount, in each case, in excess of US$25.0 million (or the U.S. Dollar Equivalent thereof) (in excess of amounts which the Parent Guarantor’s or such Restricted Subsidiary’s insurance carriers have agreed in writing to pay under applicable policies) and there is a period of 60 consecutive days following entry of the final judgment or order during which a stay of enforcement, by reason of a pending appeal or otherwise, is not in effect;"
-          },
-          {
-            "id": "6",
-            "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
-            "doc_name": "Perenti - Final Offering Memorandum.pdf",
-            "chunk_bbox": [
-              {
-                "x1": 98.0,
-                "x2": 529.760009765625,
-                "y1": 594.3800048828125,
-                "y2": 664.3800048828125
-              }
-            ],
-            "page_index": [234],
-            "chunk_order": [1087],
-            "reference_text": "(9) any Note Guarantor that is a Significant Subsidiary (or any group of Restricted Subsidiaries that, taken together, would constitute a Significant Subsidiary) denies or disaffirms its or their obligations under its or their Note Guarantee or Note Guarantees or, except as permitted by the Indenture, any Note Guarantee of any Significant Subsidiary (or the Note Guarantees of any group of Restricted Subsidiaries that, taken together, would constitute a Significant Subsidiary) is or are determined to be unenforceable or invalid or will for any reason cease to be in full force and effect."
-          },
-          {
-            "id": "7",
-            "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
-            "doc_name": "Perenti - Final Offering Memorandum.pdf",
-            "chunk_bbox": [
-              {
-                "x1": 78.0,
-                "x2": 522.1099853515625,
-                "y1": 698.780029296875,
-                "y2": 732.780029296875
-              }
-            ],
-            "page_index": [205],
-            "chunk_order": [925],
-            "reference_text": "Events of default under the Common Terms Deed include non-payment, breach of financial undertakings, non-compliance with obligations, insolvency, misrepresentation, cross default, enforcement against assets, cessation of business, vitiation, and occurrence of material adverse events."
-          }
-        ]
-      },
-      {
-        "name": "Permitted Investments",
-        "response": "### Permitted Investments\n\n(4) repurchase obligations with a term of not more than 30 days for underlying securities of the types described in clauses (1) and (2) above entered into with any financial institution meeting the qualifications specified in clause (2) above; (5) commercial paper having one of the two highest ratings obtainable from Moody's or S&P and, in each case, maturing within one year after the date of acquisition; (6) money market funds at least 95% of the assets of which constitute Cash Equivalents of the kinds described in clauses (1) through (4) of this definition; and (7) (i) Investments consisting of purchases of local currencies of those countries in which the Parent Guarantor or any of its Restricted Subsidiaries transacts business from time to time in the ordinary course of business, (ii) Investments of comparable tenor and credit quality to those described in clauses[1].",
-        "citations": [
-          {
-            "id": "1",
-            "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
-            "doc_name": "Perenti - Final Offering Memorandum.pdf",
-            "chunk_bbox": [
-              {
-                "x1": 98.0,
-                "x2": 532.0800170898438,
-                "y1": 446.489990234375,
-                "y2": 582.9299926757812
-              }
-            ],
-            "page_index": [268],
-            "chunk_order": [1303],
-            "reference_text": "(4) repurchase obligations with a term of not more than 30 days for underlying securities of the types described in clauses (1) and (2) above entered into with any financial institution meeting the qualifications specified in clause (2) above; (5) commercial paper having one of the two highest ratings obtainable from Moody's or S&P and, in each case, maturing within one year after the date of acquisition; (6) money market funds at least 95% of the assets of which constitute Cash Equivalents of the kinds described in clauses (1) through (4) of this definition; and (7) (i) Investments consisting of purchases of local currencies of those countries in which the Parent Guarantor or any of its Restricted Subsidiaries transacts business from time to time in the ordinary course of business, (ii) Investments of comparable tenor and credit quality to those described in clauses"
-          }
-        ]
-      },
-      {
-        "name": "Permitted Indebtedness",
-        "response": "### Limitation on Indebtedness\n\nThe Parent Guarantor will not, and will not permit any of its Restricted Subsidiaries to, incur, directly or indirectly, any indebtedness; provided, however, that the Parent Guarantor, the Issuer, or any Subsidiary Guarantor will be entitled to incur indebtedness if, on the date of such incurrence and after giving effect thereto on a pro forma basis, the Consolidated Coverage Ratio would be at least 2.0 to 1.0[1].\n\n### Permitted Indebtedness\n\nNotwithstanding the foregoing paragraph, the Parent Guarantor and its Restricted Subsidiaries will be entitled to incur any or all of the following indebtedness:\n\nRefinancing Indebtedness in respect of indebtedness incurred pursuant to paragraph (a) of this covenant or of permitted indebtedness incurred pursuant to clause (3), (4), (5) or this clause (6)[2].\n\nHedging obligations incurred in the ordinary course of business (and not for speculative purposes)[2].\n\nObligations in respect of workers' compensation claims, payment obligations in connection with health or other types of social security benefits, unemployment or other insurance or self-insurance obligations, insurance premium finance agreements, reclamation, statutory obligations, bankers' acceptances, performance, bid, appeal, surety or similar bonds and letters of credit or completion and performance guarantees or equipment leases or other similar obligations provided or incurred by the Parent Guarantor or any Restricted Subsidiary in the ordinary course of business[2].\n\nIndebtedness arising from the honoring by a bank or other financial institution of a check, draft or similar instrument drawn against insufficient funds in the ordinary course of business; provided, however, that such indebtedness is extinguished within five business days of its incurrence[3].\n\nIndebtedness consisting of any guarantee by the Parent Guarantor or any of its Restricted Subsidiaries of indebtedness of the Parent Guarantor or any of its Restricted Subsidiaries that was permitted to be incurred by another provision of this covenant; provided, however, that if the indebtedness being guaranteed is subordinated to or pari passu with the Notes, then the guarantee thereof shall be subordinated or pari passu, as applicable, to at least the same extent as the indebtedness being guaranteed[3].\n\nIndebtedness outstanding on the issue date (other than (A) indebtedness described in clause (1) or (3) of this covenant (B) existing purchase money indebtedness outstanding on the issue date and (C) indebtedness being repaid with the proceeds from the sale of the Notes)[4].\n\nIndebtedness of a Restricted Subsidiary incurred and outstanding on or prior to the date on which such Subsidiary was acquired, directly or indirectly, by the Parent Guarantor (other than indebtedness incurred in connection with, or to provide all or any portion of the funds or credit support utilized to consummate, the transaction or series of related transactions pursuant to which such Subsidiary became a Subsidiary or was acquired, directly or indirectly, by the Parent Guarantor); provided, however, that on the date of such acquisition and after giving pro forma effect thereto, either (x) the Parent Guarantor would have been entitled to incur at least US$1.00 of indebtedness pursuant to paragraph (a) of this covenant or (y) the Consolidated Coverage Ratio would be greater than or equal to the Consolidated Coverage Ratio immediately prior to giving pro forma effect thereto[4].\n\n### Refinancing Indebtedness\n\nRefinancing Indebtedness means indebtedness that refinances any indebtedness of the Parent Guarantor or any Restricted Subsidiary existing on the issue date or incurred in compliance with the Indenture, including indebtedness that refinances Refinancing Indebtedness; provided, however, that:\n\nSuch Refinancing Indebtedness has a stated maturity no earlier than the stated maturity of the indebtedness being refinanced[5].\n\nSuch Refinancing Indebtedness has an average life at the time such Refinancing Indebtedness is incurred that is equal to or greater than the average life of the indebtedness being refinanced[5].\n\nSuch Refinancing Indebtedness has an aggregate principal amount (or if incurred with original issue discount, an aggregate issue price) that is equal to or less than the aggregate principal amount (or if incurred with original issue discount, the aggregate accreted value) then outstanding (plus fees and expenses, including any premium and defeasance costs) under the indebtedness being refinanced[5].\n\nIf the indebtedness being refinanced is subordinated in right of payment to the Notes or a Note Guarantee, such Refinancing Indebtedness is subordinated in right of payment to the Notes or such Note Guarantee, as the case may be, at least to the same extent as the indebtedness being refinanced[6].\n\nSuch Refinancing Indebtedness is incurred by either (a) the Restricted Subsidiary that is the obligor on the indebtedness being refinanced or (b) the Parent Guarantor, the Issuer or a Subsidiary Guarantor[6].\n\n### Restrictions on Refinancing Agreements\n\nAny agreement effecting a refinancing of indebtedness provided, however, that the encumbrances and restrictions contained in any such refinancing agreement or instrument or other amendment, modification, supplement, restatement, renewal or replacement are not materially more restrictive, taken as a whole, than those contained in such predecessor agreements or instruments[7].\n\nAny agreement entered into for the sale or disposition of all or substantially all the equity interests or assets of a Restricted Subsidiary that is not prohibited by the covenants described under 'Certain Covenants—Limitation on Sales of Assets and Subsidiary Stock' and 'Certain Covenants—Merger and Consolidation,' pending the closing of such sale or disposition[7].",
-        "citations": [
-          {
-            "id": "1",
-            "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
-            "doc_name": "Perenti - Final Offering Memorandum.pdf",
-            "chunk_bbox": [
-              {
-                "x1": 98.0,
-                "x2": 527.77001953125,
-                "y1": 556.989990234375,
-                "y2": 656.0399780273438
-              }
-            ],
-            "page_index": [220],
-            "chunk_order": [1009],
-            "reference_text": "The Parent Guarantor will not, and will not permit any of its Restricted Subsidiaries to, Incur, directly or indirectly, any Indebtedness; provided, however, that the Parent Guarantor, the Issuer or any Subsidiary Guarantor will be entitled to Incur Indebtedness if, on the date of such Incurrence and after giving effect thereto on a pro forma basis, the Consolidated Coverage Ratio would be at least 2.0 to 1.0."
-          },
-          {
-            "id": "2",
-            "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
-            "doc_name": "Perenti - Final Offering Memorandum.pdf",
-            "chunk_bbox": [
-              {
-                "x1": 118.0,
-                "x2": 530.1099853515625,
-                "y1": 359.19000244140625,
-                "y2": 500.2799987792969
-              }
-            ],
-            "page_index": [221],
-            "chunk_order": [1013],
-            "reference_text": "Refinancing Indebtedness in respect of Indebtedness Incurred pursuant to paragraph (a) of this covenant or of Permitted Indebtedness Incurred pursuant to clause (3), (4), (5) or this clause (6); Hedging Obligations Incurred in the ordinary course of business (and not for speculative purposes); obligations in respect of workers' compensation claims, payment obligations in connection with health or other types of social security benefits, unemployment or other insurance or self-insurance obligations, insurance premium finance agreements, reclamation, statutory obligations, bankers' acceptances, performance, bid, appeal, surety or similar bonds and letters of credit or completion and performance guarantees or equipment leases or other similar obligations provided or Incurred by the Parent Guarantor or any Restricted Subsidiary in the ordinary course of business."
-          },
-          {
-            "id": "3",
-            "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
-            "doc_name": "Perenti - Final Offering Memorandum.pdf",
-            "chunk_bbox": [
-              {
-                "x1": 118.0,
-                "x2": 530.4400024414062,
-                "y1": 507.8299865722656,
-                "y2": 619.3800048828125
-              }
-            ],
-            "page_index": [221],
-            "chunk_order": [1014],
-            "reference_text": "Indebtedness arising from the honoring by a bank or other financial institution of a check, draft or similar instrument drawn against insufficient funds in the ordinary course of business; provided, however, that such Indebtedness is extinguished within five Business Days of its Incurrence; Indebtedness consisting of any Guarantee by the Parent Guarantor or any of its Restricted Subsidiaries of Indebtedness of the Parent Guarantor or any of its Restricted Subsidiaries that was permitted to be Incurred by another provision of this covenant; provided, however, that if the Indebtedness being guaranteed is subordinated to or pari passu with the Notes, then the Guarantee thereof shall be subordinated or pari passu, as applicable, to at least the same extent as the Indebtedness being Guaranteed."
-          },
-          {
-            "id": "4",
-            "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
-            "doc_name": "Perenti - Final Offering Memorandum.pdf",
-            "chunk_bbox": [
-              {
-                "x1": 118.0,
-                "x2": 532.47998046875,
-                "y1": 174.52999877929688,
-                "y2": 351.6300048828125
-              }
-            ],
-            "page_index": [221],
-            "chunk_order": [1012],
-            "reference_text": "Indebtedness outstanding on the Issue Date (other than (A) Indebtedness described in clause (1) or (3) of this covenant (B) Existing Purchase Money Indebtedness outstanding on the Issue Date and (C) Indebtedness being repaid with the proceeds from the sale of the Notes); Indebtedness of a Restricted Subsidiary Incurred and outstanding on or prior to the date on which such Subsidiary was acquired, directly or indirectly, by the Parent Guarantor (other than Indebtedness Incurred in connection with, or to provide all or any portion of the funds or credit support utilized to consummate, the transaction or series of related transactions pursuant to which such Subsidiary became a Subsidiary or was acquired, directly or indirectly, by the Parent Guarantor); provided, however, that on the date of such acquisition and after giving pro forma effect thereto, either (x) the Parent Guarantor would have been entitled to Incur at least US$1.00 of Indebtedness pursuant to paragraph (a) of this covenant or (y) the Consolidated Coverage Ratio would be greater than or equal to the Consolidated Coverage Ratio immediately prior to giving pro forma effect thereto."
-          },
-          {
-            "id": "5",
-            "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
-            "doc_name": "Perenti - Final Offering Memorandum.pdf",
-            "chunk_bbox": [
-              {
-                "x1": 98.0,
-                "x2": 518.3499755859375,
-                "y1": 243.47999572753906,
-                "y2": 348.489990234375
-              }
-            ],
-            "page_index": [266],
-            "chunk_order": [1289],
-            "reference_text": "Refinancing Indebtedness means Indebtedness that Refinances any Indebtedness of the Parent Guarantor or any Restricted Subsidiary existing on the Issue Date or Incurred in compliance with the Indenture, including Indebtedness that Refinances Refinancing Indebtedness; provided, however, that: (1) such Refinancing Indebtedness has a Stated Maturity no earlier than the Stated Maturity of the Indebtedness being Refinanced; (2) such Refinancing Indebtedness has an Average Life at the time such Refinancing Indebtedness is Incurred that is equal to or greater than the Average Life of the Indebtedness being Refinanced; (3) such Refinancing Indebtedness has an aggregate principal amount (or if Incurred with original issue discount, an aggregate issue price) that is equal to or less than the aggregate principal amount (or if Incurred with original issue discount, the aggregate accreted value) then outstanding (plus fees and expenses, including any premium and defeasance costs) under the Indebtedness being Refinanced."
-          },
-          {
-            "id": "6",
-            "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
-            "doc_name": "Perenti - Final Offering Memorandum.pdf",
-            "chunk_bbox": [
-              {
-                "x1": 98.0,
-                "x2": 527.9000244140625,
-                "y1": 355.989990234375,
-                "y2": 431.489990234375
-              }
-            ],
-            "page_index": [266],
-            "chunk_order": [1290],
-            "reference_text": "if the Indebtedness being Refinanced is subordinated in right of payment to the Notes or a Note Guarantee, such Refinancing Indebtedness is subordinated in right of payment to the Notes or such Note Guarantee, as the case may be, at least to the same extent as the Indebtedness being Refinanced; and (5) such Refinancing Indebtedness is incurred by either (a) the Restricted Subsidiary that is the obligor on the Indebtedness being Refinanced or (b) the Parent Guarantor, the Issuer or a Subsidiary Guarantor."
-          },
-          {
-            "id": "7",
-            "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
-            "doc_name": "Perenti - Final Offering Memorandum.pdf",
-            "chunk_bbox": [
-              {
-                "x1": 98.0,
-                "x2": 528.0,
-                "y1": 66.77999877929688,
-                "y2": 166.5800018310547
-              }
-            ],
-            "page_index": [226],
-            "chunk_order": [1038],
-            "reference_text": "any agreement effecting a Refinancing of Indebtedness provided, however, that the encumbrances and restrictions contained in any such Refinancing agreement or instrument or other amendment, modification, supplement, restatement, renewal or replacement are not materially more restrictive, taken as a whole, than those contained in such predecessor agreements or instruments; any agreement entered into for the sale or disposition of all or substantially all the Equity Interests or assets of a Restricted Subsidiary that is not prohibited by the covenants described under 'Certain Covenants—Limitation on Sales of Assets and Subsidiary Stock' and 'Certain Covenants—Merger and Consolidation,' pending the closing of such sale or disposition."
-          }
-        ]
-      },
-      {
-        "name": "Restricted Payments",
-        "response": "### Restricted Payments\n\nThe declaration and payments of dividends or distributions on Preferred Stock of a Restricted Subsidiary or Disqualified Stock issued pursuant to the covenant described under 'Limitation on Indebtedness'; provided, however, that, at the time of payment of such dividend or distribution, no Default has occurred and is continuing (or would result therefrom) [1].\n\nRepurchases of Equity Interests deemed to occur upon exercise of stock options, warrants or other securities convertible into or exchangeable for Equity Interests of the Parent Guarantor to the extent such repurchased Equity Interests represent a portion of the exercise price thereof or applicable withholding taxes, if any [1].\n\nCash payments in lieu of the issuance of fractional shares in connection with the exercise of stock options, warrants or other securities convertible into or exchangeable for Equity Interests of the Parent Guarantor; provided, however, that any such cash payment shall not be for the purpose of evading the limitation of this covenant [1].\n\nAny purchase, repurchase, redemption, defeasance or other acquisition or retirement for value of Subordinated Obligations of the Issuer or a Note Guarantor made by exchange for, or out of the proceeds of the substantially concurrent Incurrence of, Refinancing Indebtedness which is permitted to be Incurred pursuant to the covenant described under 'Limitation on Indebtedness' [2].\n\nThe payment of any dividend or distribution or consummation of any irrevocable redemption within 60 days after the date of declaration thereof or the call for a redemption thereof, if at such date of declaration or call for redemption such payment would have complied with paragraph (a) of this covenant [2].\n\nThe payment of any dividend or distribution by a Restricted Subsidiary that is not a Wholly Owned Subsidiary on a pro rata basis [3].\n\nThe declaration and payment of dividends on the Parent Guarantor's Capital Stock in an aggregate amount not to exceed in any fiscal year 6% of the Market Capitalization of the Parent Guarantor, provided, that, at the time of declaring such dividend, the Leverage Ratio is less than 2.5 to 1.0 [3].\n\nOther Restricted Payments in an aggregate amount not to exceed A$175.0 million (or the Australian Dollar Equivalent thereof) [3].\n\nIf no Default has occurred and is continuing (or would result therefrom), the payment, purchase, redemption, defeasance or other acquisition or retirement of Subordinated Obligations of the Issuer or any Note Guarantor, in each case, at a purchase price not greater than 101% of the principal amount of such Subordinated Obligations, plus any accrued and unpaid interest thereon, following the occurrence of a Change of Control Triggering Event or with the Excess Proceeds of one or more Asset Dispositions; provided, however, that prior to such payment, purchase, redemption, defeasance or other acquisition or retirement, the Issuer (or a third party to the extent permitted by the Indenture) shall have made a Change of Control Offer or Proceeds Offer, as the case may be, with respect to the Notes as a result of such Change of Control Triggering Event or Asset Disposition, as the case may be, and shall have repurchased all Notes validly tendered and not withdrawn in connection with such Change of Control Offer or Proceeds Offer, as the case may be [4].",
-        "citations": [
-          {
-            "id": "1",
-            "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
-            "doc_name": "Perenti - Final Offering Memorandum.pdf",
-            "chunk_bbox": [
-              {
-                "x1": 118.0,
-                "x2": 528.2999877929688,
-                "y1": 564.989990234375,
-                "y2": 718.989990234375
-              }
-            ],
-            "page_index": [224],
-            "chunk_order": [1031],
-            "reference_text": "the declaration and payments of dividends or distributions on Preferred Stock of a Restricted Subsidiary or Disqualified Stock issued pursuant to the covenant described under 'Limitation on Indebtedness'; provided, however, that, at the time of payment of such dividend or distribution, no Default has occurred and is continuing (or would result therefrom); repurchases of Equity Interests deemed to occur upon exercise of stock options, warrants or other securities convertible into or exchangeable for Equity Interests of the Parent Guarantor to the extent such repurchased Equity Interests represent a portion of the exercise price thereof or applicable withholding taxes, if any; cash payments in lieu of the issuance of fractional shares in connection with the exercise of stock options, warrants or other securities convertible into or exchangeable for Equity Interests of the Parent Guarantor; provided, however, that any such cash payment shall not be for the purpose of evading the limitation of this covenant;"
-          },
-          {
-            "id": "2",
-            "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
-            "doc_name": "Perenti - Final Offering Memorandum.pdf",
-            "chunk_bbox": [
-              {
-                "x1": 118.0,
-                "x2": 525.1300048828125,
-                "y1": 156.97999572753906,
-                "y2": 268.989990234375
-              }
-            ],
-            "page_index": [224],
-            "chunk_order": [1028],
-            "reference_text": "any purchase, repurchase, redemption, defeasance or other acquisition or retirement for value of Subordinated Obligations of the Issuer or a Note Guarantor made by exchange for, or out of the proceeds of the substantially concurrent Incurrence of, Refinancing Indebtedness which is permitted to be Incurred pursuant to the covenant described under 'Limitation on Indebtedness'; the payment of any dividend or distribution or consummation of any irrevocable redemption within 60 days after the date of declaration thereof or the call for a redemption thereof, if at such date of declaration or call for redemption such payment would have complied with paragraph (a) of this covenant;"
-          },
-          {
-            "id": "3",
-            "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
-            "doc_name": "Perenti - Final Offering Memorandum.pdf",
-            "chunk_bbox": [
-              {
-                "x1": 118.0,
-                "x2": 531.97998046875,
-                "y1": 186.69000244140625,
-                "y2": 280.0899963378906
-              }
-            ],
-            "page_index": [225],
-            "chunk_order": [1033],
-            "reference_text": "the payment of any dividend or distribution by a Restricted Subsidiary that it not a Wholly Owned Subsidiary on a pro rata basis; the declaration and payment of dividends on the Parent Guarantor's Capital Stock in an aggregate amount not to exceed in any fiscal year 6% of the Market Capitalization of the Parent Guarantor, provided, that, at the time of declaring such dividend, the Leverage Ratio is less than 2.5 to 1.0; or other Restricted Payments in an aggregate amount not to exceed A$175.0 million (or the Australian Dollar Equivalent thereof)."
-          },
-          {
-            "id": "4",
-            "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
-            "doc_name": "Perenti - Final Offering Memorandum.pdf",
-            "chunk_bbox": [
-              {
-                "x1": 138.0,
-                "x2": 529.8300170898438,
-                "y1": 36.97999954223633,
-                "y2": 178.97999572753906
-              }
-            ],
-            "page_index": [225],
-            "chunk_order": [1032],
-            "reference_text": "if no Default has occurred and is continuing (or would result therefrom), the payment, purchase, redemption, defeasance or other acquisition or retirement of Subordinated Obligations of the Issuer or any Note Guarantor, in each case, at a purchase price not greater than 101% of the principal amount of such Subordinated Obligations, plus any accrued and unpaid interest thereon, following the occurrence of a Change of Control Triggering Event or with the Excess Proceeds of one or more Asset Dispositions; provided, however, that prior to such payment, purchase, redemption, defeasance or other acquisition or retirement, the Issuer (or a third party to the extent permitted by the Indenture) shall have made a Change of Control Offer or Proceeds Offer, as the case may be, with respect to the Notes as a result of such Change of Control Triggering Event or Asset Disposition, as the case may be, and shall have repurchased all Notes validly tendered and not withdrawn in connection with such Change of Control Offer or Proceeds Offer, as the case may be;"
-          }
-        ]
-      },
-      {
-        "name": "Optional Redemption",
-        "response": "### Redemption at the Option of the Issuer\n\nAt any time on or after April 26, 2026, the Issuer may redeem some or all of the notes at the redemption prices described under \"Description of the Notes—Optional Redemption.\" The Issuer may redeem some or all of the Notes prior to April 26, 2026 by paying 100% of the principal amount of such Notes plus a make-whole premium, as described under \"Description of the Notes—Optional Redemption.\" The Issuer may also redeem up to 40% of the Notes prior to April 26, 2026 using the proceeds of certain equity offerings, as described under \"Description of the Notes—Optional Redemption\"[1].\n\n### Redemption for Taxation Reasons\n\nThe Notes may be redeemed at the option of the Issuer in whole but not in part, at the principal amount thereof plus accrued and unpaid interest in certain circumstances in which the Issuer would become obligated to pay Additional Amounts. See \"Description of the Notes—Redemption for Changes in Taxes\"[1].\n\n### Change of Control Triggering Event\n\nUpon the occurrence of certain change of control events that is accompanied by a decline in the rating of the Notes, each holder of the Notes may require the Issuer to repurchase such holder's Notes, in whole or in part, at a purchase price equal to 101% of the principal amount thereof plus accrued but unpaid interest to the purchase date, as described under \"Description of the Notes—Change of Control Triggering Event\"[1].",
-        "citations": [
-          {
-            "id": "1",
-            "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
-            "doc_name": "Perenti - Final Offering Memorandum.pdf",
-            "chunk_bbox": [
-              {
-                "x1": 78.0,
-                "x2": 364.760009765625,
-                "y1": 71.19000244140625,
-                "y2": 81.19000244140625
-              }
-            ],
-            "page_index": [46],
-            "chunk_order": [199],
-            "reference_text": "Optional Redemption At any time on or after April 26, 2026, the Issuer may redeem some or all of the notes at the redemption at the redemption prices described under “Description of the Notes—Optional Redemption.” The Issuer may redeem some or all of the Notes prior to April 26, 2026 by paying 100% of the principal amount of such Notes plus a make-whole premium, as described under “Description of the Notes—Optional Redemption.” The Issuer may also redeem up to 40% of the Notes prior to April 26, 2026 using the proceeds of certain equity offerings, as described under “Description of the Notes—Optional Redemption.” Redemption for Taxation Reasons The Notes may be redeemed at the option of the Issuer in whole but not in part, at the principal amount thereof plus accrued and unpaid interest in certain circumstances in which the Issuer would become obligated to pay Additional Amounts. See “Description of the Notes—Redemption for Changes in Taxes.” Change of Control Triggering Event Upon the occurrence of certain change of control events that is accompanied by a decline in the rating of the Notes, each holder of the Notes may require the Issuer to repurchase such holder’s Notes, in whole or in part, at a purchase price equal to 101% of the principal amount thereof plus accrued but unpaid interest to the purchase date, as described under “Description of the Notes—Change of Control Triggering Event.”"
-          }
-        ]
-      },
-      {
-        "name": "Negative Pledge",
-        "response": "### Negative Pledge Clauses or Terms on Limitation on Liens\n\nFuture financing will be limited under the negative pledge through the permitted security interest and priority indebtedness restrictions in the Common Terms Deed[1].\n\nThe Parent Guarantor will not, and will not permit any of its Restricted Subsidiaries to, directly or indirectly, Incur or permit to exist any Lien (other than Permitted Liens) of any nature whatsoever on any of its property or assets (including Equity Interests of a Restricted Subsidiary), whether now owned or hereafter acquired, securing any Indebtedness (the \"Initial Lien\") without effectively providing that the Notes, or in the case of an Initial Lien on any property or assets of any Note Guarantor, the Note Guarantee of such Note Guarantor, shall (together with, if Parent Guarantor shall so determine, any other Indebtedness of Parent Guarantor or any of its Restricted Subsidiaries) be secured equally and ratably with (or prior to) the obligations so secured by a Lien on the same assets for so long as such obligations are so secured[2].\n\nAny such Lien thereby created in favor of the Notes or any such Note Guarantee will be automatically and unconditionally released and discharged upon (i) the release and discharge of each Initial Lien to which it relates, (ii) the repayment in full of the Notes, (iii) in the case of any such Lien in favor of any such Note Guarantee, upon the release, or termination and discharge, of such Note Guarantee in accordance with the terms of the Indenture, (iv) the Issuer's exercise of its Legal Defeasance option or Covenant Defeasance option as described under \"—Defeasance\" or the satisfaction and discharge of the Issuer's obligations under the Indenture or (v) any sale, exchange or transfer to any Person not an Affiliate of the Parent Guarantor and in compliance with the terms of the Indenture of the property or assets secured by such Initial Lien[3].",
-        "citations": [
-          {
-            "id": "1",
-            "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
-            "doc_name": "Perenti - Final Offering Memorandum.pdf",
-            "chunk_bbox": [
-              {
-                "x1": 78.0,
-                "x2": 533.260009765625,
-                "y1": 36.97999954223633,
-                "y2": 226.97999572753906
-              }
-            ],
-            "page_index": [206],
-            "chunk_order": [926],
-            "reference_text": "Future financing will be limited under the negative pledge through the permitted security interest and priority indebtedness restrictions in the Common Terms Deed."
-          },
-          {
-            "id": "2",
-            "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
-            "doc_name": "Perenti - Final Offering Memorandum.pdf",
-            "chunk_bbox": [
-              {
-                "x1": 78.0,
-                "x2": 523.4500122070312,
-                "y1": 349.1300048828125,
-                "y2": 443.1300048828125
-              }
-            ],
-            "page_index": [229],
-            "chunk_order": [1058],
-            "reference_text": "The Parent Guarantor will not, and will not permit any of its Restricted Subsidiaries to, directly or indirectly, Incur or permit to exist any Lien (other than Permitted Liens) of any nature whatsoever on any of its property or assets (including Equity Interests of a Restricted Subsidiary), whether now owned or hereafter acquired, securing any Indebtedness (the \"Initial Lien\") without effectively providing that the Notes, or in the case of an Initial Lien on any property or assets of any Note Guarantor, the Note Guarantee of such Note Guarantor, shall (together with, if Parent Guarantor shall so determine, any other Indebtedness of Parent Guarantor or any of its Restricted Subsidiaries) be secured equally and ratably with (or prior to) the obligations so secured by a Lien on the same assets for so long as such obligations are so secured."
-          },
-          {
-            "id": "3",
-            "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
-            "doc_name": "Perenti - Final Offering Memorandum.pdf",
-            "chunk_bbox": [
-              {
-                "x1": 78.0,
-                "x2": 533.6699829101562,
-                "y1": 456.2300109863281,
-                "y2": 550.22998046875
-              }
-            ],
-            "page_index": [229],
-            "chunk_order": [1059],
-            "reference_text": "Any such Lien thereby created in favor of the Notes or any such Note Guarantee will be automatically and unconditionally released and discharged upon (i) the release and discharge of each Initial Lien to which it relates, (ii) the repayment in full of the Notes, (iii) in the case of any such Lien in favor of any such Note Guarantee, upon the release, or termination and discharge, of such Note Guarantee in accordance with the terms of the Indenture, (iv) the Issuer's exercise of its Legal Defeasance option or Covenant Defeasance option as described under \"—Defeasance\" or the satisfaction and discharge of the Issuer's obligations under the Indenture or (v) any sale, exchange or transfer to any Person not an Affiliate of the Parent Guarantor and in compliance with the terms of the Indenture of the property or assets secured by such Initial Lien."
-          }
-        ]
-      },
-      {
-        "name": "Transactions with Shareholders and Affiliates",
-        "response": "### Transactions with Shareholders and Affiliates\n\nThe Parent Guarantor will not, and will not permit any of its Restricted Subsidiaries to, enter into or permit to exist any transaction (including the purchase, sale, lease or exchange of any property, employee compensation arrangements or the rendering of any service) with, or for the benefit of, any Affiliate of the Parent Guarantor involving aggregate payments or consideration in excess of US$5.0 million (or the U.S. Dollar Equivalent thereof) (an “Affiliate Transaction”) unless the terms of the Affiliate Transaction are no less favorable to the Parent Guarantor or such Restricted Subsidiary than those that could be obtained at the time of the Affiliate Transaction in arm’s-length dealings with a Person who is not an Affiliate[1].\n\nIf such Affiliate Transaction involves an amount in excess of US$20.0 million (or the U.S. Dollar Equivalent thereof), the terms of the Affiliate Transaction are set forth in writing and a majority of the non-employee directors of the Parent Guarantor disinterested with respect to such Affiliate Transaction have determined in good faith that the criteria set forth in clause (1) are satisfied and have approved the relevant Affiliate Transaction as evidenced by a resolution of the Board of Directors of the Parent Guarantor[2].\n\nThe provisions of the preceding paragraph (a) will not prohibit: transactions between or among the Parent Guarantor and/or its Restricted Subsidiaries; any Permitted Investment and any Restricted Payment permitted to be made pursuant to the covenant described under “—Limitation on Restricted Payments”; any employment agreement, indemnification agreement, consulting, service or termination agreement or similar arrangement, or any issuance of securities, or other payments, awards or grants in cash, securities or otherwise pursuant to, or the funding of, employment arrangements, stock options and stock ownership plans, or other employee or compensation benefit plan, in each case approved by the Board of Directors of the Parent Guarantor; the payment of reasonable fees to directors or managers, as applicable, of the Parent Guarantor and its Restricted Subsidiaries who are not employees of the Parent Guarantor or its Restricted Subsidiaries and the payment of customary indemnification to directors, managers, officers and employees of the Parent Guarantor and its Restricted Subsidiaries[3].\n\nAny transaction with a Person (other than an Unrestricted Subsidiary of the Parent Guarantor) which would constitute an Affiliate Transaction solely because the Parent Guarantor or a Restricted Subsidiary owns an equity interest in or otherwise controls such Person; the issuance or sale of any Equity Interests (other than Disqualified Stock) of the Parent Guarantor; any contributions to the common equity capital of the Parent Guarantor; transactions pursuant to, or contemplated by, any agreement in effect on the Issue Date and described in the Offering Memorandum and transactions pursuant to any amendment, modification or extension to such agreement, so long as such amendment, modification or extension, taken as a whole, is not materially more disadvantageous to the holders of the Notes than the original agreement as in effect on the Issue Date; and transactions in which the Parent Guarantor or any Restricted Subsidiary receives a written opinion from an Independent Financial Advisor stating such transaction is fair to the Parent Guarantor or such Restricted Subsidiary from a financial point of view[4].",
-        "citations": [
-          {
-            "id": "1",
-            "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
-            "doc_name": "Perenti - Final Offering Memorandum.pdf",
-            "chunk_bbox": [
-              {
-                "x1": 98.0,
-                "x2": 525.6799926757812,
-                "y1": 401.7799987792969,
-                "y2": 500.5799865722656
-              }
-            ],
-            "page_index": [228],
-            "chunk_order": [1053],
-            "reference_text": "The Parent Guarantor will not, and will not permit any of its Restricted Subsidiaries to, enter into or permit to exist any transaction (including the purchase, sale, lease or exchange of any property, employee compensation arrangements or the rendering of any service) with, or for the benefit of, any Affiliate of the Parent Guarantor involving aggregate payments or consideration in excess of US$5.0 million (or the U.S. Dollar Equivalent thereof) (an “Affiliate Transaction”) unless: (1) the terms of the Affiliate Transaction are no less favorable to the Parent Guarantor or such Restricted Subsidiary than those that could be obtained at the time of the Affiliate Transaction in arm’s-length dealings with a Person who is not an Affiliate;"
-          },
-          {
-            "id": "2",
-            "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
-            "doc_name": "Perenti - Final Offering Memorandum.pdf",
-            "chunk_bbox": [
-              {
-                "x1": 118.0,
-                "x2": 532.97998046875,
-                "y1": 507.3800048828125,
-                "y2": 577.3800048828125
-              }
-            ],
-            "page_index": [228],
-            "chunk_order": [1054],
-            "reference_text": "(2) if such Affiliate Transaction involves an amount in excess of US$20.0 million (or the U.S. Dollar Equivalent thereof), the terms of the Affiliate Transaction are set forth in writing and a majority of the non-employee directors of the Parent Guarantor disinterested with respect to such Affiliate Transaction have determined in good faith that the criteria set forth in clause (1) are satisfied and have approved the relevant Affiliate Transaction as evidenced by a resolution of the Board of Directors of the Parent Guarantor;"
-          },
-          {
-            "id": "3",
-            "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
-            "doc_name": "Perenti - Final Offering Memorandum.pdf",
-            "chunk_bbox": [
-              {
-                "x1": 98.0,
-                "x2": 530.219970703125,
-                "y1": 584.1799926757812,
-                "y2": 733.3800048828125
-              }
-            ],
-            "page_index": [228],
-            "chunk_order": [1055],
-            "reference_text": "(b) The provisions of the preceding paragraph (a) will not prohibit: (1) transactions between or among the Parent Guarantor and/or its Restricted Subsidiaries; (2) any Permitted Investment and any Restricted Payment permitted to be made pursuant to the covenant described under “—Limitation on Restricted Payments”; (3) any employment agreement, indemnification agreement, consulting, service or termination agreement or similar arrangement, or any issuance of securities, or other payments, awards or grants in cash, securities or otherwise pursuant to, or the funding of, employment arrangements, stock options and stock ownership plans, or other employee or compensation benefit plan, in each case approved by the Board of Directors of the Parent Guarantor; (4) the payment of reasonable fees to directors or managers, as applicable, of the Parent Guarantor and its Restricted Subsidiaries who are not employees of the Parent Guarantor or its Restricted Subsidiaries and the payment of customary indemnification to directors, managers, officers and employees of the Parent Guarantor and its Restricted Subsidiaries;"
-          },
-          {
-            "id": "4",
-            "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
-            "doc_name": "Perenti - Final Offering Memorandum.pdf",
-            "chunk_bbox": [
-              {
-                "x1": 118.0,
-                "x2": 531.6599731445312,
-                "y1": 66.52999877929688,
-                "y2": 254.72999572753906
-              }
-            ],
-            "page_index": [229],
-            "chunk_order": [1056],
-            "reference_text": "(5) any transaction with a Person (other than an Unrestricted Subsidiary of the Parent Guarantor) which would constitute an Affiliate Transaction solely because the Parent Guarantor or a Restricted Subsidiary owns an equity interest in or otherwise controls such Person; (6) the issuance or sale of any Equity Interests (other than Disqualified Stock) of the Parent Guarantor; (7) any contributions to the common equity capital of the Parent Guarantor; (8) transactions pursuant to, or contemplated by, any agreement in effect on the Issue Date and described in the Offering Memorandum and transactions pursuant to any amendment, modification or extension to such agreement, so long as such amendment, modification or extension, taken as a whole, is not materially more disadvantageous to the holders of the Notes than the original agreement as in effect on the Issue Date; and (9) transactions in which the Parent Guarantor or any Restricted Subsidiary receives a written opinion from an Independent Financial Advisor stating such transaction is fair to the Parent Guarantor or such Restricted Subsidiary from a financial point of view."
-          }
-        ]
-      },
-      {
-        "name": "Use of proceeds",
-        "response": "### Use of Proceeds\n\nWe estimate that the net proceeds from this offering will be approximately US$339.4 million after deducting estimated Initial Purchasers' discounts and commissions and estimated offering expenses payable by us. We intend to use the net proceeds of the offering (i) to partially redeem, in an aggregate principal amount of US$230.0 million, the outstanding 2025 Notes and (ii) to partially repay amounts drawn which are currently outstanding under the Syndicated Facility[1].\n\n### Relationships\n\nThe Initial Purchasers and their affiliates have engaged in, and may in the future engage in, investment banking and other commercial dealings in the ordinary course of business with us or our affiliates, including in a lending, financing, advisory or underwriting capacity. They have received, or may in the future receive, customary fees and commissions for these transactions. Further, we anticipate that we will use part of the net proceeds of this offering to partially repay amounts drawn that are currently outstanding under the Syndicated Facility. Affiliates of the Initial Purchasers are lenders under our Syndicated Facility, and as such may receive their pro rata portion of such repayment with the net proceeds of this offering[2].",
-        "citations": [
-          {
-            "id": "1",
-            "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
-            "doc_name": "Perenti - Final Offering Memorandum.pdf",
-            "chunk_bbox": [
-              {
-                "x1": 78.0,
-                "x2": 531.58,
-                "y1": 60.98,
-                "y2": 142.98
-              }
-            ],
-            "page_index": [85],
-            "chunk_order": [342],
-            "reference_text": "We estimate that the net proceeds from this offering will be approximately US$339.4 million after deducting estimated Initial Purchasers’ discounts and commissions and estimated offering expenses payable by us. We intend to use the net proceeds of the offering (i) to partially redeem, in an aggregate principal amount of US$230.0 million, the outstanding 2025 Notes and (ii) to partially repay amounts drawn which are currently outstanding under the Syndicated Facility."
-          },
-          {
-            "id": "2",
-            "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
-            "doc_name": "Perenti - Final Offering Memorandum.pdf",
-            "chunk_bbox": [
-              {
-                "x1": 78.0,
-                "x2": 532.39,
-                "y1": 179.89,
-                "y2": 273.88
-              }
-            ],
-            "page_index": [279],
-            "chunk_order": [1359],
-            "reference_text": "The Initial Purchasers and their affiliates have engaged in, and may in the future engage in, investment banking and other commercial dealings in the ordinary course of business with us or our affiliates, including in a lending, financing, advisory or underwriting capacity. They have received, or may in the future receive, customary fees and commissions for these transactions. Further, we anticipate that we will use part of the net proceeds of this offering to partially repay amounts drawn that are currently outstanding under the Syndicated Facility. See “Use of Proceeds.” Affiliates of the Initial Purchasers are lenders under our Syndicated Facility, and as such may receive their pro rata portion of such repayment with the net proceeds of this offering. See “Description of Other Financing Arrangements.”"
-          }
-        ]
-      },
-      {
-        "name": "Risk factors",
-        "response": "### Financial Risk Management\n\nThis note explains the Group’s exposure to financial risks and how these risks could affect the Group’s future financial performance. Current year profit and loss information has been included where relevant to add further context. The Group’s key management personnel report to the Audit and Risk Committee and Board regularly on the progress and objectives of the risks and the associated corporate governance policy objectives. The Group’s financial risk management is carried out in accordance with the Audit and Risk Committee endorsed Group Treasury Standard. The Group Treasury function identifies, evaluates and hedges financial risks in close co-operation with the Group’s operating divisions. The Treasury Standard covers specific financial risk areas including foreign exchange risk, interest rate risk, credit risk, liquidity risk, use of derivative financial instruments and investment of excess liquidity amongst other things [1].\n\n### Market Risk\n\nIn respect of other monetary assets and liabilities held in currencies other than the AUD, the Group ensures that the net exposure is kept to an acceptable level by matching foreign denominated financial assets with matching financial liabilities and vice versa [2].\n\n### Foreign Exchange Risk\n\nThe Group manages foreign exchange risk by ensuring that the net exposure is kept to an acceptable level by matching foreign denominated financial assets with matching financial liabilities and vice versa [3].\n\n### Risk Factors\n\nInvesting in the Notes offered by this Offering Memorandum involves risk. You should carefully consider all of the information in this Offering Memorandum prior to investing in the Notes. There are several risks related to our business that are described under “Risk Factors” and elsewhere in this Offering Memorandum [4].\n\n### Financial Risk Management\n\nThe **Group’s exposure to financial risks** and their potential impact on future financial performance are detailed in this section. The document includes current year profit and loss information to provide further context. Key management personnel regularly report to the Audit and Risk Committee and Board on the progress and objectives of risk management and corporate governance policy objectives. Financial risk management is conducted by a central treasury department under policies approved by the Board of directors. The treasury department identifies, evaluates, and hedges financial risks in close cooperation with the Group’s operating units. The Board provides written principles for overall risk management and policies covering specific areas such as **foreign exchange risk**, **interest rate risk**, **credit risk**, use of **derivative financial instruments** and **non-derivative financial instruments**, and investment of excess liquidity [5].\n\n### Market Risk\n\nIn respect of other monetary assets and liabilities held in currencies other than the AUD, the Group ensures that the net exposure is kept to an acceptable level by matching foreign denominated financial assets with matching financial liabilities and vice versa [6].\n\n### Foreign Exchange Risk\n\nThe document outlines the Group’s approach to managing foreign exchange risk, which involves ensuring that net exposure is kept to an acceptable level by matching foreign denominated financial assets with corresponding financial liabilities [7].",
-        "citations": [
-          {
-            "id": "1",
-            "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
-            "doc_name": "Perenti - Final Offering Memorandum.pdf",
-            "chunk_bbox": [
-              {
-                "x1": 84.33000183105469,
-                "x2": 539.6400146484375,
-                "y1": 99.55999755859375,
-                "y2": 182.36000061035156
-              }
-            ],
-            "page_index": [353],
-            "chunk_order": [1745],
-            "reference_text": "This note explains the Group’s exposure to ﬁnancial risks and how these risks could affect the Group’s future ﬁnancial performance. Current year proﬁt and loss information has been included where relevant to add further context. The Group’s key management personnel report to the Audit and Risk Committee and Board regularly on the progress and objectives of the risks and the associated corporate governance policy objectives. The Group’s ﬁnancial risk management is carried out in accordance with the Audit and Risk Committee endorsed Group Treasury Standard. The Group Treasury function identiﬁes, evaluates and hedges ﬁnancial risks in close co-operation with the Group’s operating divisions. The Treasury Standard covers speciﬁc ﬁnancial risk areas including foreign exchange risk, interest rate risk, credit risk, liquidity risk, use of derivative ﬁnancial instruments and investment of excess liquidity amongst other things."
-          },
-          {
-            "id": "2",
-            "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
-            "doc_name": "Perenti - Final Offering Memorandum.pdf",
-            "chunk_bbox": [
-              {
-                "x1": 105.19000244140625,
-                "x2": 527.280029296875,
-                "y1": 202.22999572753906,
-                "y2": 226.8300018310547
-              }
-            ],
-            "page_index": [353],
-            "chunk_order": [1747],
-            "reference_text": "In respect of other monetary assets and liabilities held in currencies other than the AUD, the Group ensures that the net exposure is kept to an acceptable level by matching foreign denominated ﬁnancial assets with matching ﬁnancial liabilities and vice versa."
-          },
-          {
-            "id": "3",
-            "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
-            "doc_name": "Perenti - Final Offering Memorandum.pdf",
-            "chunk_bbox": [
-              {
-                "x1": 105.19000244140625,
-                "x2": 195.72999572753906,
-                "y1": 235.5800018310547,
-                "y2": 243.1699981689453
-              }
-            ],
-            "page_index": [353],
-            "chunk_order": [1748],
-            "reference_text": "(i) Foreign exchange risk"
-          },
-          {
-            "id": "4",
-            "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
-            "doc_name": "Perenti - Final Offering Memorandum.pdf",
-            "chunk_bbox": [
-              {
-                "x1": 78.0,
-                "x2": 523.3300170898438,
-                "y1": 528.989990234375,
-                "y2": 562.989990234375
-              }
-            ],
-            "page_index": [42],
-            "chunk_order": [196],
-            "reference_text": "Investing in the Notes offered by this Offering Memorandum involves risk. You should carefully consider all of the information in this Offering Memorandum prior to investing in the Notes. There are several risks related to our business that are described under “Risk Factors” and elsewhere in this Offering Memorandum."
-          },
-          {
-            "id": "5",
-            "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
-            "doc_name": "Perenti - Final Offering Memorandum.pdf",
-            "chunk_bbox": [
-              {
-                "x1": 71.29000091552734,
-                "x2": 526.5999755859375,
-                "y1": 99.55999755859375,
-                "y2": 190.86000061035156
-              }
-            ],
-            "page_index": [422],
-            "chunk_order": [2185],
-            "reference_text": "This note explains the Group’s exposure to ﬁnancial risks and how these risks could affect the Group’s future ﬁnancial performance. Current year proﬁt and loss information has been included where relevant to add further context. The Group’s key management personnel report to the Audit and Risk Committee and Board regularly on the progress and objectives of the risks and the associated corporate governance policy objectives. The Group’s ﬁnancial risk management is carried out by a central treasury department under policies approved by the Board of directors. Group treasury identiﬁes, evaluates and hedges ﬁnancial risks in close co-operation with the Group’s operating units. The Board provides written principles for overall risk management, as well as policies covering speciﬁc areas, such as foreign exchange risk, interest rate risk, credit risk, use of derivative ﬁnancial instruments and non-derivative ﬁnancial instruments, and investment of excess liquidity."
-          },
-          {
-            "id": "6",
-            "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
-            "doc_name": "Perenti - Final Offering Memorandum.pdf",
-            "chunk_bbox": [
-              {
-                "x1": 92.1500015258789,
-                "x2": 514.25,
-                "y1": 210.74000549316406,
-                "y2": 235.33999633789062
-              }
-            ],
-            "page_index": [422],
-            "chunk_order": [2187],
-            "reference_text": "In respect of other monetary assets and liabilities held in currencies other than the AUD, the Group ensures that the net exposure is kept to an acceptable level by matching foreign denominated ﬁnancial assets with matching ﬁnancial liabilities and vice versa."
-          },
-          {
-            "id": "7",
-            "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
-            "doc_name": "Perenti - Final Offering Memorandum.pdf",
-            "chunk_bbox": [
-              {
-                "x1": 92.1500015258789,
-                "x2": 182.69000244140625,
-                "y1": 249.3000030517578,
-                "y2": 256.8900146484375
-              }
-            ],
-            "page_index": [422],
-            "chunk_order": [2188],
-            "reference_text": "(i) Foreign exchange risk"
-          }
-        ]
-      },
-      {
-        "name": "Covenants",
-        "response": "N/A",
-        "citations": []
-      },
-      {
-        "response": "N/A",
-        "citations": []
-      },
-      {
-        "name": "The Offering",
-        "response": "N/A",
-        "citations": []
+        ],
+        "page_index": [227],
+        "chunk_order": [1051],
+        "reference_text": "When the aggregate amount of Excess Proceeds exceeds million (or the U.S. Dollar Equivalent thereof), within 30 days thereof, the Parent Guarantor will make an offer (a \"Proceeds Offer\") to the Holders of the Notes (and, to the extent required by the terms of other Indebtedness of the Parent Guarantor, the Issuer or a Subsidiary Guarantor that is pari passu with the Notes or a Note Guarantee, to all holders of such other pari passu Indebtedness outstanding with similar provisions requiring the Parent Guarantor, the Issuer or such Subsidiary Guarantor to make an offer to purchase or redeem such pari passu Indebtedness with the proceeds from any Asset Disposition) to purchase the maximum principal amount of Notes (and such pari passu Indebtedness of the Parent Guarantor, the Issuer or a Subsidiary Guarantor) that may be purchased with such Excess Proceeds pursuant to and subject to the conditions contained in the Indenture. The Parent Guarantor will purchase Notes tendered pursuant to an offer by the Parent Guarantor for the Notes (and such pari passu Indebtedness of the Parent Guarantor, the Issuer or of a Subsidiary Guarantor) at a purchase price of 100% of their principal amount (or, in the event such pari passu Indebtedness was issued with original issue discount, 100% of the accreted value thereof), without premium, plus accrued but unpaid interest (or, in respect of such pari passu Indebtedness, such lesser price, if any, as may be provided for by the terms of such pari passu Indebtedness) in accordance with the procedures (including prorating in the event of over subscription) set forth in the Indenture. If the aggregate purchase price of the securities tendered exceeds the Net Available Cash allotted to their purchase, the Parent Guarantor will select the securities to be purchased on a pro rata basis or in accordance with DTC procedures but in round denominations, which in the case of the Notes will be minimum denominations of US$200,000 principal amount or any greater integral multiple of US$1,000. Upon completion of such Proceeds Offer, the amount of Excess Proceeds shall be reset at zero."
       }
-    ],
-    "createdAt": "2025-05-29T07:39:41.185944",
-    "updatedAt": "2025-05-29T08:22:00.30413"
+    ]
+  },
+  {
+    "name": "Change of Control",
+    "response": "### Change of Control Triggering Event\n\nThe definition of 'Change of Control' includes a disposition of all or substantially all of the assets of the Parent Guarantor and its Restricted Subsidiaries (determined on a consolidated basis) to any Person. Although there is a limited body of case law interpreting the phrase 'substantially all', there is no precise established definition of the phrase under the laws of the State of New York, which is the applicable law that governs the Indenture. Accordingly, in certain circumstances there may be a degree of uncertainty as to whether a particular transaction would involve a disposition of 'all or substantially all' of the assets of the Parent Guarantor and its Restricted Subsidiaries (determined on a consolidated basis). As a result, it may be unclear as to whether a Change of Control Triggering Event has occurred and whether a Holder of Notes may require the Issuer to make an offer to repurchase the Notes as described above. The provisions under the Indenture relating to the Issuer's obligation to make an offer to repurchase the Notes as a result of a Change of Control Triggering Event may be waived or modified with the written consent of the Holders of a majority in principal amount of the Notes prior to the occurrence of the Change of Control Triggering Event[1].\n\n### Risks Relating to Notes\n\nOne of the circumstances under which a change of control may occur is upon the sale or disposition of all or substantially all of our assets. However, the phrase 'all or substantially all' will likely be interpreted under applicable state law and will be dependent upon particular facts and circumstances. As a result, there may be a degree of uncertainty in ascertaining whether a sale or disposition of 'all or substantially all' of our assets has occurred, in which case the ability of a holder of the Notes to obtain the benefit of an offer to repurchase all or a portion of the Notes held by such holder may be impaired[2].\n\n### Future Indebtedness and Repurchase Obligations\n\nFuture Indebtedness that the Parent Guarantor may incur may contain prohibitions on the occurrence of certain events that would constitute a Change of Control, or require the repurchase of such indebtedness upon a Change of Control. Moreover, the exercise by the Holders of their right to require the Issuer to repurchase their Notes could cause a default under such Indebtedness, even if the Change of Control itself does not. Finally, the ability of the Issuer to pay cash to the Holders following the occurrence of a Change of Control Triggering Event may be limited by the then existing financial resources of the Issuer and the Note Guarantors. The Issuer cannot assure you that it will have sufficient funds available when necessary to make any required repurchases[3].\n\n### Credit Agreement and Review Event\n\nA Change of Control may be a change of control under the Credit Agreement, which would be a 'review event' thereunder. The occurrence of a 'review event' may, under certain circumstances described in the Credit Agreement, require the Parent Guarantor and the Issuer to repay the Indebtedness outstanding under the Credit Agreement and result in the cancelation of the lending commitments thereunder. In addition, events that may not constitute a Change of Control may constitute a change of control under the Credit Agreement and accordingly constitute a review event[4].",
+    "citations": [
+      {
+        "id": "1",
+        "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
+        "doc_name": "Perenti - Final Offering Memorandum.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 78.0,
+            "x2": 532.47998046875,
+            "y1": 395.3800048828125,
+            "y2": 560.989990234375
+          }
+        ],
+        "page_index": [219],
+        "chunk_order": [1001],
+        "reference_text": "The definition of 'Change of Control' includes a disposition of all or substantially all of the assets of the Parent Guarantor and its Restricted Subsidiaries (determined on a consolidated basis) to any Person. Although there is a limited body of case law interpreting the phrase 'substantially all', there is no precise established definition of the phrase under the laws of the State of New York, which is the applicable law that governs the Indenture. Accordingly, in certain circumstances there may be a degree of uncertainty as to whether a particular transaction would involve a disposition of 'all or substantially all' of the assets of the Parent Guarantor and its Restricted Subsidiaries (determined on a consolidated basis). As a result, it may be unclear as to whether a Change of Control Triggering Event has occurred and whether a Holder of Notes may require the Issuer to make an offer to repurchase the Notes as described above. The provisions under the Indenture relating to the Issuer's obligation to make an offer to repurchase the Notes as a result of a Change of Control Triggering Event may be waived or modified with the written consent of the Holders of a majority in principal amount of the Notes prior to the occurrence of the Change of Control Triggering Event."
+      },
+      {
+        "id": "2",
+        "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
+        "doc_name": "Perenti - Final Offering Memorandum.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 78.0,
+            "x2": 531.97998046875,
+            "y1": 662.739990234375,
+            "y2": 732.739990234375
+          }
+        ],
+        "page_index": [83],
+        "chunk_order": [338],
+        "reference_text": "One of the circumstances under which a change of control may occur is upon the sale or disposition of all or substantially all of our assets. However, the phrase 'all or substantially all' will likely be interpreted under applicable state law and will be dependent upon particular facts and circumstances. As a result, there may be a degree of uncertainty in ascertaining whether a sale or disposition of 'all or substantially all' of our assets has occurred, in which case the ability of a holder of the Notes to obtain the benefit of an offer to repurchase all or a portion of the Notes held by such holder may be impaired."
+      },
+      {
+        "id": "3",
+        "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
+        "doc_name": "Perenti - Final Offering Memorandum.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 78.0,
+            "x2": 531.1300048828125,
+            "y1": 299.7799987792969,
+            "y2": 381.7799987792969
+          }
+        ],
+        "page_index": [219],
+        "chunk_order": [1000],
+        "reference_text": "Future Indebtedness that the Parent Guarantor may incur may contain prohibitions on the occurrence of certain events that would constitute a Change of Control, or require the repurchase of such indebtedness upon a Change of Control. Moreover, the exercise by the Holders of their right to require the Issuer to repurchase their Notes could cause a default under such Indebtedness, even if the Change of Control itself does not. Finally, the ability of the Issuer to pay cash to the Holders following the occurrence of a Change of Control Triggering Event may be limited by the then existing financial resources of the Issuer and the Note Guarantors. The Issuer cannot assure you that it will have sufficient funds available when necessary to make any required repurchases."
+      },
+      {
+        "id": "4",
+        "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
+        "doc_name": "Perenti - Final Offering Memorandum.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 78.0,
+            "x2": 529.9299926757812,
+            "y1": 216.17999267578125,
+            "y2": 286.17999267578125
+          }
+        ],
+        "page_index": [219],
+        "chunk_order": [999],
+        "reference_text": "A Change of Control may be a change of control under the Credit Agreement, which would be a 'review event' thereunder. The occurrence of a 'review event' may, under certain circumstances described in the Credit Agreement, require the Parent Guarantor and the Issuer to repay the Indebtedness outstanding under the Credit Agreement and result in the cancelation of the lending commitments thereunder. In addition, events that may not constitute a Change of Control may constitute a change of control under the Credit Agreement and accordingly constitute a review event."
+      }
+    ]
+  },
+  {
+    "name": "Event of Default",
+    "response": "### Specific Circumstances of Default\n\nThe borrower (issuer) may be considered to have failed in fulfilling their contractual obligations under the following specific circumstances:\n\n1. Default in the payment of principal or interest on the Notes when due, with a 30-day grace period for interest payments[1].\n\n2. Default in the performance or breach of certain covenants, including merger and consolidation provisions, and failure to make or consummate a Change of Control Offer or a Proceeds Offer[1].\n\n3. Commencement of voluntary or involuntary bankruptcy, insolvency, or similar proceedings against the Issuer, Parent Guarantor, or any Significant Subsidiary, or the appointment of an administrator, receiver, or similar official[2][3].\n\n4. Default in payment of principal on any Indebtedness of at least US$25.0 million, or an event of default causing such Indebtedness to be due and payable prior to its stated maturity[4].\n\n5. Final judgments or orders for payment exceeding US$25.0 million that remain unpaid or undischarged for 60 consecutive days[5].\n\n6. Denial or disaffirmation of obligations under any Note Guarantee by a Significant Subsidiary, or such guarantees becoming unenforceable or invalid[6].\n\n7. Non-payment, breach of financial undertakings, non-compliance with obligations, insolvency, misrepresentation, cross default, enforcement against assets, cessation of business, vitiation, and occurrence of material adverse events under the Common Terms Deed[7].",
+    "citations": [
+      {
+        "id": "1",
+        "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
+        "doc_name": "Perenti - Final Offering Memorandum.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 98.0,
+            "x2": 532.47998046875,
+            "y1": 562.739990234375,
+            "y2": 733.0900268554688
+          }
+        ],
+        "page_index": [233],
+        "chunk_order": [1082],
+        "reference_text": "(1) default in the payment of principal of (or premium, if any, on) the Notes when the same becomes due and payable at maturity, upon acceleration, redemption or otherwise; (2) default in the payment of interest or Additional Amounts on any Note when the same becomes due and payable, and such default continues for a period of 30 days; (3) default in the performance or breach of the provisions of the covenant described under “—Certain Covenants—Merger and Consolidation,” or the failure by the Parent Guarantor or the Issuer to make or consummate a Change of Control Offer or a Proceeds Offer in the manner described under “—Change of Control Triggering Event” or “—Certain Covenants—Limitation on Sales of Assets and Subsidiary Stock”; (4) the Parent Guarantor or any Restricted Subsidiary defaults in the performance of or breaches any other covenant or agreement in the Indenture or under the Notes (other than a default specified in clause (1), (2) or (3) above) and such default or breach continues for a period of 60 consecutive days after written notice by the Trustee or the Holders of 25% or more in aggregate principal amount of the Notes;"
+      },
+      {
+        "id": "2",
+        "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
+        "doc_name": "Perenti - Final Offering Memorandum.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 98.0,
+            "x2": 531.0700073242188,
+            "y1": 237.67999267578125,
+            "y2": 451.67999267578125
+          }
+        ],
+        "page_index": [234],
+        "chunk_order": [1085],
+        "reference_text": "(7) an involuntary case or other proceeding is commenced against, or an order is made for the judicial management or administration of, the Issuer, the Parent Guarantor or any Significant Subsidiary (or any group of Restricted Subsidiaries that, taken together, would constitute a Significant Subsidiary) with respect to it or its debts under any applicable bankruptcy, insolvency, winding-up or other similar law now or hereafter in effect seeking the appointment of an administrator, receiver, receiver and manager, liquidator, provisional liquidator, mortgagee in possession, Controller or similar official of the Issuer, the Parent Guarantor or any Significant Subsidiary (or any group of Restricted Subsidiaries that, taken together, would constitute a Significant Subsidiary) or for any substantial part of the property and assets of the Issuer, the Parent Guarantor or any Significant Subsidiary (or any group of Restricted Subsidiaries that, taken together, would constitute a Significant Subsidiary) or any action is initiated (including any reference or inquiry) by or before any authority of competent jurisdiction which may result in (a) the suspension or staying of the obligations of any Note Guarantor with respect to such Note Guarantor’s Note Guarantee or (b) the requirement for approval from such authority of competent jurisdiction for enforcement of a Note Guarantee, and such involuntary case or other proceeding or action remains undismissed and unstayed for a period of 60 consecutive days; or an order for relief is entered against the Issuer, the Parent Guarantor or any Significant Subsidiary (or any group of Restricted Subsidiaries that, taken together, would constitute a Significant Subsidiary) under any applicable bankruptcy, insolvency or other similar law as now or hereafter in effect;"
+      },
+      {
+        "id": "3",
+        "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
+        "doc_name": "Perenti - Final Offering Memorandum.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 98.0,
+            "x2": 532.8400268554688,
+            "y1": 458.0299987792969,
+            "y2": 588.030029296875
+          }
+        ],
+        "page_index": [234],
+        "chunk_order": [1086],
+        "reference_text": "(8) the Issuer, the Parent Guarantor or any Significant Subsidiary (or any group of Restricted Subsidiaries that, taken together, would constitute a Significant Subsidiary) (a) commences a voluntary case under any applicable bankruptcy, insolvency, winding-up or other similar law now or hereafter in effect, or consents to the entry of an order for relief in an involuntary case under any such law, (b) consents to the appointment of or taking possession by an administrator, receiver, receiver and manager, liquidator, provisional liquidator, mortgagee in possession, Controller or similar official of the Issuer, the Parent Guarantor or any Significant Subsidiary (or any group of Restricted Subsidiaries that, taken together, would constitute a Significant Subsidiary) or for all or substantially all of the property and assets of the Issuer, the Parent Guarantor or any Significant Subsidiary (or any group of Restricted Subsidiaries that, taken together, would constitute a Significant Subsidiary) or (c) makes any resolution for winding-up or dissolution effective; or (d) effects any general assignment for the benefit of creditors; or"
+      },
+      {
+        "id": "4",
+        "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
+        "doc_name": "Perenti - Final Offering Memorandum.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 118.0,
+            "x2": 532.0800170898438,
+            "y1": 36.97999954223633,
+            "y2": 130.97999572753906
+          }
+        ],
+        "page_index": [234],
+        "chunk_order": [1083],
+        "reference_text": "there occurs with respect to any Indebtedness of the Issuer, any Note Guarantor or any Significant Subsidiary having an outstanding principal amount of US$25.0 million (or the U.S. Dollar Equivalent thereof) or more in the aggregate for all such Indebtedness of all such Persons, whether such Indebtedness now exists or shall hereafter be created, (a) an event of default that results in such Indebtedness being due and payable prior to its Stated Maturity (which acceleration is not rescinded, annulled or otherwise cured within 20 days of receipt by the Issuer, such Guarantor or such Significant Subsidiary of notice of any such acceleration) and/or (b) a default in payment of principal in respect of, such Indebtedness when the same becomes due and payable;"
+      },
+      {
+        "id": "5",
+        "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
+        "doc_name": "Perenti - Final Offering Memorandum.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 98.0,
+            "x2": 531.9600219726562,
+            "y1": 137.3300018310547,
+            "y2": 231.3300018310547
+          }
+        ],
+        "page_index": [234],
+        "chunk_order": [1084],
+        "reference_text": "(6) one or more final judgments or orders for the payment of money are rendered against the Parent Guarantor or any Restricted Subsidiary and are not paid or discharged, that causes the aggregate amount for all such final judgments or orders outstanding and not paid or discharged against all such Persons to either individually or in an aggregate amount, in each case, in excess of US$25.0 million (or the U.S. Dollar Equivalent thereof) (in excess of amounts which the Parent Guarantor’s or such Restricted Subsidiary’s insurance carriers have agreed in writing to pay under applicable policies) and there is a period of 60 consecutive days following entry of the final judgment or order during which a stay of enforcement, by reason of a pending appeal or otherwise, is not in effect;"
+      },
+      {
+        "id": "6",
+        "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
+        "doc_name": "Perenti - Final Offering Memorandum.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 98.0,
+            "x2": 529.760009765625,
+            "y1": 594.3800048828125,
+            "y2": 664.3800048828125
+          }
+        ],
+        "page_index": [234],
+        "chunk_order": [1087],
+        "reference_text": "(9) any Note Guarantor that is a Significant Subsidiary (or any group of Restricted Subsidiaries that, taken together, would constitute a Significant Subsidiary) denies or disaffirms its or their obligations under its or their Note Guarantee or Note Guarantees or, except as permitted by the Indenture, any Note Guarantee of any Significant Subsidiary (or the Note Guarantees of any group of Restricted Subsidiaries that, taken together, would constitute a Significant Subsidiary) is or are determined to be unenforceable or invalid or will for any reason cease to be in full force and effect."
+      },
+      {
+        "id": "7",
+        "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
+        "doc_name": "Perenti - Final Offering Memorandum.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 78.0,
+            "x2": 522.1099853515625,
+            "y1": 698.780029296875,
+            "y2": 732.780029296875
+          }
+        ],
+        "page_index": [205],
+        "chunk_order": [925],
+        "reference_text": "Events of default under the Common Terms Deed include non-payment, breach of financial undertakings, non-compliance with obligations, insolvency, misrepresentation, cross default, enforcement against assets, cessation of business, vitiation, and occurrence of material adverse events."
+      }
+    ]
+  },
+  {
+    "name": "Permitted Investments",
+    "response": "### Permitted Investments\n\n(4) repurchase obligations with a term of not more than 30 days for underlying securities of the types described in clauses (1) and (2) above entered into with any financial institution meeting the qualifications specified in clause (2) above; (5) commercial paper having one of the two highest ratings obtainable from Moody's or S&P and, in each case, maturing within one year after the date of acquisition; (6) money market funds at least 95% of the assets of which constitute Cash Equivalents of the kinds described in clauses (1) through (4) of this definition; and (7) (i) Investments consisting of purchases of local currencies of those countries in which the Parent Guarantor or any of its Restricted Subsidiaries transacts business from time to time in the ordinary course of business, (ii) Investments of comparable tenor and credit quality to those described in clauses[1].",
+    "citations": [
+      {
+        "id": "1",
+        "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
+        "doc_name": "Perenti - Final Offering Memorandum.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 98.0,
+            "x2": 532.0800170898438,
+            "y1": 446.489990234375,
+            "y2": 582.9299926757812
+          }
+        ],
+        "page_index": [268],
+        "chunk_order": [1303],
+        "reference_text": "(4) repurchase obligations with a term of not more than 30 days for underlying securities of the types described in clauses (1) and (2) above entered into with any financial institution meeting the qualifications specified in clause (2) above; (5) commercial paper having one of the two highest ratings obtainable from Moody's or S&P and, in each case, maturing within one year after the date of acquisition; (6) money market funds at least 95% of the assets of which constitute Cash Equivalents of the kinds described in clauses (1) through (4) of this definition; and (7) (i) Investments consisting of purchases of local currencies of those countries in which the Parent Guarantor or any of its Restricted Subsidiaries transacts business from time to time in the ordinary course of business, (ii) Investments of comparable tenor and credit quality to those described in clauses"
+      }
+    ]
+  },
+  {
+    "name": "Permitted Indebtedness",
+    "response": "### Limitation on Indebtedness\n\nThe Parent Guarantor will not, and will not permit any of its Restricted Subsidiaries to, incur, directly or indirectly, any indebtedness; provided, however, that the Parent Guarantor, the Issuer, or any Subsidiary Guarantor will be entitled to incur indebtedness if, on the date of such incurrence and after giving effect thereto on a pro forma basis, the Consolidated Coverage Ratio would be at least 2.0 to 1.0[1].\n\n### Permitted Indebtedness\n\nNotwithstanding the foregoing paragraph, the Parent Guarantor and its Restricted Subsidiaries will be entitled to incur any or all of the following indebtedness:\n\nRefinancing Indebtedness in respect of indebtedness incurred pursuant to paragraph (a) of this covenant or of permitted indebtedness incurred pursuant to clause (3), (4), (5) or this clause (6)[2].\n\nHedging obligations incurred in the ordinary course of business (and not for speculative purposes)[2].\n\nObligations in respect of workers' compensation claims, payment obligations in connection with health or other types of social security benefits, unemployment or other insurance or self-insurance obligations, insurance premium finance agreements, reclamation, statutory obligations, bankers' acceptances, performance, bid, appeal, surety or similar bonds and letters of credit or completion and performance guarantees or equipment leases or other similar obligations provided or incurred by the Parent Guarantor or any Restricted Subsidiary in the ordinary course of business[2].\n\nIndebtedness arising from the honoring by a bank or other financial institution of a check, draft or similar instrument drawn against insufficient funds in the ordinary course of business; provided, however, that such indebtedness is extinguished within five business days of its incurrence[3].\n\nIndebtedness consisting of any guarantee by the Parent Guarantor or any of its Restricted Subsidiaries of indebtedness of the Parent Guarantor or any of its Restricted Subsidiaries that was permitted to be incurred by another provision of this covenant; provided, however, that if the indebtedness being guaranteed is subordinated to or pari passu with the Notes, then the guarantee thereof shall be subordinated or pari passu, as applicable, to at least the same extent as the indebtedness being guaranteed[3].\n\nIndebtedness outstanding on the issue date (other than (A) indebtedness described in clause (1) or (3) of this covenant (B) existing purchase money indebtedness outstanding on the issue date and (C) indebtedness being repaid with the proceeds from the sale of the Notes)[4].\n\nIndebtedness of a Restricted Subsidiary incurred and outstanding on or prior to the date on which such Subsidiary was acquired, directly or indirectly, by the Parent Guarantor (other than indebtedness incurred in connection with, or to provide all or any portion of the funds or credit support utilized to consummate, the transaction or series of related transactions pursuant to which such Subsidiary became a Subsidiary or was acquired, directly or indirectly, by the Parent Guarantor); provided, however, that on the date of such acquisition and after giving pro forma effect thereto, either (x) the Parent Guarantor would have been entitled to incur at least US$1.00 of indebtedness pursuant to paragraph (a) of this covenant or (y) the Consolidated Coverage Ratio would be greater than or equal to the Consolidated Coverage Ratio immediately prior to giving pro forma effect thereto[4].\n\n### Refinancing Indebtedness\n\nRefinancing Indebtedness means indebtedness that refinances any indebtedness of the Parent Guarantor or any Restricted Subsidiary existing on the issue date or incurred in compliance with the Indenture, including indebtedness that refinances Refinancing Indebtedness; provided, however, that:\n\nSuch Refinancing Indebtedness has a stated maturity no earlier than the stated maturity of the indebtedness being refinanced[5].\n\nSuch Refinancing Indebtedness has an average life at the time such Refinancing Indebtedness is incurred that is equal to or greater than the average life of the indebtedness being refinanced[5].\n\nSuch Refinancing Indebtedness has an aggregate principal amount (or if incurred with original issue discount, an aggregate issue price) that is equal to or less than the aggregate principal amount (or if incurred with original issue discount, the aggregate accreted value) then outstanding (plus fees and expenses, including any premium and defeasance costs) under the indebtedness being refinanced[5].\n\nIf the indebtedness being refinanced is subordinated in right of payment to the Notes or a Note Guarantee, such Refinancing Indebtedness is subordinated in right of payment to the Notes or such Note Guarantee, as the case may be, at least to the same extent as the indebtedness being refinanced[6].\n\nSuch Refinancing Indebtedness is incurred by either (a) the Restricted Subsidiary that is the obligor on the indebtedness being refinanced or (b) the Parent Guarantor, the Issuer or a Subsidiary Guarantor[6].\n\n### Restrictions on Refinancing Agreements\n\nAny agreement effecting a refinancing of indebtedness provided, however, that the encumbrances and restrictions contained in any such refinancing agreement or instrument or other amendment, modification, supplement, restatement, renewal or replacement are not materially more restrictive, taken as a whole, than those contained in such predecessor agreements or instruments[7].\n\nAny agreement entered into for the sale or disposition of all or substantially all the equity interests or assets of a Restricted Subsidiary that is not prohibited by the covenants described under 'Certain Covenants—Limitation on Sales of Assets and Subsidiary Stock' and 'Certain Covenants—Merger and Consolidation,' pending the closing of such sale or disposition[7].",
+    "citations": [
+      {
+        "id": "1",
+        "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
+        "doc_name": "Perenti - Final Offering Memorandum.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 98.0,
+            "x2": 527.77001953125,
+            "y1": 556.989990234375,
+            "y2": 656.0399780273438
+          }
+        ],
+        "page_index": [220],
+        "chunk_order": [1009],
+        "reference_text": "The Parent Guarantor will not, and will not permit any of its Restricted Subsidiaries to, Incur, directly or indirectly, any Indebtedness; provided, however, that the Parent Guarantor, the Issuer or any Subsidiary Guarantor will be entitled to Incur Indebtedness if, on the date of such Incurrence and after giving effect thereto on a pro forma basis, the Consolidated Coverage Ratio would be at least 2.0 to 1.0."
+      },
+      {
+        "id": "2",
+        "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
+        "doc_name": "Perenti - Final Offering Memorandum.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 118.0,
+            "x2": 530.1099853515625,
+            "y1": 359.19000244140625,
+            "y2": 500.2799987792969
+          }
+        ],
+        "page_index": [221],
+        "chunk_order": [1013],
+        "reference_text": "Refinancing Indebtedness in respect of Indebtedness Incurred pursuant to paragraph (a) of this covenant or of Permitted Indebtedness Incurred pursuant to clause (3), (4), (5) or this clause (6); Hedging Obligations Incurred in the ordinary course of business (and not for speculative purposes); obligations in respect of workers' compensation claims, payment obligations in connection with health or other types of social security benefits, unemployment or other insurance or self-insurance obligations, insurance premium finance agreements, reclamation, statutory obligations, bankers' acceptances, performance, bid, appeal, surety or similar bonds and letters of credit or completion and performance guarantees or equipment leases or other similar obligations provided or Incurred by the Parent Guarantor or any Restricted Subsidiary in the ordinary course of business."
+      },
+      {
+        "id": "3",
+        "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
+        "doc_name": "Perenti - Final Offering Memorandum.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 118.0,
+            "x2": 530.4400024414062,
+            "y1": 507.8299865722656,
+            "y2": 619.3800048828125
+          }
+        ],
+        "page_index": [221],
+        "chunk_order": [1014],
+        "reference_text": "Indebtedness arising from the honoring by a bank or other financial institution of a check, draft or similar instrument drawn against insufficient funds in the ordinary course of business; provided, however, that such Indebtedness is extinguished within five Business Days of its Incurrence; Indebtedness consisting of any Guarantee by the Parent Guarantor or any of its Restricted Subsidiaries of Indebtedness of the Parent Guarantor or any of its Restricted Subsidiaries that was permitted to be Incurred by another provision of this covenant; provided, however, that if the Indebtedness being guaranteed is subordinated to or pari passu with the Notes, then the Guarantee thereof shall be subordinated or pari passu, as applicable, to at least the same extent as the Indebtedness being Guaranteed."
+      },
+      {
+        "id": "4",
+        "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
+        "doc_name": "Perenti - Final Offering Memorandum.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 118.0,
+            "x2": 532.47998046875,
+            "y1": 174.52999877929688,
+            "y2": 351.6300048828125
+          }
+        ],
+        "page_index": [221],
+        "chunk_order": [1012],
+        "reference_text": "Indebtedness outstanding on the Issue Date (other than (A) Indebtedness described in clause (1) or (3) of this covenant (B) Existing Purchase Money Indebtedness outstanding on the Issue Date and (C) Indebtedness being repaid with the proceeds from the sale of the Notes); Indebtedness of a Restricted Subsidiary Incurred and outstanding on or prior to the date on which such Subsidiary was acquired, directly or indirectly, by the Parent Guarantor (other than Indebtedness Incurred in connection with, or to provide all or any portion of the funds or credit support utilized to consummate, the transaction or series of related transactions pursuant to which such Subsidiary became a Subsidiary or was acquired, directly or indirectly, by the Parent Guarantor); provided, however, that on the date of such acquisition and after giving pro forma effect thereto, either (x) the Parent Guarantor would have been entitled to Incur at least US$1.00 of Indebtedness pursuant to paragraph (a) of this covenant or (y) the Consolidated Coverage Ratio would be greater than or equal to the Consolidated Coverage Ratio immediately prior to giving pro forma effect thereto."
+      },
+      {
+        "id": "5",
+        "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
+        "doc_name": "Perenti - Final Offering Memorandum.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 98.0,
+            "x2": 518.3499755859375,
+            "y1": 243.47999572753906,
+            "y2": 348.489990234375
+          }
+        ],
+        "page_index": [266],
+        "chunk_order": [1289],
+        "reference_text": "Refinancing Indebtedness means Indebtedness that Refinances any Indebtedness of the Parent Guarantor or any Restricted Subsidiary existing on the Issue Date or Incurred in compliance with the Indenture, including Indebtedness that Refinances Refinancing Indebtedness; provided, however, that: (1) such Refinancing Indebtedness has a Stated Maturity no earlier than the Stated Maturity of the Indebtedness being Refinanced; (2) such Refinancing Indebtedness has an Average Life at the time such Refinancing Indebtedness is Incurred that is equal to or greater than the Average Life of the Indebtedness being Refinanced; (3) such Refinancing Indebtedness has an aggregate principal amount (or if Incurred with original issue discount, an aggregate issue price) that is equal to or less than the aggregate principal amount (or if Incurred with original issue discount, the aggregate accreted value) then outstanding (plus fees and expenses, including any premium and defeasance costs) under the Indebtedness being Refinanced."
+      },
+      {
+        "id": "6",
+        "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
+        "doc_name": "Perenti - Final Offering Memorandum.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 98.0,
+            "x2": 527.9000244140625,
+            "y1": 355.989990234375,
+            "y2": 431.489990234375
+          }
+        ],
+        "page_index": [266],
+        "chunk_order": [1290],
+        "reference_text": "if the Indebtedness being Refinanced is subordinated in right of payment to the Notes or a Note Guarantee, such Refinancing Indebtedness is subordinated in right of payment to the Notes or such Note Guarantee, as the case may be, at least to the same extent as the Indebtedness being Refinanced; and (5) such Refinancing Indebtedness is incurred by either (a) the Restricted Subsidiary that is the obligor on the Indebtedness being Refinanced or (b) the Parent Guarantor, the Issuer or a Subsidiary Guarantor."
+      },
+      {
+        "id": "7",
+        "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
+        "doc_name": "Perenti - Final Offering Memorandum.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 98.0,
+            "x2": 528.0,
+            "y1": 66.77999877929688,
+            "y2": 166.5800018310547
+          }
+        ],
+        "page_index": [226],
+        "chunk_order": [1038],
+        "reference_text": "any agreement effecting a Refinancing of Indebtedness provided, however, that the encumbrances and restrictions contained in any such Refinancing agreement or instrument or other amendment, modification, supplement, restatement, renewal or replacement are not materially more restrictive, taken as a whole, than those contained in such predecessor agreements or instruments; any agreement entered into for the sale or disposition of all or substantially all the Equity Interests or assets of a Restricted Subsidiary that is not prohibited by the covenants described under 'Certain Covenants—Limitation on Sales of Assets and Subsidiary Stock' and 'Certain Covenants—Merger and Consolidation,' pending the closing of such sale or disposition."
+      }
+    ]
+  },
+  {
+    "name": "Restricted Payments",
+    "response": "### Restricted Payments\n\nThe declaration and payments of dividends or distributions on Preferred Stock of a Restricted Subsidiary or Disqualified Stock issued pursuant to the covenant described under 'Limitation on Indebtedness'; provided, however, that, at the time of payment of such dividend or distribution, no Default has occurred and is continuing (or would result therefrom) [1].\n\nRepurchases of Equity Interests deemed to occur upon exercise of stock options, warrants or other securities convertible into or exchangeable for Equity Interests of the Parent Guarantor to the extent such repurchased Equity Interests represent a portion of the exercise price thereof or applicable withholding taxes, if any [1].\n\nCash payments in lieu of the issuance of fractional shares in connection with the exercise of stock options, warrants or other securities convertible into or exchangeable for Equity Interests of the Parent Guarantor; provided, however, that any such cash payment shall not be for the purpose of evading the limitation of this covenant [1].\n\nAny purchase, repurchase, redemption, defeasance or other acquisition or retirement for value of Subordinated Obligations of the Issuer or a Note Guarantor made by exchange for, or out of the proceeds of the substantially concurrent Incurrence of, Refinancing Indebtedness which is permitted to be Incurred pursuant to the covenant described under 'Limitation on Indebtedness' [2].\n\nThe payment of any dividend or distribution or consummation of any irrevocable redemption within 60 days after the date of declaration thereof or the call for a redemption thereof, if at such date of declaration or call for redemption such payment would have complied with paragraph (a) of this covenant [2].\n\nThe payment of any dividend or distribution by a Restricted Subsidiary that is not a Wholly Owned Subsidiary on a pro rata basis [3].\n\nThe declaration and payment of dividends on the Parent Guarantor's Capital Stock in an aggregate amount not to exceed in any fiscal year 6% of the Market Capitalization of the Parent Guarantor, provided, that, at the time of declaring such dividend, the Leverage Ratio is less than 2.5 to 1.0 [3].\n\nOther Restricted Payments in an aggregate amount not to exceed A$175.0 million (or the Australian Dollar Equivalent thereof) [3].\n\nIf no Default has occurred and is continuing (or would result therefrom), the payment, purchase, redemption, defeasance or other acquisition or retirement of Subordinated Obligations of the Issuer or any Note Guarantor, in each case, at a purchase price not greater than 101% of the principal amount of such Subordinated Obligations, plus any accrued and unpaid interest thereon, following the occurrence of a Change of Control Triggering Event or with the Excess Proceeds of one or more Asset Dispositions; provided, however, that prior to such payment, purchase, redemption, defeasance or other acquisition or retirement, the Issuer (or a third party to the extent permitted by the Indenture) shall have made a Change of Control Offer or Proceeds Offer, as the case may be, with respect to the Notes as a result of such Change of Control Triggering Event or Asset Disposition, as the case may be, and shall have repurchased all Notes validly tendered and not withdrawn in connection with such Change of Control Offer or Proceeds Offer, as the case may be [4].",
+    "citations": [
+      {
+        "id": "1",
+        "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
+        "doc_name": "Perenti - Final Offering Memorandum.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 118.0,
+            "x2": 528.2999877929688,
+            "y1": 564.989990234375,
+            "y2": 718.989990234375
+          }
+        ],
+        "page_index": [224],
+        "chunk_order": [1031],
+        "reference_text": "the declaration and payments of dividends or distributions on Preferred Stock of a Restricted Subsidiary or Disqualified Stock issued pursuant to the covenant described under 'Limitation on Indebtedness'; provided, however, that, at the time of payment of such dividend or distribution, no Default has occurred and is continuing (or would result therefrom); repurchases of Equity Interests deemed to occur upon exercise of stock options, warrants or other securities convertible into or exchangeable for Equity Interests of the Parent Guarantor to the extent such repurchased Equity Interests represent a portion of the exercise price thereof or applicable withholding taxes, if any; cash payments in lieu of the issuance of fractional shares in connection with the exercise of stock options, warrants or other securities convertible into or exchangeable for Equity Interests of the Parent Guarantor; provided, however, that any such cash payment shall not be for the purpose of evading the limitation of this covenant;"
+      },
+      {
+        "id": "2",
+        "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
+        "doc_name": "Perenti - Final Offering Memorandum.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 118.0,
+            "x2": 525.1300048828125,
+            "y1": 156.97999572753906,
+            "y2": 268.989990234375
+          }
+        ],
+        "page_index": [224],
+        "chunk_order": [1028],
+        "reference_text": "any purchase, repurchase, redemption, defeasance or other acquisition or retirement for value of Subordinated Obligations of the Issuer or a Note Guarantor made by exchange for, or out of the proceeds of the substantially concurrent Incurrence of, Refinancing Indebtedness which is permitted to be Incurred pursuant to the covenant described under 'Limitation on Indebtedness'; the payment of any dividend or distribution or consummation of any irrevocable redemption within 60 days after the date of declaration thereof or the call for a redemption thereof, if at such date of declaration or call for redemption such payment would have complied with paragraph (a) of this covenant;"
+      },
+      {
+        "id": "3",
+        "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
+        "doc_name": "Perenti - Final Offering Memorandum.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 118.0,
+            "x2": 531.97998046875,
+            "y1": 186.69000244140625,
+            "y2": 280.0899963378906
+          }
+        ],
+        "page_index": [225],
+        "chunk_order": [1033],
+        "reference_text": "the payment of any dividend or distribution by a Restricted Subsidiary that it not a Wholly Owned Subsidiary on a pro rata basis; the declaration and payment of dividends on the Parent Guarantor's Capital Stock in an aggregate amount not to exceed in any fiscal year 6% of the Market Capitalization of the Parent Guarantor, provided, that, at the time of declaring such dividend, the Leverage Ratio is less than 2.5 to 1.0; or other Restricted Payments in an aggregate amount not to exceed A$175.0 million (or the Australian Dollar Equivalent thereof)."
+      },
+      {
+        "id": "4",
+        "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
+        "doc_name": "Perenti - Final Offering Memorandum.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 138.0,
+            "x2": 529.8300170898438,
+            "y1": 36.97999954223633,
+            "y2": 178.97999572753906
+          }
+        ],
+        "page_index": [225],
+        "chunk_order": [1032],
+        "reference_text": "if no Default has occurred and is continuing (or would result therefrom), the payment, purchase, redemption, defeasance or other acquisition or retirement of Subordinated Obligations of the Issuer or any Note Guarantor, in each case, at a purchase price not greater than 101% of the principal amount of such Subordinated Obligations, plus any accrued and unpaid interest thereon, following the occurrence of a Change of Control Triggering Event or with the Excess Proceeds of one or more Asset Dispositions; provided, however, that prior to such payment, purchase, redemption, defeasance or other acquisition or retirement, the Issuer (or a third party to the extent permitted by the Indenture) shall have made a Change of Control Offer or Proceeds Offer, as the case may be, with respect to the Notes as a result of such Change of Control Triggering Event or Asset Disposition, as the case may be, and shall have repurchased all Notes validly tendered and not withdrawn in connection with such Change of Control Offer or Proceeds Offer, as the case may be;"
+      }
+    ]
+  },
+  {
+    "name": "Optional Redemption",
+    "response": "### Redemption at the Option of the Issuer\n\nAt any time on or after April 26, 2026, the Issuer may redeem some or all of the notes at the redemption prices described under \"Description of the Notes—Optional Redemption.\" The Issuer may redeem some or all of the Notes prior to April 26, 2026 by paying 100% of the principal amount of such Notes plus a make-whole premium, as described under \"Description of the Notes—Optional Redemption.\" The Issuer may also redeem up to 40% of the Notes prior to April 26, 2026 using the proceeds of certain equity offerings, as described under \"Description of the Notes—Optional Redemption\"[1].\n\n### Redemption for Taxation Reasons\n\nThe Notes may be redeemed at the option of the Issuer in whole but not in part, at the principal amount thereof plus accrued and unpaid interest in certain circumstances in which the Issuer would become obligated to pay Additional Amounts. See \"Description of the Notes—Redemption for Changes in Taxes\"[1].\n\n### Change of Control Triggering Event\n\nUpon the occurrence of certain change of control events that is accompanied by a decline in the rating of the Notes, each holder of the Notes may require the Issuer to repurchase such holder's Notes, in whole or in part, at a purchase price equal to 101% of the principal amount thereof plus accrued but unpaid interest to the purchase date, as described under \"Description of the Notes—Change of Control Triggering Event\"[1].",
+    "citations": [
+      {
+        "id": "1",
+        "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
+        "doc_name": "Perenti - Final Offering Memorandum.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 78.0,
+            "x2": 364.760009765625,
+            "y1": 71.19000244140625,
+            "y2": 81.19000244140625
+          }
+        ],
+        "page_index": [46],
+        "chunk_order": [199],
+        "reference_text": "Optional Redemption At any time on or after April 26, 2026, the Issuer may redeem some or all of the notes at the redemption at the redemption prices described under “Description of the Notes—Optional Redemption.” The Issuer may redeem some or all of the Notes prior to April 26, 2026 by paying 100% of the principal amount of such Notes plus a make-whole premium, as described under “Description of the Notes—Optional Redemption.” The Issuer may also redeem up to 40% of the Notes prior to April 26, 2026 using the proceeds of certain equity offerings, as described under “Description of the Notes—Optional Redemption.” Redemption for Taxation Reasons The Notes may be redeemed at the option of the Issuer in whole but not in part, at the principal amount thereof plus accrued and unpaid interest in certain circumstances in which the Issuer would become obligated to pay Additional Amounts. See “Description of the Notes—Redemption for Changes in Taxes.” Change of Control Triggering Event Upon the occurrence of certain change of control events that is accompanied by a decline in the rating of the Notes, each holder of the Notes may require the Issuer to repurchase such holder’s Notes, in whole or in part, at a purchase price equal to 101% of the principal amount thereof plus accrued but unpaid interest to the purchase date, as described under “Description of the Notes—Change of Control Triggering Event.”"
+      }
+    ]
+  },
+  {
+    "name": "Negative Pledge",
+    "response": "### Negative Pledge Clauses or Terms on Limitation on Liens\n\nFuture financing will be limited under the negative pledge through the permitted security interest and priority indebtedness restrictions in the Common Terms Deed[1].\n\nThe Parent Guarantor will not, and will not permit any of its Restricted Subsidiaries to, directly or indirectly, Incur or permit to exist any Lien (other than Permitted Liens) of any nature whatsoever on any of its property or assets (including Equity Interests of a Restricted Subsidiary), whether now owned or hereafter acquired, securing any Indebtedness (the \"Initial Lien\") without effectively providing that the Notes, or in the case of an Initial Lien on any property or assets of any Note Guarantor, the Note Guarantee of such Note Guarantor, shall (together with, if Parent Guarantor shall so determine, any other Indebtedness of Parent Guarantor or any of its Restricted Subsidiaries) be secured equally and ratably with (or prior to) the obligations so secured by a Lien on the same assets for so long as such obligations are so secured[2].\n\nAny such Lien thereby created in favor of the Notes or any such Note Guarantee will be automatically and unconditionally released and discharged upon (i) the release and discharge of each Initial Lien to which it relates, (ii) the repayment in full of the Notes, (iii) in the case of any such Lien in favor of any such Note Guarantee, upon the release, or termination and discharge, of such Note Guarantee in accordance with the terms of the Indenture, (iv) the Issuer's exercise of its Legal Defeasance option or Covenant Defeasance option as described under \"—Defeasance\" or the satisfaction and discharge of the Issuer's obligations under the Indenture or (v) any sale, exchange or transfer to any Person not an Affiliate of the Parent Guarantor and in compliance with the terms of the Indenture of the property or assets secured by such Initial Lien[3].",
+    "citations": [
+      {
+        "id": "1",
+        "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
+        "doc_name": "Perenti - Final Offering Memorandum.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 78.0,
+            "x2": 533.260009765625,
+            "y1": 36.97999954223633,
+            "y2": 226.97999572753906
+          }
+        ],
+        "page_index": [206],
+        "chunk_order": [926],
+        "reference_text": "Future financing will be limited under the negative pledge through the permitted security interest and priority indebtedness restrictions in the Common Terms Deed."
+      },
+      {
+        "id": "2",
+        "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
+        "doc_name": "Perenti - Final Offering Memorandum.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 78.0,
+            "x2": 523.4500122070312,
+            "y1": 349.1300048828125,
+            "y2": 443.1300048828125
+          }
+        ],
+        "page_index": [229],
+        "chunk_order": [1058],
+        "reference_text": "The Parent Guarantor will not, and will not permit any of its Restricted Subsidiaries to, directly or indirectly, Incur or permit to exist any Lien (other than Permitted Liens) of any nature whatsoever on any of its property or assets (including Equity Interests of a Restricted Subsidiary), whether now owned or hereafter acquired, securing any Indebtedness (the \"Initial Lien\") without effectively providing that the Notes, or in the case of an Initial Lien on any property or assets of any Note Guarantor, the Note Guarantee of such Note Guarantor, shall (together with, if Parent Guarantor shall so determine, any other Indebtedness of Parent Guarantor or any of its Restricted Subsidiaries) be secured equally and ratably with (or prior to) the obligations so secured by a Lien on the same assets for so long as such obligations are so secured."
+      },
+      {
+        "id": "3",
+        "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
+        "doc_name": "Perenti - Final Offering Memorandum.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 78.0,
+            "x2": 533.6699829101562,
+            "y1": 456.2300109863281,
+            "y2": 550.22998046875
+          }
+        ],
+        "page_index": [229],
+        "chunk_order": [1059],
+        "reference_text": "Any such Lien thereby created in favor of the Notes or any such Note Guarantee will be automatically and unconditionally released and discharged upon (i) the release and discharge of each Initial Lien to which it relates, (ii) the repayment in full of the Notes, (iii) in the case of any such Lien in favor of any such Note Guarantee, upon the release, or termination and discharge, of such Note Guarantee in accordance with the terms of the Indenture, (iv) the Issuer's exercise of its Legal Defeasance option or Covenant Defeasance option as described under \"—Defeasance\" or the satisfaction and discharge of the Issuer's obligations under the Indenture or (v) any sale, exchange or transfer to any Person not an Affiliate of the Parent Guarantor and in compliance with the terms of the Indenture of the property or assets secured by such Initial Lien."
+      }
+    ]
+  },
+  {
+    "name": "Transactions with Shareholders and Affiliates",
+    "response": "### Transactions with Shareholders and Affiliates\n\nThe Parent Guarantor will not, and will not permit any of its Restricted Subsidiaries to, enter into or permit to exist any transaction (including the purchase, sale, lease or exchange of any property, employee compensation arrangements or the rendering of any service) with, or for the benefit of, any Affiliate of the Parent Guarantor involving aggregate payments or consideration in excess of US$5.0 million (or the U.S. Dollar Equivalent thereof) (an “Affiliate Transaction”) unless the terms of the Affiliate Transaction are no less favorable to the Parent Guarantor or such Restricted Subsidiary than those that could be obtained at the time of the Affiliate Transaction in arm’s-length dealings with a Person who is not an Affiliate[1].\n\nIf such Affiliate Transaction involves an amount in excess of US$20.0 million (or the U.S. Dollar Equivalent thereof), the terms of the Affiliate Transaction are set forth in writing and a majority of the non-employee directors of the Parent Guarantor disinterested with respect to such Affiliate Transaction have determined in good faith that the criteria set forth in clause (1) are satisfied and have approved the relevant Affiliate Transaction as evidenced by a resolution of the Board of Directors of the Parent Guarantor[2].\n\nThe provisions of the preceding paragraph (a) will not prohibit: transactions between or among the Parent Guarantor and/or its Restricted Subsidiaries; any Permitted Investment and any Restricted Payment permitted to be made pursuant to the covenant described under “—Limitation on Restricted Payments”; any employment agreement, indemnification agreement, consulting, service or termination agreement or similar arrangement, or any issuance of securities, or other payments, awards or grants in cash, securities or otherwise pursuant to, or the funding of, employment arrangements, stock options and stock ownership plans, or other employee or compensation benefit plan, in each case approved by the Board of Directors of the Parent Guarantor; the payment of reasonable fees to directors or managers, as applicable, of the Parent Guarantor and its Restricted Subsidiaries who are not employees of the Parent Guarantor or its Restricted Subsidiaries and the payment of customary indemnification to directors, managers, officers and employees of the Parent Guarantor and its Restricted Subsidiaries[3].\n\nAny transaction with a Person (other than an Unrestricted Subsidiary of the Parent Guarantor) which would constitute an Affiliate Transaction solely because the Parent Guarantor or a Restricted Subsidiary owns an equity interest in or otherwise controls such Person; the issuance or sale of any Equity Interests (other than Disqualified Stock) of the Parent Guarantor; any contributions to the common equity capital of the Parent Guarantor; transactions pursuant to, or contemplated by, any agreement in effect on the Issue Date and described in the Offering Memorandum and transactions pursuant to any amendment, modification or extension to such agreement, so long as such amendment, modification or extension, taken as a whole, is not materially more disadvantageous to the holders of the Notes than the original agreement as in effect on the Issue Date; and transactions in which the Parent Guarantor or any Restricted Subsidiary receives a written opinion from an Independent Financial Advisor stating such transaction is fair to the Parent Guarantor or such Restricted Subsidiary from a financial point of view[4].",
+    "citations": [
+      {
+        "id": "1",
+        "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
+        "doc_name": "Perenti - Final Offering Memorandum.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 98.0,
+            "x2": 525.6799926757812,
+            "y1": 401.7799987792969,
+            "y2": 500.5799865722656
+          }
+        ],
+        "page_index": [228],
+        "chunk_order": [1053],
+        "reference_text": "The Parent Guarantor will not, and will not permit any of its Restricted Subsidiaries to, enter into or permit to exist any transaction (including the purchase, sale, lease or exchange of any property, employee compensation arrangements or the rendering of any service) with, or for the benefit of, any Affiliate of the Parent Guarantor involving aggregate payments or consideration in excess of US$5.0 million (or the U.S. Dollar Equivalent thereof) (an “Affiliate Transaction”) unless: (1) the terms of the Affiliate Transaction are no less favorable to the Parent Guarantor or such Restricted Subsidiary than those that could be obtained at the time of the Affiliate Transaction in arm’s-length dealings with a Person who is not an Affiliate;"
+      },
+      {
+        "id": "2",
+        "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
+        "doc_name": "Perenti - Final Offering Memorandum.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 118.0,
+            "x2": 532.97998046875,
+            "y1": 507.3800048828125,
+            "y2": 577.3800048828125
+          }
+        ],
+        "page_index": [228],
+        "chunk_order": [1054],
+        "reference_text": "(2) if such Affiliate Transaction involves an amount in excess of US$20.0 million (or the U.S. Dollar Equivalent thereof), the terms of the Affiliate Transaction are set forth in writing and a majority of the non-employee directors of the Parent Guarantor disinterested with respect to such Affiliate Transaction have determined in good faith that the criteria set forth in clause (1) are satisfied and have approved the relevant Affiliate Transaction as evidenced by a resolution of the Board of Directors of the Parent Guarantor;"
+      },
+      {
+        "id": "3",
+        "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
+        "doc_name": "Perenti - Final Offering Memorandum.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 98.0,
+            "x2": 530.219970703125,
+            "y1": 584.1799926757812,
+            "y2": 733.3800048828125
+          }
+        ],
+        "page_index": [228],
+        "chunk_order": [1055],
+        "reference_text": "(b) The provisions of the preceding paragraph (a) will not prohibit: (1) transactions between or among the Parent Guarantor and/or its Restricted Subsidiaries; (2) any Permitted Investment and any Restricted Payment permitted to be made pursuant to the covenant described under “—Limitation on Restricted Payments”; (3) any employment agreement, indemnification agreement, consulting, service or termination agreement or similar arrangement, or any issuance of securities, or other payments, awards or grants in cash, securities or otherwise pursuant to, or the funding of, employment arrangements, stock options and stock ownership plans, or other employee or compensation benefit plan, in each case approved by the Board of Directors of the Parent Guarantor; (4) the payment of reasonable fees to directors or managers, as applicable, of the Parent Guarantor and its Restricted Subsidiaries who are not employees of the Parent Guarantor or its Restricted Subsidiaries and the payment of customary indemnification to directors, managers, officers and employees of the Parent Guarantor and its Restricted Subsidiaries;"
+      },
+      {
+        "id": "4",
+        "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
+        "doc_name": "Perenti - Final Offering Memorandum.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 118.0,
+            "x2": 531.6599731445312,
+            "y1": 66.52999877929688,
+            "y2": 254.72999572753906
+          }
+        ],
+        "page_index": [229],
+        "chunk_order": [1056],
+        "reference_text": "(5) any transaction with a Person (other than an Unrestricted Subsidiary of the Parent Guarantor) which would constitute an Affiliate Transaction solely because the Parent Guarantor or a Restricted Subsidiary owns an equity interest in or otherwise controls such Person; (6) the issuance or sale of any Equity Interests (other than Disqualified Stock) of the Parent Guarantor; (7) any contributions to the common equity capital of the Parent Guarantor; (8) transactions pursuant to, or contemplated by, any agreement in effect on the Issue Date and described in the Offering Memorandum and transactions pursuant to any amendment, modification or extension to such agreement, so long as such amendment, modification or extension, taken as a whole, is not materially more disadvantageous to the holders of the Notes than the original agreement as in effect on the Issue Date; and (9) transactions in which the Parent Guarantor or any Restricted Subsidiary receives a written opinion from an Independent Financial Advisor stating such transaction is fair to the Parent Guarantor or such Restricted Subsidiary from a financial point of view."
+      }
+    ]
+  },
+  {
+    "name": "Use of proceeds",
+    "response": "### Use of Proceeds\n\nWe estimate that the net proceeds from this offering will be approximately US$339.4 million after deducting estimated Initial Purchasers' discounts and commissions and estimated offering expenses payable by us. We intend to use the net proceeds of the offering (i) to partially redeem, in an aggregate principal amount of US$230.0 million, the outstanding 2025 Notes and (ii) to partially repay amounts drawn which are currently outstanding under the Syndicated Facility[1].\n\n### Relationships\n\nThe Initial Purchasers and their affiliates have engaged in, and may in the future engage in, investment banking and other commercial dealings in the ordinary course of business with us or our affiliates, including in a lending, financing, advisory or underwriting capacity. They have received, or may in the future receive, customary fees and commissions for these transactions. Further, we anticipate that we will use part of the net proceeds of this offering to partially repay amounts drawn that are currently outstanding under the Syndicated Facility. Affiliates of the Initial Purchasers are lenders under our Syndicated Facility, and as such may receive their pro rata portion of such repayment with the net proceeds of this offering[2].",
+    "citations": [
+      {
+        "id": "1",
+        "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
+        "doc_name": "Perenti - Final Offering Memorandum.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 78.0,
+            "x2": 531.58,
+            "y1": 60.98,
+            "y2": 142.98
+          }
+        ],
+        "page_index": [85],
+        "chunk_order": [342],
+        "reference_text": "We estimate that the net proceeds from this offering will be approximately US$339.4 million after deducting estimated Initial Purchasers’ discounts and commissions and estimated offering expenses payable by us. We intend to use the net proceeds of the offering (i) to partially redeem, in an aggregate principal amount of US$230.0 million, the outstanding 2025 Notes and (ii) to partially repay amounts drawn which are currently outstanding under the Syndicated Facility."
+      },
+      {
+        "id": "2",
+        "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
+        "doc_name": "Perenti - Final Offering Memorandum.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 78.0,
+            "x2": 532.39,
+            "y1": 179.89,
+            "y2": 273.88
+          }
+        ],
+        "page_index": [279],
+        "chunk_order": [1359],
+        "reference_text": "The Initial Purchasers and their affiliates have engaged in, and may in the future engage in, investment banking and other commercial dealings in the ordinary course of business with us or our affiliates, including in a lending, financing, advisory or underwriting capacity. They have received, or may in the future receive, customary fees and commissions for these transactions. Further, we anticipate that we will use part of the net proceeds of this offering to partially repay amounts drawn that are currently outstanding under the Syndicated Facility. See “Use of Proceeds.” Affiliates of the Initial Purchasers are lenders under our Syndicated Facility, and as such may receive their pro rata portion of such repayment with the net proceeds of this offering. See “Description of Other Financing Arrangements.”"
+      }
+    ]
+  },
+  {
+    "name": "Risk factors",
+    "response": "### Financial Risk Management\n\nThis note explains the Group’s exposure to financial risks and how these risks could affect the Group’s future financial performance. Current year profit and loss information has been included where relevant to add further context. The Group’s key management personnel report to the Audit and Risk Committee and Board regularly on the progress and objectives of the risks and the associated corporate governance policy objectives. The Group’s financial risk management is carried out in accordance with the Audit and Risk Committee endorsed Group Treasury Standard. The Group Treasury function identifies, evaluates and hedges financial risks in close co-operation with the Group’s operating divisions. The Treasury Standard covers specific financial risk areas including foreign exchange risk, interest rate risk, credit risk, liquidity risk, use of derivative financial instruments and investment of excess liquidity amongst other things [1].\n\n### Market Risk\n\nIn respect of other monetary assets and liabilities held in currencies other than the AUD, the Group ensures that the net exposure is kept to an acceptable level by matching foreign denominated financial assets with matching financial liabilities and vice versa [2].\n\n### Foreign Exchange Risk\n\nThe Group manages foreign exchange risk by ensuring that the net exposure is kept to an acceptable level by matching foreign denominated financial assets with matching financial liabilities and vice versa [3].\n\n### Risk Factors\n\nInvesting in the Notes offered by this Offering Memorandum involves risk. You should carefully consider all of the information in this Offering Memorandum prior to investing in the Notes. There are several risks related to our business that are described under “Risk Factors” and elsewhere in this Offering Memorandum [4].\n\n### Financial Risk Management\n\nThe **Group’s exposure to financial risks** and their potential impact on future financial performance are detailed in this section. The document includes current year profit and loss information to provide further context. Key management personnel regularly report to the Audit and Risk Committee and Board on the progress and objectives of risk management and corporate governance policy objectives. Financial risk management is conducted by a central treasury department under policies approved by the Board of directors. The treasury department identifies, evaluates, and hedges financial risks in close cooperation with the Group’s operating units. The Board provides written principles for overall risk management and policies covering specific areas such as **foreign exchange risk**, **interest rate risk**, **credit risk**, use of **derivative financial instruments** and **non-derivative financial instruments**, and investment of excess liquidity [5].\n\n### Market Risk\n\nIn respect of other monetary assets and liabilities held in currencies other than the AUD, the Group ensures that the net exposure is kept to an acceptable level by matching foreign denominated financial assets with matching financial liabilities and vice versa [6].\n\n### Foreign Exchange Risk\n\nThe document outlines the Group’s approach to managing foreign exchange risk, which involves ensuring that net exposure is kept to an acceptable level by matching foreign denominated financial assets with corresponding financial liabilities [7].",
+    "citations": [
+      {
+        "id": "1",
+        "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
+        "doc_name": "Perenti - Final Offering Memorandum.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 84.33000183105469,
+            "x2": 539.6400146484375,
+            "y1": 99.55999755859375,
+            "y2": 182.36000061035156
+          }
+        ],
+        "page_index": [353],
+        "chunk_order": [1745],
+        "reference_text": "This note explains the Group’s exposure to ﬁnancial risks and how these risks could affect the Group’s future ﬁnancial performance. Current year proﬁt and loss information has been included where relevant to add further context. The Group’s key management personnel report to the Audit and Risk Committee and Board regularly on the progress and objectives of the risks and the associated corporate governance policy objectives. The Group’s ﬁnancial risk management is carried out in accordance with the Audit and Risk Committee endorsed Group Treasury Standard. The Group Treasury function identiﬁes, evaluates and hedges ﬁnancial risks in close co-operation with the Group’s operating divisions. The Treasury Standard covers speciﬁc ﬁnancial risk areas including foreign exchange risk, interest rate risk, credit risk, liquidity risk, use of derivative ﬁnancial instruments and investment of excess liquidity amongst other things."
+      },
+      {
+        "id": "2",
+        "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
+        "doc_name": "Perenti - Final Offering Memorandum.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 105.19000244140625,
+            "x2": 527.280029296875,
+            "y1": 202.22999572753906,
+            "y2": 226.8300018310547
+          }
+        ],
+        "page_index": [353],
+        "chunk_order": [1747],
+        "reference_text": "In respect of other monetary assets and liabilities held in currencies other than the AUD, the Group ensures that the net exposure is kept to an acceptable level by matching foreign denominated ﬁnancial assets with matching ﬁnancial liabilities and vice versa."
+      },
+      {
+        "id": "3",
+        "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
+        "doc_name": "Perenti - Final Offering Memorandum.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 105.19000244140625,
+            "x2": 195.72999572753906,
+            "y1": 235.5800018310547,
+            "y2": 243.1699981689453
+          }
+        ],
+        "page_index": [353],
+        "chunk_order": [1748],
+        "reference_text": "(i) Foreign exchange risk"
+      },
+      {
+        "id": "4",
+        "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
+        "doc_name": "Perenti - Final Offering Memorandum.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 78.0,
+            "x2": 523.3300170898438,
+            "y1": 528.989990234375,
+            "y2": 562.989990234375
+          }
+        ],
+        "page_index": [42],
+        "chunk_order": [196],
+        "reference_text": "Investing in the Notes offered by this Offering Memorandum involves risk. You should carefully consider all of the information in this Offering Memorandum prior to investing in the Notes. There are several risks related to our business that are described under “Risk Factors” and elsewhere in this Offering Memorandum."
+      },
+      {
+        "id": "5",
+        "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
+        "doc_name": "Perenti - Final Offering Memorandum.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 71.29000091552734,
+            "x2": 526.5999755859375,
+            "y1": 99.55999755859375,
+            "y2": 190.86000061035156
+          }
+        ],
+        "page_index": [422],
+        "chunk_order": [2185],
+        "reference_text": "This note explains the Group’s exposure to ﬁnancial risks and how these risks could affect the Group’s future ﬁnancial performance. Current year proﬁt and loss information has been included where relevant to add further context. The Group’s key management personnel report to the Audit and Risk Committee and Board regularly on the progress and objectives of the risks and the associated corporate governance policy objectives. The Group’s ﬁnancial risk management is carried out by a central treasury department under policies approved by the Board of directors. Group treasury identiﬁes, evaluates and hedges ﬁnancial risks in close co-operation with the Group’s operating units. The Board provides written principles for overall risk management, as well as policies covering speciﬁc areas, such as foreign exchange risk, interest rate risk, credit risk, use of derivative ﬁnancial instruments and non-derivative ﬁnancial instruments, and investment of excess liquidity."
+      },
+      {
+        "id": "6",
+        "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
+        "doc_name": "Perenti - Final Offering Memorandum.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 92.1500015258789,
+            "x2": 514.25,
+            "y1": 210.74000549316406,
+            "y2": 235.33999633789062
+          }
+        ],
+        "page_index": [422],
+        "chunk_order": [2187],
+        "reference_text": "In respect of other monetary assets and liabilities held in currencies other than the AUD, the Group ensures that the net exposure is kept to an acceptable level by matching foreign denominated ﬁnancial assets with matching ﬁnancial liabilities and vice versa."
+      },
+      {
+        "id": "7",
+        "doc_id": "ABFS2xhpqkP3QewH9npvXL0M8ZWPnTS",
+        "doc_name": "Perenti - Final Offering Memorandum.pdf",
+        "chunk_bbox": [
+          {
+            "x1": 92.1500015258789,
+            "x2": 182.69000244140625,
+            "y1": 249.3000030517578,
+            "y2": 256.8900146484375
+          }
+        ],
+        "page_index": [422],
+        "chunk_order": [2188],
+        "reference_text": "(i) Foreign exchange risk"
+      }
+    ]
+  },
+  {
+    "name": "Covenants",
+    "response": "N/A",
+    "citations": []
+  },
+  {
+    "response": "N/A",
+    "citations": []
+  },
+  {
+    "name": "The Offering",
+    "response": "N/A",
+    "citations": []
   }
 ]

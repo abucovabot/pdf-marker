@@ -167,13 +167,13 @@ const HighlightExample: React.FC<HighlightExampleProps> = ({ fileUrl }) => {
 
     const renderHighlights = (props: RenderHighlightsProps) => (
         <div>
-            {notes.map((note) => (
-                <React.Fragment key={note.id}>
+            {notes.map((note, noteIdx) => (
+                <React.Fragment key={`${note.id}-${noteIdx}`}>
                     {note.highlightAreas
                         .filter((area) => area.pageIndex === props.pageIndex)
                         .map((area, idx) => (
                             <div
-                                key={idx}
+                                key={`${note.id}-${noteIdx}-${idx}`}
                                 style={getHighlightCssProperties(area, props.rotation)}
                                 onClick={() => jumpToNote(note)}
                             />
